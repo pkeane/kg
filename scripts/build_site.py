@@ -47,6 +47,7 @@ header { border-bottom: 2px solid #2a2520; margin-bottom: 1.5em; padding-bottom:
 header a { color: var(--fg); text-decoration: none; }
 header nav { font-size: .9em; color: var(--muted); margin-top: .3em; }
 header nav a { margin-right: .8em; }
+header nav .nav-sep { margin-right: .8em; color: var(--border); }
 h1 { margin: 0; font-size: 1.9em; letter-spacing: -.02em; }
 h2 { margin-top: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: .2em; font-size: 1.25em; }
 h3 { font-size: 1.05em; color: var(--muted); margin-top: 1.4em; }
@@ -79,6 +80,17 @@ TYPE_LABELS = {
     "event": "Events",
 }
 TYPE_ORDER = ["thinker", "school", "concept", "topic", "event"]
+
+
+def top_nav(prefix=""):
+    parts = [
+        f'<a href="{prefix}about/">About</a>',
+        f'<a href="{prefix}changelog/">Change Log</a>',
+        '<span class="nav-sep">|</span>',
+    ]
+    parts += [f'<a href="{prefix}index.html#{t}">{TYPE_LABELS[t]}</a>' for t in TYPE_ORDER]
+    parts.append(f'<a href="{prefix}tags/">Tags</a>')
+    return "<nav>" + "".join(parts) + "</nav>"
 
 
 def load_docs():
@@ -418,7 +430,7 @@ if (tag) {
 <header>
 <h1>Knowledge Graph</h1>
 <div class="meta">Political, social, economic, and philosophical thought, with branches into the arts and non-Western traditions.</div>
-<nav><a href="about/">About</a><a href="tags/">Tags</a><a href="changelog/">Change Log</a></nav>
+{top_nav()}
 </header>
 <div class="front-page">
 <div class="front-controls">
@@ -460,7 +472,7 @@ def render_tags(docs):
 </head><body>
 <header>
 <a href="../index.html"><strong>Knowledge Graph</strong></a>
-<nav><a href="../about/">About</a><a href="../tags/">Tags</a><a href="../changelog/">Change Log</a></nav>
+{top_nav("../")}
 </header>
 <h1>Tags</h1>
 <div class="meta">{len(counts)} tags across {len(docs)} entries. Click a tag to filter the index.</div>
@@ -534,7 +546,7 @@ def render_changelog(docs):
 </head><body>
 <header>
 <a href="../index.html"><strong>Knowledge Graph</strong></a>
-<nav><a href="../about/">About</a><a href="../tags/">Tags</a><a href="../changelog/">Change Log</a></nav>
+{top_nav("../")}
 </header>
 <h1>Change Log</h1>
 <div class="meta">Entries added to the graph, most recent first. {len(entries)} additions across {len(groups)} commits.</div>
