@@ -4,8 +4,8 @@ type: school
 name: The Frankfurt School
 era: 20th century
 tags: [critical-theory, marxism, philosophy, sociology]
-related: [marxism, marx-karl, hegel-gwf, gramsci-antonio, nietzsche-friedrich, fromm-erich, marcuse-herbert, adorno-theodor, habermas-jurgen]
-influenced_by: [marx-karl, hegel-gwf, freud-sigmund, nietzsche-friedrich]
+related: [marxism, marx-karl, hegel-gwf, gramsci-antonio, nietzsche-friedrich, fromm-erich, marcuse-herbert, adorno-theodor, habermas-jurgen, rockhill-gabriel, benjamin-walter, western-marxism, new-left, lukacs-gyorgy, jacoby-russell]
+influenced_by: [marx-karl, hegel-gwf, freud-sigmund, nietzsche-friedrich, lukacs-gyorgy]
 influenced: [foucault-michel, critical-theory]
 ---
 

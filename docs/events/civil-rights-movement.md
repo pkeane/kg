@@ -4,7 +4,7 @@ type: event
 name: Civil Rights Movement
 era: 1954–1968 (classic phase)
 tags: [civil-rights, race, american-thought, nonviolence, history]
-related: [king-mlk, thurman-howard, murray-pauli, du-bois-web, baldwin-james, stevenson-bryan, forman-james-jr, nonviolence, beloved-community, racism, mass-incarceration]
+related: [king-mlk, thurman-howard, murray-pauli, du-bois-web, baldwin-james, stevenson-bryan, forman-james-jr, nonviolence, beloved-community, racism, mass-incarceration, new-left]
 influenced_by: [du-bois-web, thurman-howard]
 influenced: []
 ---

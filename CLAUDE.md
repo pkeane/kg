@@ -4,12 +4,13 @@ Personal markdown knowledge graph of ~200–300 years of Western political, soci
 
 ## Layout
 
-- `docs/thinkers/` `docs/schools/` `docs/concepts/` `docs/events/` — entries, ~50–300 words, plain markdown with YAML frontmatter
+- `docs/thinkers/` `docs/schools/` `docs/concepts/` `docs/events/` `docs/topics/` — entries, plain markdown with YAML frontmatter
+  - **thinkers / schools / concepts / events** are short encyclopedic entries (~50–400 words) with an established structure (intro prose, Key themes / Key ideas, Key works, optional Secondary sources). These are the bulk of the graph.
+  - **topics** are longer, exploratory pages organized as **annotated bibliographies**. Use them for areas that are contested, still being excavated, or that cut across multiple thinkers in ways no single entry can carry (e.g. `art-and-political-commitment`, `faith-and-the-modern-world`, `western-marxism`). Format: short orienting intro (2–4 paragraphs) + `## Annotated bibliography` organized by sub-section, with bolded author + italic title + a sentence or two of commentary per item. See `docs/topics/` for examples.
 - `docs/_template.md` — frontmatter template
 - `scripts/build_site.py` — static site generator (markdown + pyyaml). Renders to `site/`. Wikilinks pointing at non-existent ids render as dashed red — they're intentional TODOs, not bugs.
 - `scripts/validate_links.py`, `scripts/list_orphans.py` — link checkers
 - `scripts/publish.sh` — rebuild + force-push `site/` subtree to `gh-pages` and push `main`
-- `values-review.md` / `values-review.html` — analysis of who maps to Peter's values + suggested additions
 - `venv/` — python3 venv (PEP 668 requires it on this Mac)
 
 ## Frontmatter
@@ -17,7 +18,7 @@ Personal markdown knowledge graph of ~200–300 years of Western political, soci
 ```yaml
 ---
 id: kebab-case-matches-filename
-type: thinker | school | concept | event
+type: thinker | school | concept | event | topic
 name: Display Name
 born: 1900            # or omit
 died: 1980            # omit if living

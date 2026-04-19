@@ -7,8 +7,8 @@ died: 1910
 era: 19th–20th century
 nationality: American
 tags: [pragmatism, psychology, religion, philosophy, american-thought]
-related: [dewey-john, emerson-rw, rorty-richard]
-influenced_by: [emerson-rw]
+related: [dewey-john, emerson-rw, rorty-richard, swedenborg-emanuel]
+influenced_by: [emerson-rw, swedenborg-emanuel]
 influenced: [dewey-john, rorty-richard]
 ---
 

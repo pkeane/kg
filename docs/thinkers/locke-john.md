@@ -7,7 +7,7 @@ died: 1704
 era: 17th century
 nationality: English
 tags: [liberalism, empiricism, social-contract, natural-rights, political-theory]
-related: [hobbes-thomas, smith-adam, social-contract, classical-liberalism]
+related: [hobbes-thomas, smith-adam, social-contract, classical-liberalism, milton-john]
 influenced_by: [hobbes-thomas]
 influenced: [smith-adam, paine-thomas, jefferson-thomas, classical-liberalism]
 ---

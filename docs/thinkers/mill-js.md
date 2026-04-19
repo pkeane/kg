@@ -7,7 +7,7 @@ died: 1873
 era: 19th century
 nationality: British
 tags: [liberalism, utilitarianism, ethics, political-economy, feminism]
-related: [bentham-jeremy, taylor-mill-harriet, tocqueville-alexis]
+related: [bentham-jeremy, taylor-mill-harriet, tocqueville-alexis, arnold-matthew]
 influenced_by: [bentham-jeremy, tocqueville-alexis, coleridge-st]
 influenced: [rawls-john, berlin-isaiah, russell-bertrand]
 ---

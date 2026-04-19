@@ -7,8 +7,8 @@ died: 1882
 era: 19th century
 nationality: American
 tags: [transcendentalism, american-thought, philosophy, literature]
-related: [thoreau-henry-david, whitman-walt, nietzsche-friedrich]
-influenced_by: []
+related: [thoreau-henry-david, whitman-walt, nietzsche-friedrich, swedenborg-emanuel, arnold-matthew]
+influenced_by: [swedenborg-emanuel]
 influenced: [thoreau-henry-david, whitman-walt, nietzsche-friedrich, james-william]
 ---
 

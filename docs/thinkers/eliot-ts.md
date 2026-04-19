@@ -9,7 +9,7 @@ nationality: American-British
 tags: [literature, poetry, modernism, criticism, christianity]
 related: [auden-wh, o-connor-flannery, joyce-james, woolf-virginia, pound-ezra, stevens-wallace, williams-wc, moore-marianne, lowell-robert, hopkins-gerard-manley]
 influenced_by: [pound-ezra]
-influenced: [auden-wh, o-connor-flannery]
+influenced: [auden-wh, o-connor-flannery, leavis-fr]
 ---
 
 # T. S. Eliot

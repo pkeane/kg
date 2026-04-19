@@ -9,7 +9,7 @@ nationality: Chinese
 tags: [marxism, communism, revolution, chinese-thought, political-theory]
 related: [marx-karl, lenin-vi, marxism, gramsci-antonio]
 influenced_by: [marx-karl, lenin-vi]
-influenced: []
+influenced: [badiou-alain]
 ---
 
 # Mao Zedong

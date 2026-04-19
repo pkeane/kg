@@ -4,7 +4,7 @@ type: school
 name: Critical Theory
 era: 20th century–present
 tags: [critical-theory, marxism, philosophy]
-related: [frankfurt-school, marxism, foucault-michel, gramsci-antonio]
+related: [frankfurt-school, marxism, foucault-michel, gramsci-antonio, rockhill-gabriel]
 influenced_by: [marx-karl, hegel-gwf, frankfurt-school]
 influenced: []
 ---

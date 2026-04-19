@@ -7,7 +7,7 @@ died: 1679
 era: 17th century
 nationality: English
 tags: [political-theory, social-contract, materialism]
-related: [locke-john, rousseau-jj, social-contract]
+related: [locke-john, rousseau-jj, social-contract, milton-john]
 influenced_by: []
 influenced: [locke-john, rousseau-jj, bentham-jeremy, schmitt-carl]
 ---

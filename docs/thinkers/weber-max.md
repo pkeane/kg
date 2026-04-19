@@ -9,7 +9,7 @@ nationality: German
 tags: [sociology, political-theory, religion, christianity, science, capitalism]
 related: [marx-karl, nietzsche-friedrich, durkheim-emile, ibn-khaldun]
 influenced_by: [marx-karl, nietzsche-friedrich, kant-immanuel]
-influenced: [frankfurt-school, habermas-jurgen]
+influenced: [frankfurt-school, habermas-jurgen, lukacs-gyorgy]
 ---
 
 # Max Weber

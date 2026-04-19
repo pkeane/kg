@@ -7,9 +7,9 @@ died: 1809
 era: 18th century
 nationality: English / American
 tags: [radicalism, republicanism, natural-rights, revolution]
-related: [burke-edmund, french-revolution, locke-john]
+related: [burke-edmund, french-revolution, locke-john, blake-william]
 influenced_by: [locke-john]
-influenced: []
+influenced: [blake-william]
 ---
 
 # Thomas Paine

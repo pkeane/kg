@@ -4,7 +4,7 @@ type: concept
 name: Ideology
 era: 18th century–present
 tags: [critical-theory, marxism, political-theory, epistemology]
-related: [marx-karl, marxism, gramsci-antonio, critical-theory]
+related: [marx-karl, marxism, gramsci-antonio, critical-theory, althusser-louis]
 influenced_by: [marx-karl]
 influenced: []
 ---
