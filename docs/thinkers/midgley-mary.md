@@ -7,7 +7,7 @@ died: 2018
 era: 20th–21st century
 nationality: British
 tags: [philosophy, ethics, moral-philosophy, animals]
-related: [murdoch-iris, williams-bernard, macintyre-alasdair, nussbaum-martha]
+related: [murdoch-iris, williams-bernard, macintyre-alasdair, nussbaum-martha, popper-karl, disenchantment-and-re-enchantment]
 influenced_by: []
 influenced: []
 ---

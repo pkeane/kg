@@ -7,7 +7,7 @@ died: 1920
 era: 19th–20th century
 nationality: German
 tags: [sociology, political-theory, religion, christianity, science, capitalism]
-related: [marx-karl, nietzsche-friedrich, durkheim-emile, ibn-khaldun]
+related: [marx-karl, nietzsche-friedrich, durkheim-emile, ibn-khaldun, taylor-charles, disenchantment-and-re-enchantment]
 influenced_by: [marx-karl, nietzsche-friedrich, kant-immanuel]
 influenced: [frankfurt-school, habermas-jurgen, lukacs-gyorgy]
 ---

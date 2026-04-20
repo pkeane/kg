@@ -7,7 +7,7 @@ died: 1889
 era: 19th century
 nationality: English
 tags: [literature, poetry, religion, christianity]
-related: [heaney-seamus, eliot-ts]
+related: [heaney-seamus, eliot-ts, disenchantment-and-re-enchantment]
 influenced_by: []
 influenced: [heaney-seamus, eliot-ts]
 ---

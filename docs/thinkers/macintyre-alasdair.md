@@ -6,7 +6,7 @@ born: 1929
 era: 20th–21st century
 nationality: Scottish-American
 tags: [virtue-ethics, communitarianism, conservatism, critique-of-liberalism, ethics]
-related: [sandel-michael, rawls-john, confucius, murdoch-iris]
+related: [sandel-michael, rawls-john, confucius, murdoch-iris, taylor-charles, disenchantment-and-re-enchantment]
 influenced_by: [hegel-gwf, marx-karl]
 influenced: [sandel-michael]
 ---
