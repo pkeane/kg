@@ -11,7 +11,7 @@ influenced: []
 
 # Justice as Fairness
 
-The central question of political philosophy is why a self-interested individual should accept the laws and institutions that bind her. The tradition gathered here gives one answer. Self-interest is the starting premise — every serious political thinker since Hobbes has taken it as given — and a code of laws works because, and to the extent that, obeying it serves each person's interest better than breaking it does. A functioning political order, a functioning capitalism, a functioning welfare state: all rest on rules designed so that compliance is rational for most people most of the time.
+The question at the center of this tradition: how do you build a just society given the central and immutable fact of self-interest? Self-interest is the starting premise — every serious political thinker since Hobbes has taken it as given — and a just society is not one that pretends otherwise but one whose laws and institutions are designed so that serving one's own interest generally also means staying within them. A functioning political order, a functioning capitalism, a functioning welfare state: all rest on rules built so that compliance is rational for most people most of the time.
 
 But which laws? Which regulations? Fairness is the standard for designing them — not as a metaphysical foundation but as an aspiration. No set of rules is perfectly fair; every regulation produces winners and losers; trade-offs are unavoidable. What a functioning system needs is law that aims at fairness and can be revised when it misses. Democracy is the mechanism that allows the revision — imperfect, often slow, but the only self-correcting arrangement that has been made to work at scale.
 
