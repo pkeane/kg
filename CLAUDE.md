@@ -39,6 +39,27 @@ influenced: [...]
 - ids are kebab-case `lastname-firstname` for thinkers (e.g. `du-bois-web`, `forman-james-jr`).
 - No emojis. Serious-prose register; the site uses Georgia serif on a cream background.
 
+## "What would [Name] say?" sections
+
+Optional H2 section at the end of a thinker page (after `## Key works` and `## Secondary sources`) that applies the thinker's framework to a specific contemporary question. Use sparingly — only where the thinker's framework genuinely illuminates a modern question that isn't obvious from the core entry. Format:
+
+```markdown
+## What would [Name] say?
+
+*Synthesized from the published work, not direct quotation.*
+
+### About [the specific question]
+
+2–3 tight paragraphs...
+```
+
+Conventions:
+- Always include the italic disclaimer line under the H2 — makes the voice explicit.
+- Use hedged framings ("would likely argue," "his work suggests"), never fabricated quotes.
+- One H3 per question. A single thinker page can accumulate multiple questions over time.
+- Compressed: 2–3 paragraphs per question, not an essay. Link to other KG entries via `[[id]]`.
+- These sections are applied/speculative, distinct from the encyclopedic register of the rest of the page — the placement at the end and the disclaimer keep the two genres separate.
+
 ## Workflow
 
 ```bash
