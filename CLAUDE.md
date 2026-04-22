@@ -47,6 +47,8 @@ influenced: [...]
 ./scripts/publish.sh                         # commit, push main, deploy gh-pages
 ```
 
+**ALWAYS publish.** After any edit to this project — new entry, fix, script change, anything — end with `./scripts/publish.sh`. Don't ask, don't stop at "built cleanly," don't leave it for Peter to run. The whole point of editing is to get changes live at pkeane.github.io/kg/. The only exception is an explicit in-progress/WIP state where Peter has said to hold off.
+
 ## Hosting
 
 - Repo: https://github.com/pkeane/kg (public; renamed from `knowledge_graph` in April 2026, GitHub redirects the old URL)
