@@ -59,6 +59,7 @@ Conventions:
 - One H3 per question. A single thinker page can accumulate multiple questions over time.
 - Compressed: 2–3 paragraphs per question, not an essay. Link to other KG entries via `[[id]]`.
 - These sections are applied/speculative, distinct from the encyclopedic register of the rest of the page — the placement at the end and the disclaimer keep the two genres separate.
+- The change log (`site/changelog/`) auto-detects new `### About …` headings under `## What would [Name] say?` and surfaces them as "Applied synthesis" entries. No manual logging required — just add the H3 and commit.
 
 ## Workflow
 

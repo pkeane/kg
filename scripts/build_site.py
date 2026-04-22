@@ -516,20 +516,50 @@ def render_changelog(docs):
     for doc_id, date in earliest.items():
         name = docs[doc_id]["meta"].get("name", doc_id)
         doc_type = type_labels.get(docs[doc_id]["meta"].get("type", ""), "")
-        entries.append((date, doc_id, name, doc_type))
+        entries.append(("doc", date, doc_id, name, doc_type))
+
+    # Also surface "What would X say?" H3 additions to thinker pages.
+    # These are applied-synthesis sections added after the page already existed.
+    for doc_id, doc in docs.items():
+        if doc["meta"].get("type") != "thinker":
+            continue
+        body = doc.get("body", "")
+        sect = re.search(r"^## What would [^\n]*\n(.*?)(?=^## |\Z)", body, re.MULTILINE | re.DOTALL)
+        if not sect:
+            continue
+        file_path = f"docs/thinkers/{doc_id}.md"
+        doc_name = doc["meta"].get("name", doc_id)
+        for h3_match in re.finditer(r"^### (.+?)\s*$", sect.group(1), re.MULTILINE):
+            h3_text = h3_match.group(1).strip()
+            h3_needle = f"### {h3_text}"
+            r = subprocess.run(
+                ["git", "log", "-S", h3_needle, "--format=%ai", "--reverse", "--", file_path],
+                capture_output=True, text=True, cwd=ROOT
+            )
+            dates_out = [l.strip() for l in r.stdout.splitlines() if l.strip()]
+            if dates_out:
+                entries.append(("applied", dates_out[0], doc_id, doc_name, h3_text))
+
     from itertools import groupby
+    entries.sort(key=lambda x: x[1])
     groups = []
-    for dt, items in groupby(entries, key=lambda x: x[0]):
-        items = list(items)
-        groups.append((dt, items))
+    for dt, items in groupby(entries, key=lambda x: x[1]):
+        groups.append((dt, list(items)))
     groups.sort(key=lambda g: g[0], reverse=True)
     rows = []
     for dt, items in groups:
         date_str = dt.split(" ")[0] + " " + dt.split(" ")[1][:5]
+        docs_here = sorted([it for it in items if it[0] == "doc"], key=lambda x: x[3])
+        applied_here = sorted([it for it in items if it[0] == "applied"], key=lambda x: (x[3], x[4]))
         parts = []
-        for _, doc_id, name, doc_type in sorted(items, key=lambda x: x[2]):
+        for _, _, doc_id, name, doc_type in docs_here:
             label = f' <span style="color:var(--muted);font-size:.85em">({doc_type})</span>' if doc_type != "Thinker" else ""
             parts.append(f'<a href="../{html.escape(doc_id)}.html">{html.escape(name)}</a>{label}')
+        for _, _, doc_id, name, h3_text in applied_here:
+            parts.append(
+                f'<a href="../{html.escape(doc_id)}.html">{html.escape(name)}</a>'
+                f' <span style="color:var(--muted);font-size:.85em">— <em>{html.escape(h3_text)}</em> (Applied synthesis)</span>'
+            )
         names = ", ".join(parts)
         rows.append(f"<tr><td>{html.escape(date_str)}</td><td>{names}</td></tr>")
     extra_css = (
