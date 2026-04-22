@@ -7,7 +7,7 @@ died: 1994
 era: 20th century
 nationality: Austrian-British
 tags: [liberalism, philosophy, science, political-theory]
-related: [hayek-fa, marx-karl, hegel-gwf, midgley-mary, disenchantment-and-re-enchantment, niebuhr-reinhold, justice-as-fairness]
+related: [hayek-fa, marx-karl, hegel-gwf, midgley-mary, disenchantment-and-re-enchantment, niebuhr-reinhold, justice-as-fairness, acemoglu-daron]
 influenced_by: [kant-immanuel]
 influenced: []
 ---

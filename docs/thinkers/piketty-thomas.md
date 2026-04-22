@@ -6,7 +6,7 @@ born: 1971
 era: 20th–21st century
 nationality: French
 tags: [economics, political-economy, inequality, history]
-related: [marx-karl, harvey-david, sen-amartya, giridharadas-anand]
+related: [marx-karl, harvey-david, sen-amartya, giridharadas-anand, acemoglu-daron]
 influenced_by: []
 influenced: []
 ---

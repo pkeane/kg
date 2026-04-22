@@ -6,7 +6,7 @@ born: 1971
 era: 21st century
 nationality: American
 tags: [political-science, political-economy, inequality, social-democracy, democracy]
-related: [pierson-paul, reich-robert, piketty-thomas, putnam-robert, inequality, welfare-state]
+related: [pierson-paul, reich-robert, piketty-thomas, putnam-robert, inequality, welfare-state, acemoglu-daron]
 influenced_by: []
 influenced: []
 ---
