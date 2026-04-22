@@ -7,7 +7,7 @@ died: 2002
 era: 20th century
 nationality: American
 tags: [libertarianism, liberalism, political-theory, natural-rights]
-related: [rawls-john, hayek-fa, locke-john]
+related: [rawls-john, hayek-fa, locke-john, cohen-ga, justice-as-fairness]
 influenced_by: [locke-john, hayek-fa]
 influenced: []
 ---
