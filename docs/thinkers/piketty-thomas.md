@@ -19,6 +19,14 @@ The empirical core of *Capital* is the documentation of a U-shaped curve: inequa
 
 His follow-up *Capital and Ideology* (2019) extended the analysis across history and geography — from Indian caste inequality through ternary pre-modern orders through ownership-society transitions — and offered a more overtly political program: progressive wealth taxation, co-determination, and participatory socialism as the 21st-century sequel to the 20th-century welfare state. *A Brief History of Equality* (2021) is the short summary of his case. He is the central contemporary figure in the empirical study of inequality, and a major reason the topic has reentered mainstream political economy after decades of neglect.
 
+## Why the data matters
+
+Piketty's theoretical framework and policy prescriptions are heavily debated; his empirical record is nearly uncontested. The asymmetry explains much of his significance. Before the World Inequality Database, long-run inequality data was fragmentary — economists had good cross-sectional snapshots but very limited longitudinal record. Piketty's methodological breakthrough, with Saez, Zucman, Atkinson and others, was to read tax records — income tax returns, estate records, probate inventories — as historical archives rather than as administrative clutter. The resulting dataset, going back in some cases to the late 18th century, moved inequality from a theoretical dispute into an empirical one.
+
+The consequences were considerable. Simon Kuznets's influential 1950s "Kuznets curve" had held that inequality rises in early industrialization and falls as economies mature — a reassuring postwar trajectory. Piketty's data showed Kuznets was wrong. The mid-20th-century compression of inequality was not an automatic feature of development but a historical anomaly produced by the World Wars, the Depression, and deliberate political choice (progressive taxation, unionization, welfare-state building). When those conditions faded after 1980, inequality resumed its long-run trajectory. The famous *r > g* was discovered in the data before it was theorized.
+
+That asymmetry is also why Piketty's work reaches across the ideological spectrum. Right-leaning economists who reject the global wealth tax have still had to engage on his empirical terrain. Methodological disputes (Chris Giles in the *Financial Times* in 2014, small corrections in subsequent editions) have produced refinements, not reversals. The empirical achievement is the main thing; the framework and the policy prescriptions are the contested superstructure built on top.
+
 ## Key ideas
 
 - *r > g*: when capital returns exceed growth, wealth concentrates
