@@ -33,3 +33,15 @@ His follow-up *Capital and Ideology* (2019) extended the analysis across history
 - *Capital in the Twenty-First Century* (2013/2014)
 - *Capital and Ideology* (2019)
 - *A Brief History of Equality* (2021)
+
+## What would Thomas Piketty say?
+
+*Synthesized from the published work, not direct quotation.*
+
+### About the American shift from pensions to 401(k)s
+
+Piketty would see this as an almost textbook case of the post-1980 reversal his data document. Defined-benefit pensions pool retirement risk across workers and employers; 401(k)s shift that risk onto each individual worker — the same move [[hacker-jacob|Jacob Hacker]] calls "the great risk shift." For Piketty specifically, the structural problem is that 401(k)s privatize what is inherently a collective pooling problem (longevity, disability, market volatility), and markets are strictly worse at solving it than institutions are.
+
+Worse, the system deepens wealth inequality through the *r > g* mechanism. The tax deduction is worth more to high earners, high earners can afford to max their contributions, high earners rarely withdraw early, and compounded capital returns accrue for decades — so retirement wealth concentrates at the top even though the framework is nominally universal. Low-wage workers contribute less, withdraw more, and pay penalties. Piketty's empirical work shows the top decile's share of wealth rising in step with the financialization of retirement. Meanwhile fees and management costs transfer a large share of small investors' returns to the financial sector — a massive indirect subsidy to an industry Piketty views as extracting rents.
+
+The deepest objection is political. In *Capital and Ideology* Piketty argues that twentieth-century egalitarian settlements were held together by broad coalitions expecting universal public provision. Converting workers into individual asset-holders erodes that coalition — their political interest becomes tax cuts, stock-market performance, and protecting "their" money, not defending Social Security or progressive taxation. The shift is also *not* the [[justice-as-fairness|property-owning democracy]] it sometimes pretends to be: passive fractional ownership of index funds confers no governance, no voice, no meaningful stake. Piketty's prescription would be the opposite move — strengthen pay-as-you-go social insurance, fund it with progressive wealth and inheritance taxation, and push toward genuine worker ownership (cooperatives, board seats, employee-stock-ownership plans with governance rights) rather than financialized simulacra of it.
