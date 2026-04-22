@@ -6,7 +6,7 @@ born: 1967
 era: 20th–21st century
 nationality: Turkish-American
 tags: [economics, political-economy, institutions, inequality, democracy, technology]
-related: [piketty-thomas, hacker-jacob, pierson-paul, stiglitz-joseph, mazzucato-mariana, popper-karl, zuboff-shoshana, welfare-state-under-pressure]
+related: [piketty-thomas, hacker-jacob, pierson-paul, stiglitz-joseph, mazzucato-mariana, popper-karl, zuboff-shoshana, pahlka-jennifer, welfare-state-under-pressure, state-capacity-and-technology]
 influenced_by: []
 influenced: []
 ---
