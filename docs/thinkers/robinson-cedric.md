@@ -7,7 +7,7 @@ died: 2016
 era: 20th–21st century
 nationality: American
 tags: [political-theory, marxism, race, african-american-thought, history, capitalism]
-related: [du-bois-web, marx-karl, harvey-david, klein-naomi, piketty-thomas]
+related: [du-bois-web, marx-karl, harvey-david, klein-naomi, piketty-thomas, beckert-sven, new-history-of-capitalism]
 influenced_by: [du-bois-web, marx-karl]
 influenced: []
 ---

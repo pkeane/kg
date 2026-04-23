@@ -4,7 +4,7 @@ type: concept
 name: Racial Capitalism
 era: late 20th–21st century (as analytical term)
 tags: [race, capitalism, marxism, critique, history]
-related: [robinson-cedric, du-bois-web, marx-karl, harvey-david, klein-naomi, wilkerson-isabel, racism, colonialism, inequality, white-supremacy]
+related: [robinson-cedric, du-bois-web, marx-karl, harvey-david, klein-naomi, wilkerson-isabel, beckert-sven, new-history-of-capitalism, racism, colonialism, inequality, white-supremacy]
 influenced_by: [robinson-cedric, du-bois-web]
 influenced: []
 ---
