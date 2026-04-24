@@ -7,7 +7,7 @@ died: 2012
 era: 20th–21st century
 nationality: British (Austrian-born)
 tags: [history, marxism, political-theory, political-economy]
-related: [marx-karl, thompson-ep, gramsci-antonio, williams-raymond, cultural-studies, new-left-review]
+related: [marx-karl, thompson-ep, gramsci-antonio, williams-raymond, cultural-studies, new-left-review, contingency-and-randomness-in-history]
 influenced_by: [marx-karl, gramsci-antonio]
 influenced: []
 ---

@@ -7,7 +7,7 @@ died: 1997
 era: 20th century
 nationality: Russian-British
 tags: [liberalism, political-theory, history-of-ideas]
-related: [mill-js, negative-liberty, positive-liberty, akhmatova-anna]
+related: [mill-js, negative-liberty, positive-liberty, akhmatova-anna, popper-karl, contingency-and-randomness-in-history]
 influenced_by: [mill-js]
 influenced: []
 ---
