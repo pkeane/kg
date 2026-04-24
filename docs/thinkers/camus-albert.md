@@ -7,7 +7,7 @@ died: 1960
 era: 20th century
 nationality: French Algerian
 tags: [existentialism, literature, ethics]
-related: [sartre-jean-paul, existentialism, percy-walker, unamuno-miguel-de]
+related: [sartre-jean-paul, existentialism, percy-walker, unamuno-miguel-de, existentialist-critique-of-history]
 influenced_by: [nietzsche-friedrich, kierkegaard-soren, unamuno-miguel-de]
 influenced: [percy-walker]
 ---

@@ -7,7 +7,7 @@ died: 1881
 era: 19th century
 nationality: Russian
 tags: [literature, fiction, existentialism, theology, psychology, christianity]
-related: [kierkegaard-soren, nietzsche-friedrich, existentialism, tolstoy-leo]
+related: [kierkegaard-soren, nietzsche-friedrich, existentialism, tolstoy-leo, existentialist-critique-of-history]
 influenced_by: []
 influenced: [existentialism, nietzsche-friedrich, camus-albert, sartre-jean-paul, tillich-paul, percy-walker, o-connor-flannery, kafka-franz, tarkovsky-andrei, saunders-george]
 ---

@@ -7,7 +7,7 @@ died: 1969
 era: 20th century
 nationality: German
 tags: [critical-theory, frankfurt-school, marxism, philosophy, sociology]
-related: [frankfurt-school, marcuse-herbert, habermas-jurgen, marx-karl, hegel-gwf, nietzsche-friedrich, freud-sigmund, rockhill-gabriel, benjamin-walter, western-marxism, lukacs-gyorgy, jacoby-russell]
+related: [frankfurt-school, marcuse-herbert, habermas-jurgen, marx-karl, hegel-gwf, nietzsche-friedrich, freud-sigmund, rockhill-gabriel, benjamin-walter, western-marxism, lukacs-gyorgy, jacoby-russell, existentialist-critique-of-history]
 influenced_by: [marx-karl, hegel-gwf, freud-sigmund, nietzsche-friedrich, benjamin-walter, lukacs-gyorgy]
 influenced: [habermas-jurgen]
 ---
