@@ -11,6 +11,7 @@ import shutil
 import subprocess
 import sys
 from collections import defaultdict
+from datetime import datetime
 from pathlib import Path
 
 try:
@@ -512,6 +513,24 @@ def render_changelog(docs):
     for date, doc_id in raw_entries:
         if doc_id not in earliest or date < earliest[doc_id]:
             earliest[doc_id] = date
+    # Surface uncommitted new docs so the changelog reflects the build, not the
+    # last commit. Without this, a freshly-added entry would be invisible to
+    # the changelog on its first publish.
+    status = subprocess.run(
+        ["git", "status", "--porcelain", "--"] + list(doc_dirs.keys()),
+        capture_output=True, text=True, cwd=ROOT
+    )
+    now_str = datetime.now().astimezone().strftime("%Y-%m-%d %H:%M:%S %z")
+    for line in status.stdout.splitlines():
+        if len(line) < 4:
+            continue
+        path = line[3:].strip()
+        for prefix in doc_dirs:
+            if path.startswith(prefix) and path.endswith(".md"):
+                doc_id = path[len(prefix):-3]
+                if doc_id in docs and doc_id not in earliest:
+                    earliest[doc_id] = now_str
+                break
     entries = []
     for doc_id, date in earliest.items():
         name = docs[doc_id]["meta"].get("name", doc_id)
