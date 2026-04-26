@@ -4,7 +4,7 @@ type: topic
 name: Justice as Fairness
 era: 17th century–present
 tags: [political-theory, liberalism, justice, philosophy, ethics, democracy, political-economy]
-related: [rawls-john, anderson-elizabeth, nussbaum-martha, sen-amartya, dworkin-ronald, habermas-jurgen, niebuhr-reinhold, popper-karl, sandel-michael, nozick-robert, macintyre-alasdair, walzer-michael, cohen-ga, mill-js, locke-john, hobbes-thomas, hume-david, smith-adam, piketty-thomas, social-contract, classical-liberalism, welfare-state, welfare-state-under-pressure]
+related: [rawls-john, anderson-elizabeth, nussbaum-martha, sen-amartya, dworkin-ronald, habermas-jurgen, niebuhr-reinhold, popper-karl, sandel-michael, nozick-robert, macintyre-alasdair, walzer-michael, cohen-ga, mill-js, locke-john, hobbes-thomas, hume-david, smith-adam, piketty-thomas, social-contract, classical-liberalism, welfare-state, welfare-state-under-pressure, post-neoliberal-political-economy]
 influenced_by: []
 influenced: []
 ---

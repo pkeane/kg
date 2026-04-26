@@ -4,7 +4,7 @@ type: topic
 name: The Welfare State Under Pressure
 era: 1940s–present
 tags: [political-economy, inequality, political-theory, economics]
-related: [keynes-jm, polanyi-karl, galbraith-john-kenneth, stiglitz-joseph, piketty-thomas, mazzucato-mariana, hacker-jacob, pierson-paul, hayek-fa, friedman-milton, reich-robert, krugman-paul, welfare-state, neoliberalism, inequality]
+related: [keynes-jm, polanyi-karl, galbraith-john-kenneth, stiglitz-joseph, piketty-thomas, mazzucato-mariana, hacker-jacob, pierson-paul, hayek-fa, friedman-milton, reich-robert, krugman-paul, welfare-state, neoliberalism, inequality, post-neoliberal-political-economy]
 influenced_by: []
 influenced: []
 ---
