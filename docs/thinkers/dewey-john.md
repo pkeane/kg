@@ -7,7 +7,7 @@ died: 1952
 era: 19th–20th century
 nationality: American
 tags: [pragmatism, liberalism, democracy, education, progressivism]
-related: [mill-js, rorty-richard]
+related: [mill-js, rorty-richard, participatory-budgeting]
 influenced_by: [hegel-gwf, mill-js]
 influenced: [bruner-jerome, rorty-richard]
 ---
