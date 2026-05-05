@@ -17,6 +17,8 @@ American political theorist, professor of literature at Duke, and for a quarter-
 
 *Multitude* (2004) and *Commonwealth* (2009) completed the trilogy, elaborating the democratic-alternative side of the argument. *Assembly* (2017) and *Declaration* (2012) responded to the post-2011 wave of global movements (Occupy, Tahrir, the Indignados) that the Hardt–Negri framework had seemed to predict. Academic reception has cooled — many of the specific claims about post-imperial sovereignty look dated after 2014 and 2022 — but the vocabulary (*Empire*, *multitude*, *immaterial labor*) remains in circulation, and the ambition of attempting a positive democratic theory from within Marxism marks the trilogy as an unusual intellectual event.
 
+*The Subversive Seventies* (2023), Hardt's first solo book, revisits the revolutionary movements of the 1970s — Italian autonomia, the Black Panthers and the broader Black liberation struggle, feminist and anti-colonial mobilizations — as a single global cycle of struggle rather than a failed afterword to the 1960s. The book reads the decade through the movements' own theoretical production and argues for the continued relevance of their experiments in self-organization.
+
 ## Key ideas
 
 - *Empire* as decentered, networked global sovereignty
@@ -24,10 +26,16 @@ American political theorist, professor of literature at Duke, and for a quarter-
 - Immaterial and affective labor
 - Constituent power (drawn from Negri's reading of Spinoza)
 
-## Key works (with Negri)
+## Key works
+
+With [[negri-antonio|Negri]]:
 
 - *Empire* (2000)
 - *Multitude* (2004)
 - *Commonwealth* (2009)
 - *Declaration* (2012)
 - *Assembly* (2017)
+
+Solo:
+
+- *The Subversive Seventies* (2023)
