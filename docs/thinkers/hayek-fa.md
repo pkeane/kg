@@ -7,7 +7,7 @@ died: 1992
 era: 20th century
 nationality: Austrian-British
 tags: [liberalism, libertarianism, political-economy, economics]
-related: [classical-liberalism, oakeshott-michael, nozick-robert]
+related: [classical-liberalism, oakeshott-michael, nozick-robert, socialist-calculation-debate]
 influenced_by: [smith-adam]
 influenced: [nozick-robert]
 ---
