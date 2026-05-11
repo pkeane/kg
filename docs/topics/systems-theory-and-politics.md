@@ -4,7 +4,7 @@ type: topic
 name: Systems Theory and Politics
 era: 20th century–present
 tags: [political-science, systems-theory, cybernetics, functionalism, governance, methodology]
-related: [simon-herbert, piketty-thomas, frankfurt-school, easton-david, deutsch-karl, almond-gabriel, luhmann-niklas, parsons-talcott, bertalanffy-ludwig, wallerstein-immanuel, arrighi-giovanni, teubner-gunther, thornhill-chris, biermann-frank, meadows-donella, axelrod-robert, wiener-norbert]
+related: [simon-herbert, piketty-thomas, frankfurt-school, easton-david, deutsch-karl, almond-gabriel, luhmann-niklas, parsons-talcott, bertalanffy-ludwig, wallerstein-immanuel, arrighi-giovanni, teubner-gunther, thornhill-chris, biermann-frank, meadows-donella, axelrod-robert, wiener-norbert, the-rise-of-maga-systems-view, democratic-socialism-and-scale]
 influenced_by: []
 influenced: []
 ---
