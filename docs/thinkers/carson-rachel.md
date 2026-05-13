@@ -7,7 +7,7 @@ died: 1964
 era: 20th century
 nationality: American
 tags: [science, literature, environmentalism, journalism]
-related: [berry-wendell, klein-naomi, monbiot-george]
+related: [berry-wendell, klein-naomi, monbiot-george, bookchin-murray]
 influenced_by: []
 influenced: []
 ---
