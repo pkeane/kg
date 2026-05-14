@@ -7,7 +7,7 @@ died: 1926
 era: 19th–20th century
 nationality: American
 tags: [socialism, labor, american-thought, political-prisoner, dissent]
-related: [sinclair-upton, addams-jane, sanders-bernie, mamdani-zohran, democratic-socialism-and-scale]
+related: [sinclair-upton, addams-jane, sanders-bernie, mamdani-zohran, goldman-emma, democratic-socialism-and-scale]
 influenced_by: [marx-karl]
 influenced: []
 ---

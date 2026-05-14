@@ -7,7 +7,7 @@ died: 1910
 era: 19th–20th century
 nationality: Russian
 tags: [literature, christianity, nonviolence, anarchism]
-related: [dostoevsky-fyodor, day-dorothy, king-mlk, merton-thomas, gandhi-mohandas]
+related: [dostoevsky-fyodor, day-dorothy, king-mlk, merton-thomas, gandhi-mohandas, anarchism, kropotkin-peter]
 influenced_by: []
 influenced: [day-dorothy, king-mlk, gandhi-mohandas, saunders-george]
 ---

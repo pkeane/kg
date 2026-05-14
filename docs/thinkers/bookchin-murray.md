@@ -7,7 +7,7 @@ died: 2006
 era: 20th century
 nationality: American
 tags: [anarchism, ecology, political-theory, communalism, environmentalism, libertarian-socialism]
-related: [carson-rachel, berry-wendell, klein-naomi, monbiot-george, illich-ivan, chomsky-noam, kropotkin-peter, graeber-david, the-city]
+related: [carson-rachel, berry-wendell, klein-naomi, monbiot-george, illich-ivan, chomsky-noam, kropotkin-peter, graeber-david, anarchism, goldman-emma, the-city]
 influenced_by: [kropotkin-peter, marx-karl, hegel-georg, aristotle, mumford-lewis]
 influenced: [biehl-janet, ocalan-abdullah]
 ---

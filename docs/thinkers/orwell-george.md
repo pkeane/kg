@@ -7,7 +7,7 @@ died: 1950
 era: 20th century
 nationality: British
 tags: [literature, essay, socialism, totalitarianism]
-related: [arendt-hannah, zuboff-shoshana, woolf-virginia, huxley-aldous, dickens-charles]
+related: [arendt-hannah, zuboff-shoshana, woolf-virginia, huxley-aldous, dickens-charles, anarchism]
 influenced_by: []
 influenced: [arendt-hannah]
 ---

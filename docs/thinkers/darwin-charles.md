@@ -7,9 +7,9 @@ died: 1882
 era: 19th century
 nationality: English
 tags: [science]
-related: [marx-karl, nietzsche-friedrich, james-william, freud-sigmund]
+related: [marx-karl, nietzsche-friedrich, james-william, freud-sigmund, kropotkin-peter]
 influenced_by: []
-influenced: [marx-karl, nietzsche-friedrich, james-william, freud-sigmund, dewey-john]
+influenced: [marx-karl, nietzsche-friedrich, james-william, freud-sigmund, dewey-john, kropotkin-peter]
 ---
 
 # Charles Darwin
