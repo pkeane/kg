@@ -7,7 +7,7 @@ died: 1964
 era: 20th century
 nationality: Hungarian-British
 tags: [political-economy, economic-history, critique-of-capitalism, environmentalism]
-related: [marx-karl, hayek-fa, mattei-clara]
+related: [marx-karl, hayek-fa, mattei-clara, wood-ellen-meiksins]
 influenced_by: [marx-karl]
 influenced: []
 ---

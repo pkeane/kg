@@ -6,7 +6,7 @@ born: 1938
 era: 20th–21st century
 nationality: British
 tags: [marxism, history, political-theory, new-left, historical-sociology]
-related: [new-left-review, thompson-ep, williams-raymond, hobsbawm-eric, habermas-jurgen, rawls-john, marxism, western-marxism, new-left, jacoby-russell]
+related: [new-left-review, thompson-ep, williams-raymond, hobsbawm-eric, habermas-jurgen, rawls-john, marxism, western-marxism, new-left, jacoby-russell, wood-ellen-meiksins]
 influenced_by: [marx-karl, gramsci-antonio, thompson-ep]
 influenced: []
 ---

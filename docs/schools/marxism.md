@@ -4,7 +4,7 @@ type: school
 name: Marxism
 era: 19th century–present
 tags: [socialism, critical-theory, political-economy, revolution]
-related: [marx-karl, engels-friedrich, critical-theory, harvey-david, jameson-fredric, malm-andreas, hardt-michael, negri-antonio, davis-angela, robinson-cedric]
+related: [marx-karl, engels-friedrich, critical-theory, harvey-david, jameson-fredric, malm-andreas, hardt-michael, negri-antonio, davis-angela, robinson-cedric, wood-ellen-meiksins]
 influenced_by: [marx-karl, engels-friedrich]
 influenced: [critical-theory, frankfurt-school, harvey-david, jameson-fredric, malm-andreas, hardt-michael, negri-antonio]
 ---
