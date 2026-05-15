@@ -7,7 +7,7 @@ died: 1993
 era: 20th century
 nationality: English
 tags: [history, marxism, new-left, labor-history, peace-movement]
-related: [williams-raymond, hall-stuart, hobsbawm-eric, marx-karl, althusser-louis, marxism, cultural-studies, new-left-review, morris-william, blake-william, new-left]
+related: [williams-raymond, hall-stuart, hobsbawm-eric, marx-karl, althusser-louis, marxism, cultural-studies, new-left-review, morris-william, blake-william, new-left, what-is-capitalism]
 influenced_by: [marx-karl, blake-william, morris-william]
 influenced: [cultural-studies, hall-stuart]
 ---

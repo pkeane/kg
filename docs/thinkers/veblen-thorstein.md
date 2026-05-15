@@ -7,7 +7,7 @@ died: 1929
 era: 19th–20th century
 nationality: American
 tags: [political-economy, sociology, economics]
-related: [marx-karl]
+related: [marx-karl, what-is-capitalism]
 influenced_by: [marx-karl]
 influenced: []
 ---

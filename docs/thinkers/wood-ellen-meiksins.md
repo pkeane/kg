@@ -7,7 +7,7 @@ died: 2016
 era: 20th–21st century
 nationality: American-Canadian
 tags: [marxism, political-theory, history, political-economy, capitalism, political-marxism]
-related: [marx-karl, marxism, anderson-perry, thompson-ep, harvey-david, polanyi-karl, robinson-cedric, new-history-of-capitalism, western-marxism]
+related: [marx-karl, marxism, anderson-perry, thompson-ep, harvey-david, polanyi-karl, robinson-cedric, new-history-of-capitalism, western-marxism, what-is-capitalism]
 influenced_by: [marx-karl, thompson-ep]
 influenced: []
 ---

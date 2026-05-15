@@ -4,7 +4,7 @@ type: concept
 name: Political Economy
 era: 18th century–present
 tags: [economics, political-theory]
-related: [smith-adam, ricardo-david, marx-karl, mill-js, polanyi-karl]
+related: [smith-adam, ricardo-david, marx-karl, mill-js, polanyi-karl, what-is-capitalism]
 influenced_by: [smith-adam, ricardo-david]
 influenced: []
 ---

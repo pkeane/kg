@@ -4,7 +4,7 @@ type: topic
 name: The New History of Capitalism
 era: 1980s–present
 tags: [history, political-economy, capitalism, slavery, racial-capitalism]
-related: [beckert-sven, du-bois-web, robinson-cedric, piketty-thomas, acemoglu-daron, harvey-david, marx-karl, hobsbawm-eric, wood-ellen-meiksins, racial-capitalism, welfare-state-under-pressure, justice-as-fairness]
+related: [beckert-sven, du-bois-web, robinson-cedric, piketty-thomas, acemoglu-daron, harvey-david, marx-karl, hobsbawm-eric, wood-ellen-meiksins, racial-capitalism, welfare-state-under-pressure, justice-as-fairness, what-is-capitalism]
 influenced_by: []
 influenced: []
 ---
