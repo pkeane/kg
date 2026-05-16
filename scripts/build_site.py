@@ -80,7 +80,8 @@ TYPE_LABELS = {
     "topic": "Topics",
     "event": "Events",
 }
-TYPE_ORDER = ["thinker", "school", "concept", "topic", "event"]
+# Order of sections on the index (front) page. Thinkers live on a separate page.
+TYPE_ORDER = ["topic", "concept", "school", "event"]
 
 
 def top_nav(prefix=""):
@@ -90,6 +91,7 @@ def top_nav(prefix=""):
         '<span class="nav-sep">|</span>',
     ]
     parts += [f'<a href="{prefix}index.html#{t}">{TYPE_LABELS[t]}</a>' for t in TYPE_ORDER]
+    parts.append(f'<a href="{prefix}thinkers/">Thinkers</a>')
     parts.append(f'<a href="{prefix}tags/">Tags</a>')
     return "<nav>" + "".join(parts) + "</nav>"
 
@@ -199,7 +201,7 @@ def render_doc(doc_id, doc, docs, backlinks):
 </head><body class="{body_class}">
 <header>
 <a href="index.html"><strong>Knowledge Graph</strong></a>
-<nav>{"".join(f'<a href="index.html#{t}">{TYPE_LABELS[t]}</a>' for t in TYPE_ORDER)}</nav>
+{top_nav()}
 </header>
 <h1>{html.escape(name)}</h1>
 <div class="meta">{html.escape(meta_line(meta))}</div>
@@ -250,44 +252,24 @@ def render_index(docs):
             meta = doc["meta"]
             name = html.escape(meta.get("name", doc_id))
             dates = html.escape(meta_line(meta))
-            tagstr = html.escape(" ".join(meta.get("tags") or []))
             items.append(
-                f'<li data-tags="{tagstr}" data-name="{html.escape(name.lower())}">'
-                f'<a href="{doc_id}.html">{name}</a>'
+                f'<li><a href="{doc_id}.html">{name}</a>'
                 f'{f" <span class=\"dates\">({dates})</span>" if dates else ""}</li>'
             )
         return f'<ul>{"".join(items)}</ul>'
-
-    def bucket_thinkers(entries):
-        buckets = [
-            ("Pre-1900", "thinker-pre-1900", lambda b: b < 1900),
-            ("1900–1945", "thinker-1900-1945", lambda b: 1900 <= b <= 1945),
-            ("1946 onward", "thinker-1946-onward", lambda b: b >= 1946),
-        ]
-        for label, bid, test in buckets:
-            members = [e for e in entries if test(e[1]["meta"].get("born") or 0)]
-            if members:
-                yield label, bid, members
 
     sections = []
     for t in TYPE_ORDER:
         entries = sorted(by_type.get(t, []), key=lambda x: x[1]["meta"].get("name", x[0]))
         if not entries:
             continue
-        if t == "thinker":
-            body = "".join(
-                f'<h3 id="{bid}" class="bucket {bid}"><span class="period-swatch swatch-{bid.replace("thinker-", "")}"></span>{label} <span class="bucket-count">({len(members)})</span></h3>'
-                f'{render_items(members)}'
-                for label, bid, members in bucket_thinkers(entries)
-            )
-        else:
-            body = render_items(entries)
         sections.append(
             f'<section class="index-section" id="{t}">'
             f'<h2>{TYPE_LABELS[t]} ({len(entries)})</h2>'
-            f'{body}</section>'
+            f'{render_items(entries)}</section>'
         )
 
+    # Search index covers ALL entries, including thinkers (which have their own page).
     all_entries = []
     for doc_id, doc in docs.items():
         meta = doc["meta"]
@@ -297,76 +279,24 @@ def render_index(docs):
             "type": meta.get("type", ""),
             "meta": meta_line(meta),
             "tags": meta.get("tags") or [],
-            "teaser": extract_teaser(doc["body"]),
         })
     entries_json = _json.dumps(all_entries, ensure_ascii=False)
 
     index_css = """
-.front-page { margin-bottom: 2em; }
-.front-controls { display: flex; align-items: center; gap: .8em; margin-bottom: 1.2em; }
-.front-date { color: var(--muted); font-size: .85em; font-style: italic; }
-.shuffle-btn { background: var(--card); border: 1px solid var(--border); padding: .3em .8em; border-radius: 4px; cursor: pointer; font-family: inherit; font-size: .85em; color: var(--muted); }
-.shuffle-btn:hover { border-color: var(--accent); color: var(--accent); }
-.card-row { display: grid; grid-template-columns: 1fr; gap: 1em; margin-bottom: 1.2em; }
-.card { background: var(--card); border: 1px solid var(--border); border-radius: 4px; padding: 1em 1.2em; }
-.card a.card-title { font-size: 1.15em; font-weight: bold; color: var(--accent); text-decoration: none; }
-.card a.card-title:hover { text-decoration: underline; }
-.card .card-type { font-size: .72em; text-transform: uppercase; letter-spacing: .08em; margin-bottom: .3em; font-weight: bold; }
-.card .card-type.type-thinker { color: #6b3a2a; }
-.card .card-type.type-topic { color: #2a5a3a; }
-.card .card-type.type-school { color: #3a4a6b; }
-.card .card-type.type-concept { color: #5a4a2a; }
-.card .card-type.type-event { color: #5a2a4a; }
-.card.ctype-thinker { border-left: 3px solid #6b3a2a; }
-.card.ctype-topic { border-left: 3px solid #2a5a3a; }
-.card.ctype-school { border-left: 3px solid #3a4a6b; }
-.card.ctype-concept { border-left: 3px solid #5a4a2a; }
-.card.ctype-event { border-left: 3px solid #5a2a4a; }
-.card .card-meta { font-size: .82em; color: var(--muted); font-style: italic; margin-top: .2em; }
-.card .card-teaser { font-size: .88em; color: var(--fg); margin-top: .5em; line-height: 1.45; }
-.full-index { margin-top: 2em; }
-.full-index summary { cursor: pointer; font-size: 1.1em; font-weight: bold; color: var(--fg); padding: .5em 0; }
-.full-index summary:hover { color: var(--accent); }
-.full-index[open] #filter { margin-top: 1em; }
+#search { width: 100%; padding: .65em .8em; border: 1px solid var(--border); border-radius: 4px; font-size: 1.05em; margin-bottom: 1.5em; background: var(--card); font-family: inherit; }
+#search-results { margin-bottom: 1.5em; }
+#search-results h2 { font-size: 1.1em; color: var(--muted); border-bottom: 1px solid var(--border); padding-bottom: .2em; margin-top: 0; }
+.search-result-list { list-style: none; padding: 0; }
+.search-result-list li { padding: .35em 0; border-bottom: 1px solid var(--border); }
+.search-result-list li:last-child { border-bottom: none; }
+.search-result-list .result-type { font-size: .72em; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin-left: .4em; }
+.search-result-list .dates { color: var(--muted); font-size: .85em; }
+.no-results { color: var(--muted); font-style: italic; }
 """
 
     js = """
 const ENTRIES = """ + entries_json + """;
 const TYPE_LABELS = {thinker: 'Thinker', school: 'School', concept: 'Concept', topic: 'Topic', event: 'Event'};
-
-function mulberry32(a) {
-  return function() {
-    a |= 0; a = a + 0x6D2B79F5 | 0;
-    var t = Math.imul(a ^ a >>> 15, 1 | a);
-    t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t;
-    return ((t ^ t >>> 14) >>> 0) / 4294967296;
-  }
-}
-
-function dateSeed() {
-  const d = new Date();
-  return d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate();
-}
-
-function shuffle(arr, rng) {
-  const a = arr.slice();
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(rng() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
-
-function renderCard(e, showTeaser) {
-  const card = document.createElement('div');
-  card.className = 'card ctype-' + e.type;
-  let h = '<div class="card-type type-' + e.type + '">' + (TYPE_LABELS[e.type] || '') + '</div>';
-  h += '<a class="card-title" href="' + e.id + '.html">' + escHtml(e.name) + '</a>';
-  if (e.meta) h += '<div class="card-meta">' + escHtml(e.meta) + '</div>';
-  if (showTeaser && e.teaser) h += '<div class="card-teaser">' + escHtml(e.teaser) + '</div>';
-  card.innerHTML = h;
-  return card;
-}
 
 function escHtml(s) {
   const d = document.createElement('div');
@@ -374,53 +304,51 @@ function escHtml(s) {
   return d.innerHTML;
 }
 
-function renderFrontPage(seed) {
-  const rng = mulberry32(seed);
-  const picked = shuffle(ENTRIES, rng);
-  const topics = picked.filter(e => e.type === 'topic');
-  const others = picked.filter(e => e.type !== 'topic');
-  let cards;
-  if (topics.length > 0 && others.length >= 3) {
-    cards = [topics[0], others[0], others[1], others[2]];
-    const pos = Math.floor(rng() * 4);
-    if (pos !== 0) {
-      [cards[0], cards[pos]] = [cards[pos], cards[0]];
-    }
-  } else {
-    cards = picked.slice(0, 4);
-  }
+const searchInput = document.getElementById('search');
+const resultsDiv = document.getElementById('search-results');
+const sectionsDiv = document.getElementById('sections');
 
-  const container = document.getElementById('front-cards');
-  container.innerHTML = '';
-  const row = document.createElement('div');
-  row.className = 'card-row';
-  cards.forEach(e => row.appendChild(renderCard(e, true)));
-  container.appendChild(row);
-}
-
-let currentSeed = dateSeed();
-renderFrontPage(currentSeed);
-
-document.getElementById('shuffle-btn').addEventListener('click', function() {
-  currentSeed = Math.floor(Math.random() * 2147483647);
-  renderFrontPage(currentSeed);
-});
-
-const filter = document.getElementById('filter');
-const items = document.querySelectorAll('.index-section li');
-function apply(q) {
+function applySearch(q) {
   q = q.toLowerCase().trim();
-  items.forEach(li => {
-    const hay = (li.dataset.name + ' ' + li.dataset.tags);
-    li.style.display = !q || hay.includes(q) ? '' : 'none';
+  if (!q) {
+    resultsDiv.style.display = 'none';
+    resultsDiv.innerHTML = '';
+    sectionsDiv.style.display = '';
+    return;
+  }
+  const matches = ENTRIES.filter(function(e) {
+    const hay = (e.name + ' ' + (e.tags || []).join(' ') + ' ' + (e.type || '')).toLowerCase();
+    return hay.indexOf(q) !== -1;
   });
+  matches.sort(function(a, b) { return a.name.localeCompare(b.name); });
+  sectionsDiv.style.display = 'none';
+  resultsDiv.style.display = '';
+  if (matches.length === 0) {
+    resultsDiv.innerHTML = '<h2>No matches for &ldquo;' + escHtml(q) + '&rdquo;</h2>';
+    return;
+  }
+  var h = '<h2>' + matches.length + ' match' + (matches.length === 1 ? '' : 'es') + ' for &ldquo;' + escHtml(q) + '&rdquo;</h2>';
+  h += '<ul class="search-result-list">';
+  matches.forEach(function(e) {
+    h += '<li><a href="' + escHtml(e.id) + '.html">' + escHtml(e.name) + '</a>';
+    h += '<span class="result-type">[' + escHtml(TYPE_LABELS[e.type] || e.type) + ']</span>';
+    if (e.meta) h += ' <span class="dates">(' + escHtml(e.meta) + ')</span>';
+    h += '</li>';
+  });
+  h += '</ul>';
+  resultsDiv.innerHTML = h;
 }
-filter.addEventListener('input', e => apply(e.target.value));
-const tag = new URLSearchParams(location.search).get('tag');
-if (tag) {
-  filter.value = tag; apply(tag);
-  document.getElementById('full-index').open = true;
+
+searchInput.addEventListener('input', function(e) { applySearch(e.target.value); });
+
+// Initialize from URL ?tag=... or ?q=...
+var params = new URLSearchParams(location.search);
+var initial = params.get('q') || params.get('tag');
+if (initial) {
+  searchInput.value = initial;
+  applySearch(initial);
 }
+searchInput.focus();
 """
     return f"""<!doctype html>
 <html lang="en"><head>
@@ -433,19 +361,94 @@ if (tag) {
 <div class="meta">Political, social, economic, and philosophical thought, with branches into the arts and non-Western traditions.</div>
 {top_nav()}
 </header>
-<div class="front-page">
-<div class="front-controls">
-<button id="shuffle-btn" class="shuffle-btn">Shuffle</button>
-<span class="front-date">{len(docs)} entries</span>
-</div>
-<div id="front-cards"></div>
-</div>
-<details class="full-index" id="full-index">
-<summary>Full Index</summary>
-<input id="filter" type="search" placeholder="Filter by name or tag…">
+<input id="search" type="search" placeholder="Search entries by name, tag, or type…" autocomplete="off">
+<div id="search-results" style="display:none"></div>
+<div id="sections">
 {"".join(sections)}
-</details>
+</div>
 <footer>{len(docs)} entries</footer>
+<script>{js}</script>
+</body></html>"""
+
+
+def render_thinkers(docs):
+    import json as _json
+
+    thinkers = sorted(
+        [(doc_id, doc) for doc_id, doc in docs.items() if doc["meta"].get("type") == "thinker"],
+        key=lambda x: x[1]["meta"].get("name", x[0]).lower(),
+    )
+
+    items = []
+    for doc_id, doc in thinkers:
+        meta = doc["meta"]
+        name = html.escape(meta.get("name", doc_id))
+        dates = html.escape(meta_line(meta))
+        items.append(
+            f'<li><a href="../{doc_id}.html">{name}</a>'
+            f'{f" <span class=\"dates\">({dates})</span>" if dates else ""}</li>'
+        )
+
+    # Per-page search data (thinkers only)
+    thinker_entries = [{
+        "id": doc_id,
+        "name": doc["meta"].get("name", doc_id),
+        "meta": meta_line(doc["meta"]),
+        "tags": doc["meta"].get("tags") or [],
+    } for doc_id, doc in thinkers]
+    entries_json = _json.dumps(thinker_entries, ensure_ascii=False)
+
+    extra_css = """
+#filter { width: 100%; padding: .6em .8em; border: 1px solid var(--border); border-radius: 4px; font-size: 1em; margin-bottom: 1.2em; background: var(--card); font-family: inherit; }
+.thinker-list { list-style: none; padding: 0; columns: 2; column-gap: 2em; }
+.thinker-list li { margin: .25em 0; break-inside: avoid; }
+.thinker-list .dates { color: var(--muted); font-size: .85em; }
+@media (max-width: 600px) { .thinker-list { columns: 1; } }
+"""
+
+    js = """
+const THINKERS = """ + entries_json + """;
+const filter = document.getElementById('filter');
+const items = document.querySelectorAll('.thinker-list li');
+const namesAndTags = Array.from(items).map(function(li) {
+  return ((li.textContent || '') + ' ' + (li.dataset.tags || '')).toLowerCase();
+});
+function apply(q) {
+  q = q.toLowerCase().trim();
+  items.forEach(function(li, i) {
+    li.style.display = !q || namesAndTags[i].indexOf(q) !== -1 ? '' : 'none';
+  });
+}
+filter.addEventListener('input', function(e) { apply(e.target.value); });
+filter.focus();
+"""
+
+    # Add data-tags so filter can match tags
+    list_html_items = []
+    for doc_id, doc in thinkers:
+        meta = doc["meta"]
+        name = html.escape(meta.get("name", doc_id))
+        dates = html.escape(meta_line(meta))
+        tagstr = html.escape(" ".join(meta.get("tags") or []))
+        list_html_items.append(
+            f'<li data-tags="{tagstr}"><a href="../{doc_id}.html">{name}</a>'
+            f'{f" <span class=\"dates\">({dates})</span>" if dates else ""}</li>'
+        )
+
+    return f"""<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><title>Thinkers — Knowledge Graph</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>{CSS}{extra_css}</style>
+</head><body>
+<header>
+<a href="../index.html"><strong>Knowledge Graph</strong></a>
+{top_nav("../")}
+</header>
+<h1>Thinkers</h1>
+<div class="meta">{len(thinkers)} entries, alphabetical.</div>
+<input id="filter" type="search" placeholder="Filter by name or tag…" autocomplete="off">
+<ul class="thinker-list">{"".join(list_html_items)}</ul>
 <script>{js}</script>
 </body></html>"""
 
@@ -619,6 +622,9 @@ def main():
     for doc_id, doc in docs.items():
         (SITE / f"{doc_id}.html").write_text(render_doc(doc_id, doc, docs, backlinks))
     (SITE / "index.html").write_text(render_index(docs))
+    thinkers_dir = SITE / "thinkers"
+    thinkers_dir.mkdir()
+    (thinkers_dir / "index.html").write_text(render_thinkers(docs))
     tags_dir = SITE / "tags"
     tags_dir.mkdir()
     (tags_dir / "index.html").write_text(render_tags(docs))
