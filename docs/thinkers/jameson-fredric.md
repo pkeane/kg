@@ -7,7 +7,7 @@ died: 2024
 era: 20th–21st century
 nationality: American
 tags: [critical-theory, marxism, cultural-criticism, postmodernism, capitalism]
-related: [marx-karl, marxism, harvey-david, critical-theory, frankfurt-school, rockhill-gabriel, new-left-review, benjamin-walter, western-marxism, lukacs-gyorgy]
+related: [marx-karl, marxism, harvey-david, critical-theory, frankfurt-school, rockhill-gabriel, new-left-review, benjamin-walter, western-marxism, lukacs-gyorgy, fisher-mark]
 influenced_by: [marx-karl, benjamin-walter, lukacs-gyorgy]
 influenced: []
 ---
