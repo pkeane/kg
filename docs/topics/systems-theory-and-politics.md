@@ -4,7 +4,7 @@ type: topic
 name: Systems Theory and Politics
 era: 20th century–present
 tags: [political-science, systems-theory, cybernetics, functionalism, governance, methodology]
-related: [simon-herbert, piketty-thomas, frankfurt-school, easton-david, deutsch-karl, almond-gabriel, luhmann-niklas, parsons-talcott, bertalanffy-ludwig, wallerstein-immanuel, arrighi-giovanni, teubner-gunther, thornhill-chris, biermann-frank, meadows-donella, axelrod-robert, wiener-norbert, the-rise-of-maga-systems-view, democratic-socialism-and-scale]
+related: [simon-herbert, piketty-thomas, frankfurt-school, easton-david, deutsch-karl, almond-gabriel, luhmann-niklas, parsons-talcott, bertalanffy-ludwig, wallerstein-immanuel, arrighi-giovanni, teubner-gunther, thornhill-chris, biermann-frank, meadows-donella, axelrod-robert, wiener-norbert, beer-stafford, the-rise-of-maga-systems-view, democratic-socialism-and-scale]
 influenced_by: []
 influenced: []
 ---
@@ -28,6 +28,13 @@ The framework did not so much die as migrate. Its strongest direct continuation 
 - **[[deutsch-karl|Karl Deutsch]]**, *The Nerves of Government: Models of Political Communication and Control* (1963) — the cybernetic alternative to Easton. Government as a steering system; emphasis on information flow, learning, and self-correction rather than law or coercion. The most explicitly Wiener-derived political work.
 - **[[almond-gabriel|Gabriel Almond]] and James Coleman (eds.)**, *The Politics of the Developing Areas* (1960); **Almond and G. Bingham Powell**, *Comparative Politics: A Developmental Approach* (1966) — structural-functionalism in comparative politics. Political systems compared by the functions they perform (interest articulation, aggregation, rule-making, rule-application, rule-adjudication) rather than by formal constitutional form.
 - **[[simon-herbert|Herbert Simon]]**, *Administrative Behavior* (1947) — adjacent rather than central. Bounded rationality and the limits of formal decision models inform the policy-analysis side of the systems tradition, including the RAND Corporation's institutional uptake at McNamara's Defense Department (PPBS, the Planning-Programming-Budgeting System).
+
+### Management cybernetics and Cybersyn
+
+- **[[beer-stafford|Stafford Beer]]**, *Brain of the Firm* (1972) and *The Heart of Enterprise* (1979) — the two-volume statement of the Viable System Model: any organization at any scale is modeled as five recursively nested subsystems (operations, coordination, control, intelligence, policy) on analogy with the human nervous system. The most developed cybernetic theory of organization in English.
+- **Stafford Beer**, *Designing Freedom* (1974, CBC Massey Lectures) — the compressed political statement. Argues that existing institutions fail because they cannot absorb the variety of the environments they face; redesign the information and control structure, not the people.
+- **Eden Medina**, *Cybernetic Revolutionaries: Technology and Politics in Allende's Chile* (MIT, 2011) — the standard scholarly history of Beer's Project Cybersyn (1971–73), the only state-level instance of cybernetic economic management actually attempted. Central reference point for the contemporary [[socialist-calculation-debate]] revival.
+- **Andrew Pickering**, *The Cybernetic Brain: Sketches of Another Future* (Chicago, 2010) — places Beer alongside Ashby, Walter, and Pask as the British cybernetics tradition; the most ambitious recent attempt to recover the road not taken in postwar systems thought.
 
 ### The internal critique and the discipline's exit
 

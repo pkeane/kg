@@ -7,7 +7,7 @@ died: 2001
 era: 20th century
 nationality: American
 tags: [economics, cognitive-science, artificial-intelligence, political-theory, psychology]
-related: [kahneman-daniel, drucker-peter]
+related: [kahneman-daniel, drucker-peter, beer-stafford]
 influenced_by: []
 influenced: [kahneman-daniel]
 ---
