@@ -4,7 +4,7 @@ type: school
 name: Neoliberalism
 era: late 20th century–present
 tags: [political-economy, liberalism, economics]
-related: [hayek-fa, friedman-milton, classical-liberalism, welfare-state]
+related: [hayek-fa, friedman-milton, classical-liberalism, welfare-state, what-should-carter-have-done-instead, post-neoliberal-political-economy]
 influenced_by: [hayek-fa, friedman-milton]
 influenced: []
 ---
