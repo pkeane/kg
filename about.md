@@ -8,7 +8,9 @@ The graph is meant to be a useful first step for someone exploring these areas �
 
 The core is the liberal, Marxist, conservative, and religious traditions in political and social thought, roughly from the 18th century to the present. From there it extends into moral philosophy, the American civil-rights and feminist traditions, non-Western political and religious thought, literature, psychology and psychoanalysis, visual art and film, and architecture and urbanism. Coverage is selective and reflects the interests that directed its construction.
 
-**Thinkers** are the main entry type — short profiles with key ideas, key works, and recommended secondary sources, cross-linked by influence and association. **Concepts**, **Schools**, and **Events** provide definitional context. **Topics** are different: they are exploratory pages organized as annotated bibliographies, covering areas that are still contested, still being excavated, or that cut across multiple thinkers in ways the individual entries don't capture.
+**Topics** are the front door. They are exploratory pages organized as annotated bibliographies that frame a question, a debate, or an area of ongoing argument, cutting across multiple thinkers in ways no single entry can carry. They are designed to be read first; the rest of the graph functions as the supporting apparatus a reader reaches by following the cross-links. The list of topics will keep growing as the graph expands.
+
+**Thinkers** are the bulk of the supporting material — short profiles with key ideas, key works, and recommended secondary sources, cross-linked by influence and association. **Concepts**, **Schools**, and **Events** provide definitional context for the vocabulary the thinkers and topics use.
 
 ## Selection and bias
 
