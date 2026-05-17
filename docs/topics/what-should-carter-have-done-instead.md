@@ -4,7 +4,7 @@ type: topic
 name: What Should Jimmy Carter Have Done Instead?
 era: 1970s
 tags: [american-politics, neoliberalism, political-economy, deregulation, labor, stagflation, democratic-party, carter-administration]
-related: [neoliberalism, harvey-david, reich-robert, post-neoliberal-political-economy, welfare-state-under-pressure, socialist-calculation-debate, the-rise-of-maga-systems-view, democratic-socialism-and-scale]
+related: [neoliberalism, harvey-david, reich-robert, post-neoliberal-political-economy, welfare-state-under-pressure, socialist-calculation-debate, the-rise-of-maga-systems-view, democratic-socialism-and-scale, 2008-financial-crisis-and-fallout]
 influenced_by: []
 influenced: []
 ---

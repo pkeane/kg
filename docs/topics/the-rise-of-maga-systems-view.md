@@ -4,7 +4,7 @@ type: topic
 name: The Rise of MAGA — A Systems View
 era: 21st century
 tags: [american-politics, populism, trump, maga, right-wing, media, political-economy, systems-theory]
-related: [systems-theory-and-politics, hacker-jacob, pierson-paul, skocpol-theda, benkler-yochai, levitsky-steven, ziblatt-daniel, norris-pippa, inglehart-ronald, cramer-katherine, hochschild-arlie, tesler-michael, jones-robert-p, mayer-jane, autor-david, case-anne, deaton-angus, mudde-cas, applebaum-anne, frankfurt-school]
+related: [systems-theory-and-politics, hacker-jacob, pierson-paul, skocpol-theda, benkler-yochai, levitsky-steven, ziblatt-daniel, norris-pippa, inglehart-ronald, cramer-katherine, hochschild-arlie, tesler-michael, jones-robert-p, mayer-jane, autor-david, case-anne, deaton-angus, mudde-cas, applebaum-anne, frankfurt-school, 2008-financial-crisis-and-fallout, what-should-carter-have-done-instead]
 influenced_by: []
 influenced: []
 ---
