@@ -7,7 +7,7 @@ died: 2019
 era: 20th century
 nationality: American
 tags: [economics, monetary-policy, central-banking, american-thought]
-related: [friedman-milton, keynes-jm, galbraith-john-kenneth, neoliberalism, what-should-carter-have-done-instead, post-neoliberal-political-economy, 2008-financial-crisis-and-fallout, welfare-state-under-pressure]
+related: [friedman-milton, keynes-jm, galbraith-john-kenneth, neoliberalism, atari-democrats, what-should-carter-have-done-instead, post-neoliberal-political-economy, 2008-financial-crisis-and-fallout, welfare-state-under-pressure]
 influenced_by: []
 influenced: []
 ---
