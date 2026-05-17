@@ -7,9 +7,9 @@ died: 2021
 era: 20th–21st century
 nationality: American
 tags: [feminism, african-american-thought, cultural-criticism, education]
-related: [morrison-toni, baldwin-james, murray-pauli, intersectionality, de-beauvoir-simone, freire-paulo, situated-knowledge]
+related: [morrison-toni, baldwin-james, murray-pauli, intersectionality, de-beauvoir-simone, freire-paulo, situated-knowledge, collins-patricia-hill, crenshaw-kimberle]
 influenced_by: [baldwin-james, morrison-toni]
-influenced: []
+influenced: [collins-patricia-hill, crenshaw-kimberle]
 ---
 
 # bell hooks

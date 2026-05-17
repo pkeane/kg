@@ -7,8 +7,8 @@ died: 1986
 era: 20th century
 nationality: French
 tags: [feminism, existentialism, ethics, political-theory]
-related: [wollstonecraft-mary, foucault-michel, lessing-doris, situated-knowledge]
-influenced_by: [hegel-gwf]
+related: [wollstonecraft-mary, foucault-michel, lessing-doris, situated-knowledge, merleau-ponty-maurice, sartre-jean-paul, haraway-donna, collins-patricia-hill]
+influenced_by: [hegel-gwf, sartre-jean-paul, heidegger-martin, husserl-edmund, merleau-ponty-maurice]
 influenced: [hooks-bell, feminism, lessing-doris]
 ---
 

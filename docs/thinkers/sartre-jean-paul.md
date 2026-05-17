@@ -7,8 +7,8 @@ died: 1980
 era: 20th century
 nationality: French
 tags: [existentialism, phenomenology, marxism, literature]
-related: [de-beauvoir-simone, camus-albert, existentialism, marx-karl, murdoch-iris, barthes-roland, existentialist-critique-of-history, situated-knowledge]
-influenced_by: [kierkegaard-soren, hegel-gwf, marx-karl]
+related: [de-beauvoir-simone, camus-albert, existentialism, marx-karl, murdoch-iris, barthes-roland, existentialist-critique-of-history, situated-knowledge, merleau-ponty-maurice]
+influenced_by: [kierkegaard-soren, hegel-gwf, marx-karl, heidegger-martin, husserl-edmund]
 influenced: [existentialism, fanon-frantz, shariati-ali, bellow-saul, murdoch-iris, lessing-doris, laing-rd, barthes-roland]
 ---
 
