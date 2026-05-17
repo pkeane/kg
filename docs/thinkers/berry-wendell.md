@@ -6,7 +6,7 @@ born: 1934
 era: 20th–21st century
 nationality: American
 tags: [community, environmentalism, literature, essay, christianity]
-related: [merton-thomas, day-dorothy, robinson-marilynne, o-connor-flannery, disenchantment-and-re-enchantment, bookchin-murray]
+related: [merton-thomas, day-dorothy, robinson-marilynne, o-connor-flannery, disenchantment-and-re-enchantment, bookchin-murray, situated-knowledge]
 influenced_by: []
 influenced: []
 ---

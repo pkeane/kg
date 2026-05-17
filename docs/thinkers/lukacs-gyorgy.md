@@ -7,7 +7,7 @@ died: 1971
 era: 19th–20th century
 nationality: Hungarian
 tags: [marxism, philosophy, aesthetics, literary-criticism, critical-theory, communism]
-related: [marx-karl, hegel-gwf, weber-max, marxism, western-marxism, frankfurt-school, adorno-theodor, benjamin-walter, gramsci-antonio, goldmann-lucien, brecht-bertolt]
+related: [marx-karl, hegel-gwf, weber-max, marxism, western-marxism, frankfurt-school, adorno-theodor, benjamin-walter, gramsci-antonio, goldmann-lucien, brecht-bertolt, situated-knowledge]
 influenced_by: [marx-karl, hegel-gwf, weber-max, simmel-georg]
 influenced: [frankfurt-school, adorno-theodor, benjamin-walter, western-marxism, goldmann-lucien, jameson-fredric]
 ---
