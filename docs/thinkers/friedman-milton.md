@@ -7,7 +7,7 @@ died: 2006
 era: 20th century
 nationality: American
 tags: [economics, liberalism, libertarianism]
-related: [hayek-fa, keynes-jm, neoliberalism]
+related: [hayek-fa, keynes-jm, neoliberalism, volcker-paul]
 influenced_by: [hayek-fa]
 influenced: [neoliberalism]
 ---
