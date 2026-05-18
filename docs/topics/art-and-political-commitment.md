@@ -4,7 +4,7 @@ type: topic
 name: Art and Political Commitment
 era: 20th–21st century
 tags: [art, politics, culture, aesthetics]
-related: [picasso-pablo, kollwitz-kathe, rivera-diego, shahn-ben, guthrie-woody, leadbelly, pasolini-pier-paolo, sembene-ousmane, ai-weiwei, gramsci-antonio, adorno-theodor, sontag-susan, orwell-george, sartre-jean-paul, camus-albert]
+related: [picasso-pablo, kollwitz-kathe, rivera-diego, shahn-ben, guthrie-woody, leadbelly, pasolini-pier-paolo, sembene-ousmane, ai-weiwei, gramsci-antonio, adorno-theodor, sontag-susan, orwell-george, sartre-jean-paul, camus-albert, thompson-ahmir]
 influenced_by: []
 influenced: []
 ---
@@ -42,6 +42,7 @@ The central question is whether art that takes an explicit political stand can r
 
 - **[[pasolini-pier-paolo|Pier Paolo Pasolini]]** — Pasolini's films (*Accattone*, *The Gospel According to St. Matthew*, *Salò*) are the work of a Marxist, a Catholic, and a poet who refused to separate any of these commitments. *Salò* (1975) — an adaptation of Sade set in the last days of Fascist Italy — remains one of the most disturbing and politically serious films ever made.
 - **[[sembene-ousmane|Ousmane Sembène]]** — Sembène turned to film because he wanted to reach audiences who could not read his novels. *Black Girl* (1966), *Xala* (1975), *Moolaadé* (2004) — the cinema as a tool of decolonization and social criticism, made on minimal budgets with maximum moral clarity.
+- **[[thompson-ahmir|Ahmir "Questlove" Thompson]]**, *Summer of Soul (…Or, When the Revolution Could Not Be Televised)* (2021) — Thompson's debut documentary assembled forty hours of unseen footage of the 1969 Harlem Cultural Festival into a film that is simultaneously a concert movie (Nina Simone, Sly and the Family Stone, Mahalia Jackson with Mavis Staples, Stevie Wonder, the 5th Dimension, B.B. King) and an argument about whose performances get preserved and whose are allowed to disappear. The subtitle is the political claim: the festival was televised in 1969 and then shelved for fifty years while Woodstock became the canonical memory of that summer. Won the Academy Award for Best Documentary Feature in 2022.
 
 ### Contemporary practice
 

@@ -6,7 +6,7 @@ born: 1971
 era: 20th–21st century
 nationality: American
 tags: [african-american-thought, music, hip-hop, criticism, film]
-related: [abdurraqib-hanif, lee-spike, baldwin-james, morrison-toni]
+related: [abdurraqib-hanif, lee-spike, baldwin-james, morrison-toni, art-and-political-commitment]
 influenced_by: []
 influenced: []
 ---
