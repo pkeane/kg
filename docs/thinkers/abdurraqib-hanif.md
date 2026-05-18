@@ -6,7 +6,7 @@ born: 1983
 era: 21st century
 nationality: American
 tags: [african-american-thought, literature, music, essay, poetry, criticism]
-related: [coates-ta-nehisi, baldwin-james, morrison-toni, hooks-bell, lee-spike, thompson-ahmir]
+related: [coates-ta-nehisi, baldwin-james, morrison-toni, hooks-bell, lee-spike, thompson-ahmir, american-essay]
 influenced_by: [baldwin-james]
 influenced: []
 ---

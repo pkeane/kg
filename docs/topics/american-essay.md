@@ -4,7 +4,7 @@ type: topic
 name: The American Essay
 era: 19th–21st century
 tags: [literature, american-thought, culture, politics]
-related: [emerson-rw, thoreau-henry-david, baldwin-james, didion-joan, sontag-susan, ellison-ralph, coates-ta-nehisi, berry-wendell, orwell-george, woolf-virginia, morrison-toni]
+related: [emerson-rw, thoreau-henry-david, baldwin-james, didion-joan, sontag-susan, ellison-ralph, coates-ta-nehisi, berry-wendell, orwell-george, woolf-virginia, morrison-toni, abdurraqib-hanif]
 influenced_by: []
 influenced: []
 ---
@@ -41,6 +41,7 @@ The essay does not have the institutional prestige of the novel or the cultural 
 - **[[coates-ta-nehisi|Ta-Nehisi Coates]]**, "The Case for Reparations" (*The Atlantic*, 2014) and *Between the World and Me* (2015) — Coates is Baldwin's most visible successor. "The Case for Reparations" reopened a political argument through historical reporting and moral insistence. *Between the World and Me* — a letter to his son — carries the essay-as-address from Baldwin's "My Dungeon Shook" into the twenty-first century.
 - **Marilynne Robinson**, *The Death of Adam* (1998), *When I Was a Child I Read Books* (2012), *The Givenness of Things* (2015) — Robinson's essays defend the intellectual seriousness of American Calvinism and argue for generosity, inwardness, and democratic idealism in a culture that she finds increasingly hostile to all three.
 - **Zadie Smith**, *Changing My Mind* (2009), *Feel Free* (2018) — Smith (British-born, now New York-based) writes literary and cultural essays in the Sontag-Baldwin line; wide-ranging, intellectually serious, stylistically self-aware.
+- **[[abdurraqib-hanif|Hanif Abdurraqib]]**, *They Can't Kill Us Until They Kill Us* (2017), *Go Ahead in the Rain: Notes to A Tribe Called Quest* (2019), *A Little Devil in America: Notes in Praise of Black Performance* (2021), *There's Always This Year: On Basketball and Ascension* (2024) — Abdurraqib works the essay outward from music, performance, basketball, and Columbus, Ohio. The form is braided personal-critical: a Carly Rae Jepsen show with a friend's funeral, a Tribe Called Quest album as a letter to Phife Dawg, the cakewalk and Soul Train as a long argument about Black performance under an American audience. *A Little Devil in America* received the National Book Critics Circle Award for Criticism.
 
 ### The essay as a form: critical and theoretical
 
