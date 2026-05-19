@@ -1,0 +1,61 @@
+---
+id: economics-as-open-system
+type: topic
+name: Economics as Open System
+era: 20th–21st century
+tags: [economics, methodology, philosophy-of-science, systems-theory, uncertainty, post-keynesian]
+related: [keynes-jm, hayek-fa, minsky-hyman, robinson-joan, chang-ha-joon, mazzucato-mariana, krugman-paul, friedman-milton, systems-theory-and-politics, 2008-financial-crisis-and-fallout]
+influenced_by: []
+influenced: []
+---
+
+# Economics as Open System
+
+The dispute over whether economics can be modeled with the formal precision of physics is as old as the marginalist revolution of the 1870s. On one side stands a long tradition — Léon Walras, Vilfredo Pareto, Paul Samuelson, the postwar Cowles Commission, contemporary DSGE macroeconomics — that treats the economy as a closed system whose laws of motion can in principle be specified mathematically and whose equilibria can be solved for. On the other stands a heterodox tradition — running through Frank Knight, [[keynes-jm|Keynes]], [[hayek-fa|Hayek]], [[robinson-joan|Joan Robinson]], [[minsky-hyman|Minsky]], and a contemporary methodological school associated with Tony Lawson at Cambridge — that treats the economy as an open system whose constitutive uncertainty is irreducible, not a tractable kind of risk to be priced.
+
+The "open system" label is Lawson's. The claim is that an open system is one in which the relevant causal factors are not all enumerable, not stable across time, and not isolable from one another; under those conditions, the closed-form mathematical models that economics borrowed from nineteenth-century mechanics impose a precision that the subject matter does not have. Keynes had said something similar in his 1937 *Quarterly Journal of Economics* reply to critics: investment under genuine uncertainty cannot be reduced to a calculable expected return because, for the questions that matter most, "there is no scientific basis on which to form any calculable probability whatever." Frank Knight in *Risk, Uncertainty and Profit* (1921) had already distinguished *risk* — known probability distributions — from *uncertainty* — situations in which probability itself is undefined. The distinction is now called Knightian uncertainty.
+
+What is striking about the open-system position is that it cuts across the usual political alignments. Keynes argued for active demand management; [[hayek-fa|Hayek]] argued against it. But Hayek's 1974 Nobel lecture, "The Pretence of Knowledge," made the methodological case in nearly the same terms: the attempt to manage an economy on the model of physical science is a hubris that confuses what is measurable with what is known. The dividing line in this debate is not left vs. right but between economists who treat their models as approximations of an open and historically situated system and those who treat them as specifications of a closed one. The 2008 financial crisis renewed the argument; the closed-system models had not seen it coming.
+
+## Annotated bibliography
+
+### The foundational texts
+
+- **[[keynes-jm|John Maynard Keynes]]**, *A Treatise on Probability* (1921) — Keynes's first book and his philosophical groundwork. Argues against the frequentist view that probability is always reducible to numerical calculation; many relations of probability are ordinal or non-numerical, and some are unknown. The book is the philosophical precondition of the later economic position.
+- **[[keynes-jm|John Maynard Keynes]]**, *The General Theory of Employment, Interest and Money* (1936), Chapter 12 — "The State of Long-Term Expectation." Investment decisions are made under conditions of irreducible uncertainty about the future; investors are guided not by calculable expected returns but by "animal spirits," conventions, and the shifting collective mood of the market. The model passages of the rest of *The General Theory* sit on top of this non-formalizable foundation.
+- **[[keynes-jm|John Maynard Keynes]]**, "The General Theory of Employment," *Quarterly Journal of Economics* (1937) — Keynes's reply to his critics; the most explicit single statement of the uncertainty thesis. The roulette wheel is subject to risk; the prospect of a European war, the price of copper twenty years out, the obsolescence of a new invention are subject to *uncertainty*, about which "there is no scientific basis on which to form any calculable probability whatever." The article is six pages; everyone working on this topic eventually reads it.
+- **Frank H. Knight**, *Risk, Uncertainty and Profit* (1921) — independent of Keynes and published the same year. Distinguishes risk (measurable, insurable) from uncertainty (unmeasurable, the source of profit). "Knightian uncertainty" entered the lexicon from this book.
+
+### The methodological critique
+
+- **Philip Mirowski**, *More Heat than Light: Economics as Social Physics, Physics as Nature's Economics* (Cambridge, 1989) — the canonical historical critique. Argues that the marginalist generation (Walras, Jevons, Edgeworth) literally borrowed its mathematical apparatus from mid-nineteenth-century energy physics — utility was modeled on energy, equilibrium on mechanical equilibrium — and that the borrowing was poorly understood at the time and has been forgotten since. Once you have read it the textbook diagrams look different.
+- **Philip Mirowski**, *Machine Dreams: Economics Becomes a Cyborg Science* (2002) — continuation, into the postwar Cowles Commission, von Neumann, and the rise of computational economics.
+- **Tony Lawson**, *Economics and Reality* (1997) and *Reorienting Economics* (2003) — the leading methodological argument that economics has an *ontological* problem: it treats an open system (the social economy) with formal techniques developed for closed systems (idealized physical systems). Lawson founded the Cambridge Realist Workshop and is the most-cited contemporary source for the "open system" framing.
+- **Deirdre N. McCloskey**, *The Rhetoric of Economics* (1985) — argues that economists' arguments succeed by rhetorical means (metaphor, appeals to authority, narrative) as much as by formal proof, even when economists insist they do not. The book was controversial when published; the underlying observation has become harder to dismiss.
+
+### The Austrian convergence
+
+- **F. A. Hayek**, "The Pretence of Knowledge," Nobel Memorial Lecture (1974) — Hayek's most concise statement of the methodological argument. The economic order is the product of dispersed information that no central modeler can assemble; the attempt to model it with the techniques of the natural sciences is a "scientism" that creates more damage than it prevents. The lecture is the unexpected hinge that connects the Austrian critique of central planning to the post-Keynesian critique of mechanical macroeconomics.
+- **F. A. Hayek**, "The Use of Knowledge in Society," *American Economic Review* (1945) — the earlier and more famous statement of the dispersed-information argument; the conceptual basis on which the 1974 lecture builds.
+
+### The post-Keynesian inheritance
+
+- **[[robinson-joan|Joan Robinson]]**, *Economic Philosophy* (1962) and *Economic Heresies* (1971) — Robinson, Keynes's Cambridge colleague and one of *The General Theory*'s first interpreters, spent the rest of her career arguing that the postwar "neoclassical synthesis" had absorbed Keynes only by removing what was distinctive in him. *Economic Philosophy* is the short, accessible statement; *Economic Heresies* is the more polemical.
+- **Paul Davidson**, *Money and the Real World* (1972), *Post Keynesian Macroeconomic Theory* (1994) — founder of the *Journal of Post Keynesian Economics* and the most explicit American defender of Keynes's uncertainty thesis. Davidson uses the term *non-ergodic* — drawn from statistical mechanics — to characterize the kind of system in which the past does not provide a reliable statistical guide to the future. For Davidson this is the central methodological dividing line.
+- **[[minsky-hyman|Hyman Minsky]]**, *John Maynard Keynes* (1975), *Stabilizing an Unstable Economy* (1986) — Minsky reread Keynes through the lens of finance. The financial system endogenously moves from hedge finance to speculative finance to Ponzi finance during long expansions; collapse is not an external shock but a built-in feature. Ignored for thirty years; rediscovered as "Minsky moments" after 2008.
+- **Marc Lavoie**, *Post-Keynesian Economics: New Foundations* (Edward Elgar, 2014) — the standard textbook synthesis of post-Keynesian economics, with the open-system / non-ergodic methodological framing explicit throughout. The book to read if you want to see what a sustained alternative to neoclassical pedagogy looks like.
+- **Sheila Dow**, *Foundations for New Economic Thinking* (2012) — Dow has worked the methodology of post-Keynesian economics as long and carefully as anyone living; the essays in this collection are the clearest statement of the "open-system" framing inside the post-Keynesian tradition.
+
+### Recent statements
+
+- **John Kay and Mervyn King**, *Radical Uncertainty: Decision-Making Beyond the Numbers* (2020) — the recent book-length statement, co-written by a former governor of the Bank of England. The argument is essentially Keynes's 1937 article extended to financial regulation, public policy, and personal decision-making. The authors distinguish "small worlds" (where probability calculation works) from "large worlds" (where it does not) and argue that the modern economics profession has spent decades trying to wish the second category out of existence.
+- **[[mazzucato-mariana|Mariana Mazzucato]]**, *The Entrepreneurial State* (2013) and *Mission Economy* (2021) — Mazzucato is not primarily a methodologist, but her argument that innovation depends on the public sector's willingness to absorb radical uncertainty that private capital will not is a substantive application of the open-system framing.
+- **[[chang-ha-joon|Ha-Joon Chang]]**, *Economics: The User's Guide* (2014) — Chang's textbook makes the case that there are at least nine distinct schools of economics, each with a different model of the economy, and that no one of them captures the whole. The pluralism is itself an open-system claim.
+- **Robert Skidelsky**, *Money and Government: The Past and Future of Economics* (2018) — by Keynes's biographer; the long-form historical argument that mainstream macroeconomics since the 1970s has systematically excluded the parts of Keynes that mattered most, in favor of microfoundations and rational-expectations modeling.
+- **Nassim Nicholas Taleb**, *Fooled by Randomness* (2001), *The Black Swan* (2007), *Antifragile* (2012) — from finance and probability rather than academic economics, but on the same argument: probability models of social systems systematically underestimate the tails, and the practical consequence is that the agents using them fail in the way that matters.
+- **Jens Beckert**, *Imagined Futures: Fictional Expectations and Capitalist Dynamics* (Harvard, 2016) — economic sociology rather than economics proper; argues that economic action under genuine uncertainty depends on shared "fictional expectations" — collective stories about the future that have no probabilistic basis but coordinate behavior anyway. The closest contemporary sociological statement of Keynes's animal-spirits argument.
+
+### Reflections from within the mainstream
+
+- **George A. Akerlof and Robert J. Shiller**, *Animal Spirits: How Human Psychology Drives the Economy* (2009) — by two Nobel laureates working inside mainstream economics. The title is taken from Keynes; the analysis is closer to behavioral economics than to post-Keynesian, but the book is one of the few mainstream texts to take the 1937 article seriously.
+- **[[krugman-paul|Paul Krugman]]**, "How Did Economists Get It So Wrong?" *New York Times Magazine* (September 6, 2009) — Krugman's post-crisis essay, written from within the mainstream, conceding that the profession had mistaken the beauty of its mathematical models for truth and had ignored Keynesian and Minsky-style accounts of financial instability. A useful artifact of the moment when the open-system critique reached the *Times Magazine*.

@@ -7,7 +7,7 @@ died: 1983
 era: 20th century
 nationality: British
 tags: [economics, keynesianism, political-economy, marxism]
-related: [keynes-jm, marx-karl, galbraith-john-kenneth, minsky-hyman, sen-amartya]
+related: [keynes-jm, marx-karl, galbraith-john-kenneth, minsky-hyman, sen-amartya, economics-as-open-system]
 influenced_by: [keynes-jm, marx-karl]
 influenced: [sen-amartya]
 ---

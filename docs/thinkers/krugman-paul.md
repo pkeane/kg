@@ -6,7 +6,7 @@ born: 1953
 era: 20th–21st century
 nationality: American
 tags: [economics, political-economy, journalism, keynesianism]
-related: [keynes-jm, stiglitz-joseph, piketty-thomas, galbraith-john-kenneth, minsky-hyman]
+related: [keynes-jm, stiglitz-joseph, piketty-thomas, galbraith-john-kenneth, minsky-hyman, economics-as-open-system]
 influenced_by: [keynes-jm]
 influenced: []
 ---

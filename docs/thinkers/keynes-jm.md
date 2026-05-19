@@ -7,7 +7,7 @@ died: 1946
 era: 20th century
 nationality: English
 tags: [political-economy, liberalism, economics]
-related: [hayek-fa, friedman-milton, welfare-state, mattei-clara]
+related: [hayek-fa, friedman-milton, welfare-state, mattei-clara, economics-as-open-system]
 influenced_by: [mill-js]
 influenced: [welfare-state]
 ---

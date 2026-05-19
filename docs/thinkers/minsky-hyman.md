@@ -7,7 +7,7 @@ died: 1996
 era: 20th century
 nationality: American
 tags: [economics, keynesianism, political-economy, capitalism]
-related: [keynes-jm, galbraith-john-kenneth, krugman-paul, stiglitz-joseph]
+related: [keynes-jm, galbraith-john-kenneth, krugman-paul, stiglitz-joseph, economics-as-open-system]
 influenced_by: [keynes-jm]
 influenced: []
 ---
