@@ -6,7 +6,7 @@ born: 1981
 era: 21st century
 nationality: American
 tags: [journalism, political-economy, critique-of-capitalism, inequality]
-related: [klein-naomi, piketty-thomas, sandel-michael]
+related: [klein-naomi, piketty-thomas, sandel-michael, how-to-tax-the-wealthy]
 influenced_by: []
 influenced: []
 ---
