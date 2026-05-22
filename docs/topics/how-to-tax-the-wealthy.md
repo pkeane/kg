@@ -28,7 +28,7 @@ The proposals divide roughly into those that tax a *flow* (income, including the
 ### Progressive income taxation and the optimal top rate
 
 - **James Mirrlees**, "An Exploration in the Theory of Optimum Income Taxation" (*Review of Economic Studies*, 1971). The foundational formal treatment of how to set income tax rates given the tradeoff between redistribution and the disincentive to work. Mirrlees received the Nobel Prize in 1996; the framework underlies all later optimal-tax arguments.
-- **Peter Diamond** and **Emmanuel Saez**, "The Case for a Progressive Tax: From Basic Research to Policy Recommendations" (*Journal of Economic Perspectives*, 2011). Applying the Mirrlees framework to U.S. data, the authors derive an optimal top marginal income tax rate in the region of 70 percent — far above current rates and consistent with the 91–94 percent statutory top rates the United States maintained in the 1940s and 1950s.
+- **Peter Diamond** and **Emmanuel Saez**, "The Case for a Progressive Tax: From Basic Research to Policy Recommendations" (*Journal of Economic Perspectives*, 2011). Applying the Mirrlees framework to U.S. data, the authors derive an optimal top marginal tax rate of about 73 percent — a combined figure inclusive of federal, state, and local taxes and assuming deductions are eliminated — far above current rates and in the range of the 91–94 percent statutory top federal income-tax rates the United States maintained in the 1940s and 1950s.
 
 ### Inheritance and estate taxation
 
