@@ -4,7 +4,7 @@ type: topic
 name: How to Tax the Wealthy
 era: 18th century–present
 tags: [political-economy, taxation, inequality, wealth, public-finance]
-related: [george-henry, saez-zucman, piketty-thomas, paine-thomas, stiglitz-joseph, rawls-john, ricardo-david, hacker-jacob, giridharadas-anand, gilens-page, bartels-larry, graetz-shapiro, martin-isaac-william, mayer-jane, winters-jeffrey, harrington-brooke, young-cristobal, inequality, poverty, post-neoliberal-political-economy, welfare-state-under-pressure]
+related: [george-henry, saez-zucman, piketty-thomas, paine-thomas, stiglitz-joseph, rawls-john, ricardo-david, simon-herbert, alperovitz-daly, robeyns-ingrid, mazzucato-mariana, marx-karl, hacker-jacob, giridharadas-anand, gilens-page, bartels-larry, graetz-shapiro, martin-isaac-william, mayer-jane, winters-jeffrey, harrington-brooke, young-cristobal, inequality, poverty, post-neoliberal-political-economy, welfare-state-under-pressure]
 influenced_by: []
 influenced: []
 ---
@@ -20,6 +20,16 @@ A recurring constraint organizes the mechanism literature: a tax is only as effe
 The proposals divide roughly into those that tax a *flow* (income, including the optimal-top-rate tradition and the taxation of capital gains and rents) and those that tax a *stock* (annual net worth, inheritance, or land value), with a third strand concerned not with the choice of tax but with measurement, valuation, and enforcement — the question of whether any of them can actually be collected. A fourth strand turns from instrument to politics, and argues that the chief obstacle is neither the choice of base nor administrative difficulty but the political power of the wealthy themselves. The annotated bibliography is organized by mechanism, closing with that political question.
 
 ## Annotated bibliography
+
+### Is a great fortune earned? Wealth as inheritance, social capital, and extraction
+
+Beneath the question of *how* to tax great wealth lies a prior one about its source. A line of argument holds that large fortunes are not earned in proportion to individual contribution but are mostly a return on an inherited common stock of knowledge and institutions, or are extracted from the labor and the public investment of others. On this view a high tax on great wealth reclaims a share that was never individually earned rather than confiscating just reward — which removes the strongest moral objection to taxing it heavily.
+
+- **[[simon-herbert|Herbert A. Simon]]**, "UBI and the Flat Tax" (*Boston Review*, 2000). The Nobel economist argues that at least two-thirds of income in a wealthy society is attributable not to the recipient's effort or investment but to "social capital" — the accumulated knowledge, technology, and institutions, and the "happy accident" of being born into a productive society — which no living person created. He concludes that a flat income tax on the order of 70 percent, funding a universal grant, would do no more than recognize society's shared ownership of the resources that make high incomes possible.
+- **[[alperovitz-daly|Gar Alperovitz and Lew Daly]]**, *Unjust Deserts: How the Rich Are Taking Our Common Inheritance and Why We Should Take It Back* (2008). The book-length development of Simon's claim. Drawing on the history of science and technology, the authors argue that the inherited stock of collective knowledge accounts for as much as 90 percent of present productivity, so that the largest part of any great fortune is a privatized return on a common inheritance, and taxing it is reclamation, not expropriation.
+- **[[robeyns-ingrid|Ingrid Robeyns]]**, *Limitarianism: The Case Against Extreme Wealth* (2024). The philosophical statement of the desert argument: Robeyns contends that great fortunes are produced by luck, inheritance, market structure, and the work of others far more than by individual merit, rebutting the claim that the rich deserve their wealth, and argues for an upper ceiling on permissible personal wealth enforced partly through taxation.
+- **[[mazzucato-mariana|Mariana Mazzucato]]**, *The Value of Everything: Making and Taking in the Global Economy* (2018). Reframes much elite income as *value extraction* — rent collected from existing value — rather than *value creation*, and documents how returns on publicly funded innovation (the internet, GPS, foundational pharmaceutical research) were captured privately. Recasts the question of who "earned" a fortune as a question of who created the value and who merely captured it. See also [[stiglitz-joseph|Stiglitz]] on rent in the section below.
+- **[[marx-karl|Karl Marx]]**, *Capital*, vol. 1 (1867). The foundational form of the extraction argument: surplus value as unpaid labor appropriated by the owner of capital — profit understood as value taken from the worker rather than created by the capitalist. The 19th-century ancestor of the contemporary "nobody earns a billion dollars" claim.
 
 ### The classic answer: tax land and economic rent
 

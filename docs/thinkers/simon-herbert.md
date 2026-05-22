@@ -7,7 +7,7 @@ died: 2001
 era: 20th century
 nationality: American
 tags: [economics, cognitive-science, artificial-intelligence, political-theory, psychology]
-related: [kahneman-daniel, drucker-peter, beer-stafford]
+related: [kahneman-daniel, drucker-peter, beer-stafford, alperovitz-daly, how-to-tax-the-wealthy]
 influenced_by: []
 influenced: [kahneman-daniel]
 ---
@@ -22,7 +22,7 @@ From the mid-1950s Simon, with Newell and the programmer Cliff Shaw, was one of 
 
 *Human Problem Solving* (1972, with Newell) is the long statement of the symbol-processing account of cognition. *The Sciences of the Artificial* (1969, revised 1981, 1996) is the shorter book in which Simon set out the argument that human-made systems — organizations, economies, designed artifacts — are the proper subject of their own general science, distinct from the natural sciences of given matter. It remains in print and widely taught in design, management, and systems theory.
 
-Simon's political-theoretical contribution is less widely known but substantial. He argued against the neoclassical-economic picture of the firm as a nexus of contracts for a picture in which the firm is an actual authority-based organization, and against Friedrich Hayek's picture of the market as the unique information-processing solution for a picture in which both markets and hierarchies are imperfect boundedly-rational arrangements. His position was broadly supportive of a regulated, mixed-economy social democracy; he was an early critic of the neoliberal turn of the 1980s. He died at Carnegie Mellon in 2001.
+Simon's political-theoretical contribution is less widely known but substantial. He argued against the neoclassical-economic picture of the firm as a nexus of contracts for a picture in which the firm is an actual authority-based organization, and against Friedrich Hayek's picture of the market as the unique information-processing solution for a picture in which both markets and hierarchies are imperfect boundedly-rational arrangements. His position was broadly supportive of a regulated, mixed-economy social democracy; he was an early critic of the neoliberal turn of the 1980s. Late in life, in "UBI and the Flat Tax" (*Boston Review*, 2000), he argued that at least two-thirds of income in a wealthy society is attributable to inherited "social capital" rather than to individual effort, and that a flat tax on the order of 70 percent funding a universal grant would do no more than recognize society's shared ownership of the resources that make high incomes possible — an argument later developed at length by [[alperovitz-daly|Alperovitz and Daly]]. See [[how-to-tax-the-wealthy]]. He died at Carnegie Mellon in 2001.
 
 ## Why here
 

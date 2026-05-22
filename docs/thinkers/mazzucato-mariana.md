@@ -6,7 +6,7 @@ born: 1968
 era: 20th–21st century
 nationality: Italian-American
 tags: [economics, political-economy, technology]
-related: [keynes-jm, galbraith-john-kenneth, stiglitz-joseph, krugman-paul, polanyi-karl, welfare-state, acemoglu-daron, pahlka-jennifer, state-capacity-and-technology, post-neoliberal-political-economy, economics-as-open-system]
+related: [keynes-jm, galbraith-john-kenneth, stiglitz-joseph, krugman-paul, polanyi-karl, welfare-state, acemoglu-daron, pahlka-jennifer, state-capacity-and-technology, post-neoliberal-political-economy, economics-as-open-system, how-to-tax-the-wealthy]
 influenced_by: [keynes-jm]
 influenced: []
 ---
