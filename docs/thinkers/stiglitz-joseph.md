@@ -6,7 +6,7 @@ born: 1943
 era: 20th–21st century
 nationality: American
 tags: [economics, political-economy, inequality, globalization]
-related: [piketty-thomas, sen-amartya, harvey-david, klein-naomi, giridharadas-anand, chang-ha-joon, saez-zucman, george-henry, inequality, neoliberalism, welfare-state]
+related: [piketty-thomas, sen-amartya, harvey-david, klein-naomi, giridharadas-anand, chang-ha-joon, saez-zucman, george-henry, how-to-tax-the-wealthy, inequality, neoliberalism, welfare-state]
 influenced_by: []
 influenced: []
 ---

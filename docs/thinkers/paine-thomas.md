@@ -7,7 +7,7 @@ died: 1809
 era: 18th century
 nationality: English / American
 tags: [radicalism, republicanism, natural-rights, revolution]
-related: [burke-edmund, french-revolution, locke-john, blake-william, george-henry]
+related: [burke-edmund, french-revolution, locke-john, blake-william, george-henry, how-to-tax-the-wealthy]
 influenced_by: [locke-john]
 influenced: [blake-william]
 ---

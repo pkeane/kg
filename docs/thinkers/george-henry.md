@@ -7,7 +7,7 @@ died: 1897
 era: 19th century
 nationality: American
 tags: [economics, political-economy, land, inequality, taxation]
-related: [ricardo-david, paine-thomas, stiglitz-joseph, piketty-thomas, inequality, poverty]
+related: [ricardo-david, paine-thomas, stiglitz-joseph, piketty-thomas, saez-zucman, how-to-tax-the-wealthy, inequality, poverty]
 influenced_by: [ricardo-david]
 influenced: []
 ---
