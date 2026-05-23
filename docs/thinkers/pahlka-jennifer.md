@@ -5,7 +5,7 @@ name: Jennifer Pahlka
 era: 20th–21st century
 nationality: American
 tags: [government, technology, public-administration, democracy, political-economy]
-related: [mazzucato-mariana, acemoglu-daron, doctorow-cory, state-capacity-and-technology]
+related: [mazzucato-mariana, acemoglu-daron, doctorow-cory, liscow-zachary, state-capacity-and-technology]
 influenced_by: []
 influenced: []
 ---
