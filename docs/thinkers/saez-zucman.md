@@ -6,7 +6,7 @@ born: 1972
 era: 20th–21st century
 nationality: French / American
 tags: [economics, political-economy, inequality, taxation]
-related: [piketty-thomas, stiglitz-joseph, george-henry, how-to-tax-the-wealthy, inequality, poverty, post-neoliberal-political-economy]
+related: [zucman-gabriel, piketty-thomas, stiglitz-joseph, george-henry, how-to-tax-the-wealthy, inequality, poverty, post-neoliberal-political-economy]
 influenced_by: [piketty-thomas]
 influenced: []
 ---
