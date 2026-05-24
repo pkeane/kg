@@ -7,7 +7,7 @@ died: 2002
 era: 20th century
 nationality: American
 tags: [liberalism, political-theory, justice, social-contract]
-related: [mill-js, kant-immanuel, nozick-robert, social-contract, justice-as-fairness, anderson-elizabeth, dworkin-ronald, nussbaum-martha, sen-amartya, habermas-jurgen, sandel-michael, cohen-ga, saez-zucman, how-to-tax-the-wealthy, post-neoliberal-political-economy, mills-charles]
+related: [mill-js, kant-immanuel, nozick-robert, social-contract, justice-as-fairness, anderson-elizabeth, dworkin-ronald, nussbaum-martha, sen-amartya, habermas-jurgen, sandel-michael, cohen-ga, saez-zucman, how-to-tax-the-wealthy, post-neoliberal-political-economy, mills-charles, chandler-daniel]
 influenced_by: [kant-immanuel, mill-js]
 influenced: [nozick-robert]
 ---

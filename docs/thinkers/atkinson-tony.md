@@ -7,7 +7,7 @@ died: 2017
 era: 20th–21st century
 nationality: British
 tags: [economics, inequality, poverty, public-economics, taxation]
-related: [piketty-thomas, saez-zucman, zucman-gabriel, stiglitz-joseph, sen-amartya, rawls-john, how-to-tax-the-wealthy, inequality, poverty]
+related: [piketty-thomas, saez-zucman, zucman-gabriel, stiglitz-joseph, sen-amartya, rawls-john, chandler-daniel, how-to-tax-the-wealthy, inequality, poverty]
 influenced_by: []
 influenced: [piketty-thomas, saez-zucman, zucman-gabriel]
 ---

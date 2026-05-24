@@ -6,7 +6,7 @@ born: 1933
 era: 20th–21st century
 nationality: Indian
 tags: [political-economy, liberalism, economics, ethics]
-related: [rawls-john, smith-adam, mill-js]
+related: [rawls-john, smith-adam, mill-js, robeyns-ingrid, chandler-daniel]
 influenced_by: [smith-adam, mill-js, rawls-john]
 influenced: []
 ---

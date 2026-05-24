@@ -4,7 +4,7 @@ type: topic
 name: How to Tax the Wealthy
 era: 18th century–present
 tags: [political-economy, taxation, inequality, wealth, public-finance]
-related: [george-henry, saez-zucman, zucman-gabriel, atkinson-tony, piketty-thomas, paine-thomas, stiglitz-joseph, rawls-john, ricardo-david, simon-herbert, alperovitz-daly, robeyns-ingrid, mazzucato-mariana, marx-karl, hacker-jacob, giridharadas-anand, gilens-page, bartels-larry, graetz-shapiro, martin-isaac-william, mayer-jane, winters-jeffrey, harrington-brooke, young-cristobal, liscow-zachary, inequality, poverty, post-neoliberal-political-economy, welfare-state-under-pressure]
+related: [george-henry, saez-zucman, zucman-gabriel, atkinson-tony, piketty-thomas, paine-thomas, stiglitz-joseph, rawls-john, ricardo-david, simon-herbert, alperovitz-daly, robeyns-ingrid, mazzucato-mariana, marx-karl, hacker-jacob, giridharadas-anand, gilens-page, bartels-larry, graetz-shapiro, martin-isaac-william, mayer-jane, winters-jeffrey, harrington-brooke, young-cristobal, liscow-zachary, chandler-daniel, inequality, poverty, post-neoliberal-political-economy, welfare-state-under-pressure]
 influenced_by: []
 influenced: []
 ---
