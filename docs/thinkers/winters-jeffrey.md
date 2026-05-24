@@ -5,7 +5,7 @@ name: Jeffrey A. Winters
 era: 20th–21st century
 nationality: American
 tags: [political-science, oligarchy, inequality, wealth]
-related: [saez-zucman, how-to-tax-the-wealthy, inequality]
+related: [saez-zucman, how-to-tax-the-wealthy, inequality, monopoly-and-democracy]
 influenced_by: []
 influenced: []
 ---

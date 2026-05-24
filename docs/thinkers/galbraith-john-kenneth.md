@@ -7,7 +7,7 @@ died: 2006
 era: 20th century
 nationality: Canadian-American
 tags: [economics, political-economy, keynesianism, american-thought]
-related: [keynes-jm, veblen-thorstein, krugman-paul, minsky-hyman, welfare-state]
+related: [keynes-jm, veblen-thorstein, krugman-paul, minsky-hyman, welfare-state, monopoly-and-democracy]
 influenced_by: [keynes-jm, veblen-thorstein]
 influenced: []
 ---
