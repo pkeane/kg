@@ -7,7 +7,7 @@ died: 2014
 era: 20th–21st century
 nationality: Jamaican-British
 tags: [cultural-studies, race, diaspora, media, marxism, new-left]
-related: [gramsci-antonio, althusser-louis, williams-raymond, thompson-ep, marxism, cultural-studies, fanon-frantz, hoggart-richard, new-left-review, new-left]
+related: [gramsci-antonio, althusser-louis, williams-raymond, thompson-ep, marxism, cultural-studies, fanon-frantz, hoggart-richard, new-left-review, new-left, bourdieu-pierre]
 influenced_by: [gramsci-antonio, althusser-louis, marx-karl, fanon-frantz, williams-raymond, thompson-ep]
 influenced: [cultural-studies]
 ---

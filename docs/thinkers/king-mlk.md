@@ -7,7 +7,7 @@ died: 1968
 era: 20th century
 nationality: American
 tags: [civil-rights, theology, nonviolence, political-theory, christianity, race]
-related: [tillich-paul, merton-thomas, tolstoy-leo, gandhi-mohandas, thurman-howard, dylan-bob, heschel-abraham-joshua]
+related: [tillich-paul, merton-thomas, tolstoy-leo, gandhi-mohandas, thurman-howard, dylan-bob, heschel-abraham-joshua, baker-ella]
 influenced_by: [tillich-paul, tolstoy-leo, gandhi-mohandas, thurman-howard]
 influenced: []
 ---

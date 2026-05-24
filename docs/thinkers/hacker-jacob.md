@@ -6,7 +6,7 @@ born: 1971
 era: 21st century
 nationality: American
 tags: [political-science, political-economy, inequality, social-democracy, democracy]
-related: [pierson-paul, reich-robert, piketty-thomas, putnam-robert, inequality, welfare-state, acemoglu-daron, the-rise-of-maga-systems-view, democratic-socialism-and-scale, systems-theory-and-politics, how-to-tax-the-wealthy, gilens-page, bartels-larry, mayer-jane]
+related: [pierson-paul, reich-robert, piketty-thomas, putnam-robert, inequality, welfare-state, acemoglu-daron, the-rise-of-maga-systems-view, democratic-socialism-and-scale, systems-theory-and-politics, how-to-tax-the-wealthy, gilens-page, bartels-larry, mayer-jane, levitsky-ziblatt]
 influenced_by: []
 influenced: []
 ---

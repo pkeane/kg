@@ -7,7 +7,7 @@ died: 1972
 era: 20th century
 nationality: Polish-American
 tags: [theology, philosophy, Judaism, civil-rights, mysticism]
-related: [king-mlk, niebuhr-reinhold, tillich-paul, merton-thomas, thurman-howard, bonhoeffer-dietrich, day-dorothy, cone-james, buber-martin]
+related: [king-mlk, niebuhr-reinhold, tillich-paul, merton-thomas, thurman-howard, bonhoeffer-dietrich, day-dorothy, cone-james, buber-martin, brueggemann-walter]
 influenced_by: []
 influenced: [king-mlk, cone-james]
 ---

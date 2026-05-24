@@ -7,7 +7,7 @@ died: 1970
 era: 20th century
 nationality: American
 tags: [history, american-thought, political-theory, criticism]
-related: [niebuhr-reinhold, trilling-lionel, schlesinger-arthur]
+related: [niebuhr-reinhold, trilling-lionel, schlesinger-arthur, hirschman-albert, foner-eric]
 influenced_by: [niebuhr-reinhold]
 influenced: []
 ---

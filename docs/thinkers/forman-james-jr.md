@@ -6,7 +6,7 @@ born: 1967
 era: 20th–21st century
 nationality: American
 tags: [law, criminal-justice, race, african-american-thought, education]
-related: [stevenson-bryan, alexander-michelle, wilkerson-isabel, du-bois-web]
+related: [stevenson-bryan, alexander-michelle, wilkerson-isabel, du-bois-web, baker-ella]
 influenced_by: []
 influenced: []
 ---

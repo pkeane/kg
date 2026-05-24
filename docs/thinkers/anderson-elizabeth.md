@@ -6,7 +6,7 @@ born: 1959
 era: 20th–21st century
 nationality: American
 tags: [philosophy, ethics, political-theory, race, economics, democracy]
-related: [rawls-john, sen-amartya, dworkin-ronald, dewey-john, young-iris-marion, inequality, racism, racial-capitalism, justice-as-fairness, cohen-ga]
+related: [rawls-john, sen-amartya, dworkin-ronald, dewey-john, young-iris-marion, inequality, racism, racial-capitalism, justice-as-fairness, cohen-ga, mills-charles]
 influenced_by: [rawls-john, sen-amartya, dewey-john]
 influenced: []
 ---

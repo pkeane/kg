@@ -6,7 +6,7 @@ born: 1965
 era: 20th–21st century
 nationality: German-American
 tags: [history, political-economy, capitalism, slavery, globalization]
-related: [du-bois-web, robinson-cedric, piketty-thomas, hobsbawm-eric, harvey-david, marx-karl, racial-capitalism, new-history-of-capitalism]
+related: [du-bois-web, robinson-cedric, piketty-thomas, hobsbawm-eric, harvey-david, marx-karl, racial-capitalism, new-history-of-capitalism, foner-eric]
 influenced_by: [du-bois-web, marx-karl]
 influenced: []
 ---

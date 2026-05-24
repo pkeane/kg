@@ -7,7 +7,7 @@ died: 1973
 era: 20th century
 nationality: German-American
 tags: [political-theory, conservatism, philosophy, history-of-ideas]
-related: [nietzsche-friedrich, arendt-hannah]
+related: [nietzsche-friedrich, arendt-hannah, schmitt-carl]
 influenced_by: [nietzsche-friedrich]
 influenced: []
 ---

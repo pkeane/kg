@@ -7,7 +7,7 @@ died: 1975
 era: 20th century
 nationality: German-American
 tags: [political-theory, totalitarianism, republicanism, phenomenology]
-related: [kant-immanuel, hegel-gwf, orwell-george, benjamin-walter]
+related: [kant-immanuel, hegel-gwf, orwell-george, benjamin-walter, schmitt-carl]
 influenced_by: [kant-immanuel, heidegger-martin]
 influenced: []
 ---

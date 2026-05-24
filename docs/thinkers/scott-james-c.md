@@ -7,7 +7,7 @@ died: 2024
 era: 20th–21st century
 nationality: American
 tags: [political-science, anthropology, anarchism, agrarian-studies, state-capacity]
-related: [berry-wendell, shiva-vandana, state-capacity-and-technology, situated-knowledge]
+related: [berry-wendell, shiva-vandana, state-capacity-and-technology, situated-knowledge, ostrom-elinor]
 influenced_by: [thompson-ep, polanyi-karl]
 influenced: []
 ---
