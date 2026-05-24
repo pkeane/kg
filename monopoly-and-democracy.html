@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><title>Monopoly and Democracy</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+:root { --fg: #2a2520; --muted: #7a7068; --accent: #6b3a2a; --bg: #f5f0e8; --card: #faf8f3; --border: #d8d0c4; }
+body.period-pre-1900 { --bg: #ffffff; --card: #fafafa; --border: #e0e0e0; }
+body.period-1900-1945 { --bg: #f2f7ff; --card: #f9fbff; --border: #c8d6ec; }
+body.period-1946-onward { --bg: #ffffea; --card: #fffff5; --border: #e8e0a8; }
+.period-swatch { display: inline-block; width: .7em; height: .7em; border-radius: 50%; margin-right: .5em; vertical-align: middle; border: 1px solid rgba(0,0,0,.2); }
+.swatch-pre-1900 { background: #ffffff; }
+.swatch-1900-1945 { background: #b8cee8; }
+.swatch-1946-onward { background: #ffe866; }
+.index-section h3.bucket.thinker-pre-1900 { background: #ffffff; padding: .4em .6em; border-left: 3px solid #bbbbbb; }
+.index-section h3.bucket.thinker-1900-1945 { background: #f2f7ff; padding: .4em .6em; border-left: 3px solid #8aa8d0; }
+.index-section h3.bucket.thinker-1946-onward { background: #ffffea; padding: .4em .6em; border-left: 3px solid #d9c34a; }
+* { box-sizing: border-box; }
+html { font-size: 125%; }
+body { font-family: Georgia, 'Iowan Old Style', serif; max-width: 1100px; margin: 2em auto; padding: 0 1.2em; color: var(--fg); background: var(--bg); line-height: 1.55; }
+@media (max-width: 600px) { html { font-size: 110%; } body { margin: 1em auto; } }
+header { border-bottom: 2px solid #2a2520; margin-bottom: 1.5em; padding-bottom: .8em; }
+header a { color: var(--fg); text-decoration: none; }
+header nav { font-size: .9em; color: var(--muted); margin-top: .3em; }
+header nav a { margin-right: .8em; }
+header nav .nav-sep { margin-right: .8em; color: var(--border); }
+h1 { margin: 0; font-size: 1.9em; letter-spacing: -.02em; }
+h2 { margin-top: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: .2em; font-size: 1.25em; }
+h3 { font-size: 1.05em; color: var(--muted); margin-top: 1.4em; }
+a { color: var(--accent); }
+a:hover { text-decoration: none; }
+.meta { color: var(--muted); font-size: .9em; font-style: italic; margin-bottom: 1.2em; }
+.tags { margin: .5em 0 1em; }
+.tag { display: inline-block; font-size: .78em; background: var(--card); border: 1px solid var(--border); padding: .1em .6em; border-radius: 10px; margin-right: .3em; color: var(--muted); text-decoration: none; }
+.tag:hover { border-color: var(--accent); color: var(--accent); }
+.sidebar { background: var(--card); border: 1px solid var(--border); padding: .8em 1.2em; margin: 1.5em 0; border-radius: 4px; font-size: .93em; }
+.sidebar h3 { margin-top: 0; font-size: .8em; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); border: none; }
+.sidebar ul { margin: .3em 0; padding-left: 1.2em; }
+.sidebar ul li { margin: .15em 0; }
+.index-section { margin-bottom: 2em; }
+.index-section h3.bucket { margin: 1.2em 0 .3em; font-size: .95em; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.index-section h3.bucket .bucket-count { text-transform: none; letter-spacing: 0; font-weight: normal; }
+.index-section ul { list-style: none; padding: 0; columns: 2; column-gap: 2em; }
+.index-section ul li { margin: .2em 0; break-inside: avoid; }
+.index-section .dates { color: var(--muted); font-size: .85em; }
+#filter { width: 100%; padding: .5em .7em; border: 1px solid var(--border); border-radius: 4px; font-size: 1em; margin-bottom: 1.5em; background: var(--card); font-family: inherit; }
+.broken { color: #a00; border-bottom: 1px dashed #a00; text-decoration: none; }
+footer { margin-top: 3em; padding-top: 1em; border-top: 1px solid var(--border); color: var(--muted); font-size: .85em; }
+</style>
+</head><body class="">
+<header>
+<a href="index.html"><strong>Knowledge Graph</strong></a>
+<nav><a href="about/">About</a><a href="changelog/">Change Log</a><span class="nav-sep">|</span><a href="index.html#topic">Topics</a><a href="index.html#concept">Concepts</a><a href="index.html#school">Schools & Movements</a><a href="index.html#event">Events</a><a href="thinkers/">Thinkers</a><a href="tags/">Tags</a></nav>
+</header>
+<h1>Monopoly and Democracy</h1>
+<div class="meta">19th century–present</div>
+<div class="tags"><a class="tag" href="index.html?tag=political-economy">#political-economy</a><a class="tag" href="index.html?tag=antitrust">#antitrust</a><a class="tag" href="index.html?tag=monopoly">#monopoly</a><a class="tag" href="index.html?tag=democracy">#democracy</a><a class="tag" href="index.html?tag=inequality">#inequality</a><a class="tag" href="index.html?tag=regulation">#regulation</a></div>
+
+<p>The question this topic gathers: are concentrated economic power and concentrated political power one problem or two? A line of American writing running from Louis Brandeis in the 1910s through a contemporary revival has held that they are one. Concentrated market power produces concentrated wealth (through monopoly rents), concentrated wealth then buys concentrated political power (through campaign finance, lobbying, ownership of media, and capture of regulatory agencies), and that political power protects the original market position against the public action that might dissolve it. On this view antimonopoly and antiplutocracy are not adjacent reforms but two visible faces of one underlying concentration, which is why the political coalitions that have fought (and abandoned) each fight have been the same coalitions.</p>
+<p>The historical record supports the unity. The American statutory apparatus of antimonopoly — the Sherman Antitrust Act (1890), the Clayton Antitrust Act and the Federal Trade Commission Act (both 1914) — and the apparatus of progressive taxation — the Sixteenth Amendment authorizing the federal income tax (1913), the federal estate tax (1916) — were enacted within a single political moment by overlapping coalitions, and were treated by their proponents as paired instruments against the same trust-era concentration. Wilson's 1912 "New Freedom" platform, drafted with Brandeis, made the case explicit. The mid-twentieth-century New Deal extended both fronts; the post-1970s political consensus, on this argument, abandoned both together.</p>
+<p>The intellectual displacement of the antimonopoly tradition is usually dated to Robert Bork's <em>The Antitrust Paradox</em> (1978) and the Chicago School around it: the argument that antitrust should be concerned only with short-run price effects on consumers, not with structural concentration, political power, or supplier dependence. Adopted by the Reagan-era Department of Justice and ratified by a generation of federal-court decisions, the "consumer welfare standard" displaced the older multidimensional account in which Brandeisian concerns about democracy had a place. The contemporary revival — sometimes called "neo-Brandeisian" — is in large part an argument for restoring that older account.</p>
+<p>The connection to <a href="how-to-tax-the-wealthy.html">How to Tax the Wealthy</a> is direct: the political-economy obstacles documented there (the Gilens–Page–Bartels findings on unequal political voice, <a href="winters-jeffrey.html">Winters</a>'s "income defense industry," <a href="mayer-jane.html">Mayer</a>'s donor-network apparatus, the asymmetry in <a href="harrington-brooke.html">Harrington</a>'s wealth-management profession) operate on the antimonopoly front as well; concentrated wealth funds the resistance to both tax and antitrust enforcement, and concentrated market power produces the wealth that funds the resistance.</p>
+<h2>Annotated bibliography</h2>
+<h3>The Progressive-era foundation</h3>
+<ul>
+<li><strong>Louis D. Brandeis</strong>, <em>Other People's Money — and How the Bankers Use It</em> (1914). The original. A series of magazine articles published in <em>Harper's Weekly</em> and gathered into a book, in which Brandeis — then a Boston lawyer, soon (1916) the first Jewish Supreme Court justice — argued that the financial concentration represented by the J. P. Morgan-era interlocking directorates was incompatible with American republican government. The work fed directly into Wilson's New Freedom legislative program: the Federal Reserve Act (1913), the Federal Trade Commission Act, and the Clayton Antitrust Act (both 1914).</li>
+<li><strong>Louis D. Brandeis</strong>, <em>The Curse of Bigness: Miscellaneous Papers</em> (ed. Osmond K. Fraenkel, 1934). The collection of Brandeis's later essays and judicial opinions in which the "curse of bigness" phrase recurs. Brandeis's central claim — that "bigness" (concentrated economic scale) was a distinct social problem irreducible to either monopoly pricing or inefficiency — supplied the doctrinal foundation for the multidimensional pre-Bork antitrust tradition. The widely circulated formulation, "We may have democracy, or we may have wealth concentrated in the hands of a few, but we cannot have both," does not appear in Brandeis's own writings; its earliest published attribution is by Raymond Lonergan in Irving Dilliard, ed., <em>Mr. Justice Brandeis, Great American: Press Opinion and Public Appraisal</em> (1941). The position it states is, however, accurately Brandeisian.</li>
+<li><strong>Theodore Roosevelt</strong>, <em>The New Nationalism</em> (1910). Roosevelt's alternative — <em>regulated</em> monopoly under federal supervision rather than Brandeis's broken-up competition — was the other antimonopoly tradition of the period, and the unresolved Roosevelt–Brandeis disagreement runs through the literature.</li>
+<li><strong><a href="hofstadter-richard.html">Richard Hofstadter</a></strong>, <em>The Age of Reform</em> (1955). The standard mid-century synthesis, which read progressive taxation and antitrust as twin instruments of a single Populist-then-Progressive response to the trust era, animated by the same anxiety about plutocracy.</li>
+</ul>
+<h3>The mid-twentieth-century interlude: countervailing power and the New Deal</h3>
+<ul>
+<li><strong><a href="galbraith-john-kenneth.html">John Kenneth Galbraith</a></strong>, <em>American Capitalism: The Concept of Countervailing Power</em> (1952). Galbraith's defense of the mid-century American settlement: an economy of large corporations was acceptable to democratic society if those corporations were balanced by large unions, organized buyers, and an active state. Not a Brandeisian position — Galbraith accepted bigness as inevitable — but a different account of how monopoly power could be politically contained.</li>
+<li><strong><a href="galbraith-john-kenneth.html">John Kenneth Galbraith</a></strong>, <em>The New Industrial State</em> (1967). The longer statement of the managerial-corporate economy as an essentially planned system whose political problem was control of the planners rather than dispersal of the firms.</li>
+</ul>
+<h3>The Chicago School and the consumer-welfare turn</h3>
+<ul>
+<li><strong>Robert H. Bork</strong>, <em>The Antitrust Paradox: A Policy at War with Itself</em> (Basic Books, 1978). The book that displaced the Brandeisian tradition in American antitrust doctrine. Bork argued that the Sherman Act's purpose, properly read, was consumer welfare alone — measured by short-run price and output effects — and that all other concerns the older tradition entertained (concentration as such, dispersal of economic power, political effects, supplier and labor effects) were doctrinally illegitimate. Adopted by the Reagan administration, ratified by a generation of federal-court opinions, and the framework against which the contemporary neo-Brandeisian literature defines itself.</li>
+<li><strong>Richard Posner</strong>, <em>Antitrust Law: An Economic Perspective</em> (1976; 2nd ed. 2001). The companion academic statement.</li>
+</ul>
+<h3>The neo-Brandeisian revival</h3>
+<ul>
+<li><strong>Lina Khan</strong>, "Amazon's Antitrust Paradox," <em>Yale Law Journal</em> 126 (2017): 710–805. The student note that catalyzed the modern revival. Khan argued that Amazon's documented strategy of below-cost pricing to build platform dominance was harmful precisely in ways the consumer-welfare standard could not see: it consolidated market power, displaced suppliers, and would in time produce the harms the standard was supposed to police, but the standard would diagnose nothing because contemporary prices were low. Khan went on to chair the Federal Trade Commission from 2021 to 2025, the first sustained federal application of the framework.</li>
+<li><strong>Tim Wu</strong>, <em>The Curse of Bigness: Antitrust in the New Gilded Age</em> (Columbia Global Reports, 2018). The explicit revival of the Brandeisian framework. Wu argues that the contemporary platform monopolies (Google, Amazon, Meta, Apple) and contemporary inequality are the same problem, and that the consumer-welfare standard's narrowing of antitrust was a category error that left the original constitutional concerns of the antimonopoly tradition without a doctrinal home. <em>The Master Switch</em> (2010) is the longer history of information-industry concentration.</li>
+<li><strong>Zephyr Teachout</strong>, <em>Corruption in America: From Benjamin Franklin's Snuff Box to Citizens United</em> (Harvard, 2014); <em>Break 'Em Up: Recovering Our Freedom from Big Ag, Big Tech, and Big Money</em> (2020). Teachout, a law professor at Fordham, argues that the original American constitutional vocabulary of "corruption" — broader than the modern quid-pro-quo definition — covered exactly the structural-political effects of monopoly that contemporary doctrine cannot reach, and that <em>Citizens United v. FEC</em> (2010) is the late-doctrinal symptom of having lost this vocabulary.</li>
+<li><strong>Matt Stoller</strong>, <em>Goliath: The 100-Year War Between Monopoly Power and Democracy</em> (Simon &amp; Schuster, 2019). The long historical narrative. Stoller traces a century-long argument between an antimonopoly tradition — Brandeis, the Populists, Senator Wright Patman, the New Dealers around Thurman Arnold — and a pro-concentration tradition centered on managerial efficiency, with the Carter and Reagan administrations as the political pivot at which the antimonopolists lost. He directs the American Economic Liberties Project.</li>
+<li><strong>Barry C. Lynn</strong>, <em>Cornered: The New Monopoly Capitalism and the Economics of Destruction</em> (2010); <em>Liberty from All Masters: The New American Autocracy vs. The Will of the People</em> (2020). Lynn's Open Markets Institute (he was pushed out of New America in 2017 after his unit criticized Google, a major donor — itself a story about the topic) has been the operational center of the revival, providing the institutional infrastructure for Khan, Stoller, and others.</li>
+</ul>
+<h3>Empirical evidence: are markets less competitive?</h3>
+<ul>
+<li><strong>Thomas Philippon</strong>, <em>The Great Reversal: How America Gave Up on Free Markets</em> (Belknap / Harvard, 2019). The empirical case. Philippon, an NYU finance economist, documents that U.S. product markets — airlines, telecoms, banking, broadband — have grown markedly more concentrated and less competitive since around 2000, and that European markets, ironically, are now more competitive than American ones. The mechanism, he argues, is regulatory capture and the political defense of incumbent positions, not natural increasing returns.</li>
+<li><strong>Jonathan Tepper</strong> with <strong>Denise Hearn</strong>, <em>The Myth of Capitalism: Monopolies and the Death of Competition</em> (Wiley, 2018). A briefer, less academic survey of the same empirical territory, sector by sector.</li>
+<li><strong>John Kwoka</strong>, <em>Mergers, Merger Control, and Remediation: A Retrospective Analysis of U.S. Policy</em> (MIT, 2015). The under-cited empirical study showing that consummated U.S. mergers have, on average, raised prices — direct evidence that even on the consumer-welfare standard's own terms, post-Bork enforcement has been too permissive.</li>
+</ul>
+<h3>The political-economy mechanism: how concentration buys concentration</h3>
+<ul>
+<li><strong><a href="stiglitz-joseph.html">Joseph Stiglitz</a></strong>, <em>The Price of Inequality: How Today's Divided Society Endangers Our Future</em> (2012); <em>People, Power, and Profits: Progressive Capitalism for an Age of Discontent</em> (2019). The economist's case that much top-end income is rent extracted through market power and political capture rather than productive contribution. The framework connects monopoly and concentrated wealth as two readings of the same underlying phenomenon.</li>
+<li><strong><a href="mazzucato-mariana.html">Mariana Mazzucato</a></strong>, <em>The Value of Everything: Making and Taking in the Global Economy</em> (2018). Reframes much elite income as value <em>extraction</em> (rent collected from existing value) rather than value <em>creation</em>, and gives the platform-economy specifics.</li>
+<li><strong><a href="hacker-jacob.html">Jacob Hacker</a> and Paul Pierson</strong>, <em>Winner-Take-All Politics</em> (2010). Documents the political mobilization side: the post-1970s rise in top incomes was produced by organized political action — the mobilization of business, the decline of unions — rather than by impersonal market forces. The mirror image of the antitrust-abandonment story.</li>
+<li><strong>Brink Lindsey</strong> and <strong>Steven Teles</strong>, <em>The Captured Economy: How the Powerful Enrich Themselves, Slow Down Growth, and Increase Inequality</em> (Oxford, 2017). The libertarian-adjacent center-left case that growing inequality stems specifically from rent-seeking through regulatory capture in finance, intellectual property, occupational licensing, and land-use zoning. Distinctive because it locates the mechanism precisely where the consumer-welfare standard's blind spots are.</li>
+<li><strong><a href="winters-jeffrey.html">Jeffrey Winters</a></strong>, <em>Oligarchy</em> (2011) — already in the <a href="how-to-tax-the-wealthy.html">How to Tax the Wealthy</a> bibliography. The "income defense industry" generalizes naturally to a regulatory-defense industry: the lawyers, lobbyists, and consultants the wealthy retain to resist both higher taxes and stronger antitrust.</li>
+</ul>
+<h3>Information and platform power</h3>
+<ul>
+<li><strong><a href="doctorow-cory.html">Cory Doctorow</a></strong>, <em>The Internet Con: How to Seize the Means of Computation</em> (Verso, 2023) and the "enshittification" essays. Argues that the platform monopolies' lock-in is partly a legal artifact — anti-circumvention law, anti-competitive contracting, the closure of formerly open standards — and that interoperability mandates are the antimonopoly instrument these markets actually need.</li>
+<li><strong>Shoshana Zuboff</strong>, <em>The Age of Surveillance Capitalism</em> (2019). The complementary account from the data side: the platform-monopoly position is held in part through the unilateral collection and exploitation of behavioral data, a regime Zuboff argues has no historical precedent and which classical antitrust was not designed to address.</li>
+</ul>
+<h3>See also</h3>
+<ul>
+<li>See <a href="how-to-tax-the-wealthy.html">How to Tax the Wealthy</a> for the parallel struggle on the tax-and-transfer front, with which most of the contemporary writers above treat antimonopoly as continuous. The political-economy obstacles documented in its closing section — unequal political voice, the income defense industry, organized resistance — apply equally on the antitrust front.</li>
+<li>See <a href="what-is-capitalism.html">What Is Capitalism and Where Does It Come From?</a> for the broader question about market structure of which monopoly is a special case.</li>
+<li>See <a href="post-neoliberal-political-economy.html">Post-neoliberal Political Economy</a> for the contemporary policy turn that has, in different ways, made room for both the antitrust revival and renewed wealth taxation.</li>
+</ul>
+<aside class="sidebar"><h3>Related</h3><ul><li><a href="wu-tim.html">Tim Wu</a></li><li><a href="stiglitz-joseph.html">Joseph Stiglitz</a></li><li><a href="mazzucato-mariana.html">Mariana Mazzucato</a></li><li><a href="galbraith-john-kenneth.html">John Kenneth Galbraith</a></li><li><a href="hacker-jacob.html">Jacob Hacker</a></li><li><a href="pierson-paul.html">Paul Pierson</a></li><li><a href="hofstadter-richard.html">Richard Hofstadter</a></li><li><a href="winters-jeffrey.html">Jeffrey A. Winters</a></li><li><a href="harrington-brooke.html">Brooke Harrington</a></li><li><a href="mayer-jane.html">Jane Mayer</a></li><li><a href="doctorow-cory.html">Cory Doctorow</a></li><li><a href="reich-robert.html">Robert Reich</a></li><li><a href="polanyi-karl.html">Karl Polanyi</a></li><li><a href="how-to-tax-the-wealthy.html">How to Tax the Wealthy</a></li><li><a href="post-neoliberal-political-economy.html">Post-neoliberal Political Economy</a></li><li><a href="what-is-capitalism.html">What Is Capitalism and Where Does It Come From?</a></li><li><a href="welfare-state-under-pressure.html">The Welfare State Under Pressure</a></li></ul><h3>Referenced by</h3><ul><li><a href="doctorow-cory.html">Cory Doctorow</a></li><li><a href="galbraith-john-kenneth.html">John Kenneth Galbraith</a></li><li><a href="hacker-jacob.html">Jacob Hacker</a></li><li><a href="hofstadter-richard.html">Richard Hofstadter</a></li><li><a href="how-to-tax-the-wealthy.html">How to Tax the Wealthy</a></li><li><a href="mazzucato-mariana.html">Mariana Mazzucato</a></li><li><a href="stiglitz-joseph.html">Joseph Stiglitz</a></li><li><a href="winters-jeffrey.html">Jeffrey A. Winters</a></li><li><a href="wu-tim.html">Tim Wu</a></li><li><a href="zuboff-shoshana.html">Shoshana Zuboff</a></li></ul></aside>
+<footer>Type: topic · id: <code>monopoly-and-democracy</code></footer>
+</body></html>
