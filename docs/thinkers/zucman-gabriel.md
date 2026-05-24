@@ -6,7 +6,7 @@ born: 1986
 era: 21st century
 nationality: French
 tags: [economics, political-economy, inequality, taxation, tax-havens]
-related: [saez-zucman, piketty-thomas, stiglitz-joseph, harrington-brooke, winters-jeffrey, how-to-tax-the-wealthy, inequality]
+related: [saez-zucman, piketty-thomas, atkinson-tony, stiglitz-joseph, harrington-brooke, winters-jeffrey, how-to-tax-the-wealthy, inequality]
 influenced_by: [piketty-thomas]
 influenced: []
 ---

@@ -6,8 +6,8 @@ born: 1971
 era: 20th–21st century
 nationality: French
 tags: [economics, political-economy, inequality, history]
-related: [marx-karl, harvey-david, sen-amartya, giridharadas-anand, acemoglu-daron, saez-zucman, zucman-gabriel, george-henry, how-to-tax-the-wealthy, post-neoliberal-political-economy]
-influenced_by: []
+related: [marx-karl, harvey-david, sen-amartya, giridharadas-anand, acemoglu-daron, saez-zucman, zucman-gabriel, atkinson-tony, george-henry, how-to-tax-the-wealthy, post-neoliberal-political-economy]
+influenced_by: [atkinson-tony]
 influenced: []
 ---
 
