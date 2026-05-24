@@ -6,7 +6,7 @@ born: 1972
 era: 21st century
 nationality: American
 tags: [law, technology, antitrust, political-economy]
-related: [zuboff-shoshana, doctorow-cory, brandeis-louis, inequality, monopoly-and-democracy, how-to-tax-the-wealthy]
+related: [zuboff-shoshana, doctorow-cory, brandeis-louis, khan-lina, inequality, monopoly-and-democracy, how-to-tax-the-wealthy]
 influenced_by: [brandeis-louis]
 influenced: []
 ---
