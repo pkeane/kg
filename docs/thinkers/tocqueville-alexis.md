@@ -7,7 +7,7 @@ died: 1859
 era: 19th century
 nationality: French
 tags: [liberalism, democracy, sociology, political-theory]
-related: [mill-js, french-revolution]
+related: [mill-js, french-revolution, taylor-charles, disenchantment-and-re-enchantment]
 influenced_by: [montesquieu, rousseau-jj]
 influenced: [mill-js]
 ---
