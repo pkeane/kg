@@ -5,7 +5,7 @@ name: Steven Levitsky and Daniel Ziblatt
 era: 21st century
 nationality: American
 tags: [political-science, democracy, authoritarianism, comparative-politics]
-related: [hacker-jacob, pierson-paul, bartels-larry, gilens-page, the-rise-of-maga-systems-view, post-neoliberal-politics-in-america]
+related: [hacker-jacob, pierson-paul, bartels-larry, gilens-page, the-rise-of-maga-systems-view, post-neoliberal-politics-in-america, selected-recent-reading]
 influenced_by: []
 influenced: []
 ---

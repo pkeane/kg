@@ -6,7 +6,7 @@ born: 1959
 era: 20th–21st century
 nationality: American
 tags: [political-science, political-economy, inequality, social-democracy, democracy]
-related: [hacker-jacob, reich-robert, putnam-robert, inequality, welfare-state, the-rise-of-maga-systems-view, democratic-socialism-and-scale, systems-theory-and-politics]
+related: [hacker-jacob, reich-robert, putnam-robert, inequality, welfare-state, the-rise-of-maga-systems-view, democratic-socialism-and-scale, systems-theory-and-politics, selected-recent-reading]
 influenced_by: []
 influenced: []
 ---

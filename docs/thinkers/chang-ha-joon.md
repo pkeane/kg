@@ -6,7 +6,7 @@ born: 1963
 era: 20th–21st century
 nationality: South Korean
 tags: [economics, heterodox-economics, development, industrial-policy, political-economy, globalization]
-related: [stiglitz-joseph, polanyi-karl, mattei-clara, keynes-jm, sen-amartya, piketty-thomas, neoliberalism, post-neoliberal-political-economy, what-is-capitalism, economics-as-open-system]
+related: [stiglitz-joseph, polanyi-karl, mattei-clara, keynes-jm, sen-amartya, piketty-thomas, neoliberalism, post-neoliberal-political-economy, what-is-capitalism, economics-as-open-system, selected-recent-reading]
 influenced_by: [polanyi-karl, keynes-jm]
 influenced: []
 ---

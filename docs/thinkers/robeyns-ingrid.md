@@ -6,7 +6,7 @@ born: 1972
 era: 21st century
 nationality: Belgian-Dutch
 tags: [philosophy, ethics, inequality, wealth, distributive-justice]
-related: [sen-amartya, rawls-john, piketty-thomas, how-to-tax-the-wealthy, inequality]
+related: [sen-amartya, rawls-john, piketty-thomas, how-to-tax-the-wealthy, inequality, selected-recent-reading]
 influenced_by: [sen-amartya]
 influenced: []
 ---

@@ -6,7 +6,7 @@ born: 1989
 era: 21st century
 nationality: Pakistani-American
 tags: [law, antitrust, monopoly, regulation, political-economy]
-related: [wu-tim, brandeis-louis, doctorow-cory, zuboff-shoshana, mazzucato-mariana, stiglitz-joseph, monopoly-and-democracy, how-to-tax-the-wealthy]
+related: [wu-tim, brandeis-louis, doctorow-cory, zuboff-shoshana, mazzucato-mariana, stiglitz-joseph, monopoly-and-democracy, how-to-tax-the-wealthy, selected-recent-reading]
 influenced_by: [wu-tim, brandeis-louis]
 influenced: []
 ---

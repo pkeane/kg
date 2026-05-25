@@ -6,7 +6,7 @@ born: 1988
 era: 21st century
 nationality: Italian
 tags: [political-economy, economic-history, heterodox-economics, capitalism, fascism]
-related: [keynes-jm, polanyi-karl, tooze-adam, neoliberalism, marxism, what-is-capitalism]
+related: [keynes-jm, polanyi-karl, tooze-adam, neoliberalism, marxism, what-is-capitalism, selected-recent-reading]
 influenced_by: [marx-karl, polanyi-karl]
 influenced: []
 ---

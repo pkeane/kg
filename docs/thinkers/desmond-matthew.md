@@ -6,7 +6,7 @@ born: 1979
 era: 21st century
 nationality: American
 tags: [sociology, poverty, inequality, american-thought, housing]
-related: [ehrenreich-barbara, kozol-jonathan, stevenson-bryan, alexander-michelle, wilkerson-isabel]
+related: [ehrenreich-barbara, kozol-jonathan, stevenson-bryan, alexander-michelle, wilkerson-isabel, selected-recent-reading]
 influenced_by: []
 influenced: []
 ---
