@@ -4,7 +4,7 @@ type: topic
 name: The 2008 Financial Crisis and Its Fallout
 era: 2007–present
 tags: [american-politics, political-economy, finance, mortgage-crisis, bank-bailouts, tea-party, occupy, trumpism, populism, accountability, race, housing]
-related: [neoliberalism, what-should-carter-have-done-instead, post-neoliberal-political-economy, welfare-state-under-pressure, the-rise-of-maga-systems-view, harvey-david, reich-robert, racial-capitalism]
+related: [neoliberalism, what-should-carter-have-done-instead, post-neoliberal-political-economy, welfare-state-under-pressure, the-rise-of-maga-systems-view, harvey-david, reich-robert, racial-capitalism, occupy-wall-street-and-its-afterlife]
 influenced_by: []
 influenced: []
 ---

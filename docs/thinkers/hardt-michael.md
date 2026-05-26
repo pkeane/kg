@@ -6,7 +6,7 @@ born: 1960
 era: 20th–21st century
 nationality: American
 tags: [political-theory, marxism, globalization, democracy]
-related: [negri-antonio, marx-karl, marxism, jameson-fredric]
+related: [negri-antonio, marx-karl, marxism, jameson-fredric, occupy-wall-street-and-its-afterlife]
 influenced_by: [negri-antonio, marx-karl]
 influenced: []
 ---
