@@ -7,7 +7,7 @@ died: 2021
 era: 20th–21st century
 nationality: Jamaican-American
 tags: [philosophy, political-theory, race, social-contract, justice]
-related: [rawls-john, anderson-elizabeth, west-cornel, crenshaw-kimberle, robinson-cedric, cone-james, du-bois-web, hooks-bell, justice-as-fairness, white-supremacy]
+related: [rawls-john, anderson-elizabeth, west-cornel, crenshaw-kimberle, robinson-cedric, cone-james, du-bois-web, hooks-bell, justice-as-fairness, white-supremacy, forrester-katrina]
 influenced_by: [rawls-john, du-bois-web]
 influenced: []
 ---

@@ -5,7 +5,7 @@ name: Daniel Chandler
 era: 21st century
 nationality: British
 tags: [economics, philosophy, political-theory, liberalism, distributive-justice, taxation]
-related: [rawls-john, sen-amartya, atkinson-tony, piketty-thomas, anderson-elizabeth, mills-charles, robeyns-ingrid, liscow-zachary, how-to-tax-the-wealthy, justice-as-fairness, post-neoliberal-political-economy, selected-recent-reading]
+related: [rawls-john, sen-amartya, atkinson-tony, piketty-thomas, anderson-elizabeth, mills-charles, robeyns-ingrid, liscow-zachary, how-to-tax-the-wealthy, justice-as-fairness, post-neoliberal-political-economy, selected-recent-reading, forrester-katrina]
 influenced_by: [rawls-john, sen-amartya, atkinson-tony]
 influenced: []
 ---
