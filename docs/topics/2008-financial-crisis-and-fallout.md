@@ -4,7 +4,7 @@ type: topic
 name: The 2008 Financial Crisis and Its Fallout
 era: 2007–present
 tags: [american-politics, political-economy, finance, mortgage-crisis, bank-bailouts, tea-party, occupy, trumpism, populism, accountability, race, housing]
-related: [neoliberalism, what-should-carter-have-done-instead, post-neoliberal-political-economy, welfare-state-under-pressure, the-rise-of-maga-systems-view, harvey-david, reich-robert, racial-capitalism, occupy-wall-street-and-its-afterlife]
+related: [neoliberalism, what-should-carter-have-done-instead, post-neoliberal-political-economy, welfare-state-under-pressure, the-rise-of-maga-systems-view, harvey-david, reich-robert, racial-capitalism, occupy-wall-street-and-its-afterlife, post-2008-debates-in-economics]
 influenced_by: []
 influenced: []
 ---
@@ -123,6 +123,7 @@ The annotated bibliography below is organized around the question — who says w
 
 ## See also
 
+- [[post-2008-debates-in-economics]] — the parallel intellectual fallout inside the discipline of economics: saltwater–freshwater, the Minsky and Marx revivals, MMT, Piketty, secular stagnation, the methodological reassessment of DSGE macro
 - [[what-should-carter-have-done-instead]] — the alternative periodization that locates the U.S. neoliberal turn in the late 1970s rather than in 2008
 - [[neoliberalism]] — the policy order that 2008 either broke (Tooze, Stoller, Streeck) or did not break (Mirowski, Crouch)
 - [[post-neoliberal-political-economy]] — the contemporary alternatives literature
