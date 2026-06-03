@@ -6,7 +6,7 @@ born: 1971
 era: 21st century
 nationality: Canadian-British
 tags: [technology, political-economy, journalism, antitrust, capitalism]
-related: [wu-tim, zuboff-shoshana, inequality, pahlka-jennifer, acemoglu-daron, state-capacity-and-technology, monopoly-and-democracy, selected-recent-reading]
+related: [wu-tim, zuboff-shoshana, varoufakis-yanis, inequality, pahlka-jennifer, acemoglu-daron, state-capacity-and-technology, monopoly-and-democracy, selected-recent-reading]
 influenced_by: [wu-tim]
 influenced: []
 ---
