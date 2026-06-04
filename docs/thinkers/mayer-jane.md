@@ -6,7 +6,7 @@ born: 1955
 era: 20th–21st century
 nationality: American
 tags: [journalism, money-in-politics, inequality]
-related: [hacker-jacob, how-to-tax-the-wealthy, inequality]
+related: [hacker-jacob, how-to-tax-the-wealthy, inequality, project-2025, the-rise-of-maga-systems-view]
 influenced_by: []
 influenced: []
 ---
