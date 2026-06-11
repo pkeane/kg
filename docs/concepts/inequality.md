@@ -4,7 +4,7 @@ type: concept
 name: Inequality
 era: ancient–contemporary
 tags: [political-economy, economics, justice, capitalism]
-related: [piketty-thomas, sen-amartya, marx-karl, harvey-david, klein-naomi, giridharadas-anand, rawls-john, welfare-state, racial-capitalism, poverty, caste]
+related: [piketty-thomas, sen-amartya, marx-karl, harvey-david, klein-naomi, giridharadas-anand, rawls-john, welfare-state, racial-capitalism, poverty, caste, what-is-fair]
 influenced_by: []
 influenced: []
 ---

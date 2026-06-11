@@ -4,7 +4,7 @@ type: topic
 name: Contingency and Randomness in History
 era: classical–present
 tags: [history, historiography, philosophy-of-history, contingency, randomness]
-related: [berlin-isaiah, popper-karl, acemoglu-daron, niebuhr-reinhold, marx-karl, hobsbawm-eric, harvey-david, new-history-of-capitalism]
+related: [berlin-isaiah, popper-karl, acemoglu-daron, niebuhr-reinhold, marx-karl, hobsbawm-eric, harvey-david, new-history-of-capitalism, what-is-fair]
 influenced_by: []
 influenced: []
 ---

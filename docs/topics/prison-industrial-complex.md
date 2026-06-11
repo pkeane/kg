@@ -4,7 +4,7 @@ type: topic
 name: The Prison-Industrial Complex
 era: 1970s–present
 tags: [criminal-justice, race, inequality, political-economy, american-thought]
-related: [alexander-michelle, forman-james-jr, stevenson-bryan, davis-angela, mass-incarceration, jim-crow, neurodiversity, racism, racial-capitalism, wells-ida-b, coates-ta-nehisi, foucault-michel]
+related: [alexander-michelle, forman-james-jr, stevenson-bryan, davis-angela, mass-incarceration, jim-crow, neurodiversity, racism, racial-capitalism, wells-ida-b, coates-ta-nehisi, foucault-michel, what-is-fair]
 influenced_by: []
 influenced: []
 ---
