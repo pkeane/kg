@@ -4,7 +4,7 @@ type: topic
 name: What Is "Fair"?
 era: 20th century–present
 tags: [justice, ethics, philosophy, political-theory, psychology, inequality]
-related: [justice-as-fairness, rawls-john, nozick-robert, hayek-fa, dworkin-ronald, sandel-michael, williams-bernard, nagel-thomas, anderson-elizabeth, mass-incarceration, prison-industrial-complex, inequality, poverty, poverty-in-america, contingency-and-randomness-in-history]
+related: [justice-as-fairness, rawls-john, nozick-robert, hayek-fa, dworkin-ronald, sandel-michael, williams-bernard, nagel-thomas, anderson-elizabeth, mass-incarceration, prison-industrial-complex, inequality, poverty, poverty-in-america, contingency-and-randomness-in-history, williams-david-lay]
 influenced_by: []
 influenced: []
 ---

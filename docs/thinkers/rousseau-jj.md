@@ -7,7 +7,7 @@ died: 1778
 era: 18th century
 nationality: Genevan / French
 tags: [social-contract, republicanism, romanticism, political-theory]
-related: [hobbes-thomas, locke-john, social-contract, french-revolution]
+related: [hobbes-thomas, locke-john, social-contract, french-revolution, williams-david-lay]
 influenced_by: [hobbes-thomas, locke-john]
 influenced: [kant-immanuel, french-revolution, marx-karl, romanticism]
 ---
