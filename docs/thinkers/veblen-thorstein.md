@@ -7,9 +7,9 @@ died: 1929
 era: 19th–20th century
 nationality: American
 tags: [political-economy, sociology, economics]
-related: [marx-karl, what-is-capitalism]
+related: [marx-karl, what-is-capitalism, mills-c-wright, wealth-concentration-and-the-power-elite]
 influenced_by: [marx-karl]
-influenced: []
+influenced: [mills-c-wright, lundberg-ferdinand]
 ---
 
 # Thorstein Veblen
