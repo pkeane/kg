@@ -7,7 +7,7 @@ died: 1961
 era: 20th century
 nationality: Swiss
 tags: [psychology, religion, symbolism]
-related: [freud-sigmund, davies-robertson, adler-alfred, von-franz-marie-louise]
+related: [freud-sigmund, davies-robertson, adler-alfred, von-franz-marie-louise, i-ching, east-meets-west]
 influenced_by: [freud-sigmund]
 influenced: [may-rollo, davies-robertson, von-franz-marie-louise]
 ---

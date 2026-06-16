@@ -4,7 +4,7 @@ type: topic
 name: East/West
 era: 19th–21st century
 tags: [philosophy, religion, culture, politics, comparative-thought]
-related: [emerson-rw, thoreau-henry-david, whitman-walt, said-edward, jung-carl, fromm-erich, merton-thomas, huxley-aldous, gandhi-mohandas, tagore-rabindranath, sen-amartya, ambedkar-br, confucius, laozi, zhuangzi, ibn-khaldun, shariati-ali, endo-shusaku, ray-satyajit, james-william, heschel-abraham-joshua, counterculture-origins]
+related: [emerson-rw, thoreau-henry-david, whitman-walt, said-edward, jung-carl, fromm-erich, merton-thomas, huxley-aldous, gandhi-mohandas, tagore-rabindranath, sen-amartya, ambedkar-br, confucius, laozi, zhuangzi, ibn-khaldun, shariati-ali, endo-shusaku, ray-satyajit, james-william, heschel-abraham-joshua, counterculture-origins, i-ching]
 influenced_by: []
 influenced: []
 ---
@@ -35,7 +35,7 @@ The first serious American engagement with Hindu and Buddhist texts came through
 
 [[jung-carl|Jung]]'s engagement with Eastern thought was deeper and more sustained than any other major Western psychologist's, though it was also more idiosyncratic. [[fromm-erich|Fromm]]'s dialogue with D.T. Suzuki produced a more disciplined comparison.
 
-- **[[jung-carl|Carl Jung]]**, *Psychology and the East* (collected essays) and commentary on *The Secret of the Golden Flower* (1929, with Richard Wilhelm) — Jung drew on Tibetan Buddhism, the I Ching, Taoism, and Hindu texts throughout his career, finding in them parallels to his concepts of the collective unconscious, the mandala, and individuation. He also warned Westerners against adopting Eastern practices wholesale, arguing that they needed to work through their own cultural unconscious first — a caution the counterculture mostly ignored.
+- **[[jung-carl|Carl Jung]]**, *Psychology and the East* (collected essays) and commentary on *The Secret of the Golden Flower* (1929, with Richard Wilhelm) — Jung drew on Tibetan Buddhism, the [[i-ching|I Ching]], Taoism, and Hindu texts throughout his career, finding in them parallels to his concepts of the collective unconscious, the mandala, and individuation. He also warned Westerners against adopting Eastern practices wholesale, arguing that they needed to work through their own cultural unconscious first — a caution the counterculture mostly ignored.
 - **[[fromm-erich|Erich Fromm]]**, D.T. Suzuki, and Richard De Martino, *Zen Buddhism and Psychoanalysis* (1960) — a genuinely comparative dialogue: Suzuki presents Zen, Fromm presents psychoanalysis, and they explore the parallels (both aim at liberation from illusion) and the differences (psychoanalysis works through the ego, Zen works around it).
 - **[[james-william|William James]]**, *The Varieties of Religious Experience* (1902) — James took mystical experience seriously as psychological data, regardless of its cultural origin. His pragmatic approach — judge religious experiences by their fruits, not their roots — made cross-cultural comparison possible without requiring theological agreement.
 
