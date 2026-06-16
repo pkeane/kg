@@ -6,7 +6,7 @@ born: 1929
 era: 20th–21st century
 nationality: German
 tags: [critical-theory, frankfurt-school, democracy, liberalism]
-related: [frankfurt-school, kant-immanuel, rawls-john, adorno-theodor, rorty-richard, participatory-budgeting]
+related: [frankfurt-school, kant-immanuel, rawls-john, adorno-theodor, rorty-richard, participatory-budgeting, luhmann-niklas]
 influenced_by: [frankfurt-school, kant-immanuel, marx-karl, adorno-theodor]
 influenced: []
 ---
