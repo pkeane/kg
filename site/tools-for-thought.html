@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><title>Tools for Thought</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+:root { --fg: #2a2520; --muted: #7a7068; --accent: #6b3a2a; --bg: #f5f0e8; --card: #faf8f3; --border: #d8d0c4; }
+body.period-pre-1900 { --bg: #ffffff; --card: #fafafa; --border: #e0e0e0; }
+body.period-1900-1945 { --bg: #f2f7ff; --card: #f9fbff; --border: #c8d6ec; }
+body.period-1946-onward { --bg: #ffffea; --card: #fffff5; --border: #e8e0a8; }
+.period-swatch { display: inline-block; width: .7em; height: .7em; border-radius: 50%; margin-right: .5em; vertical-align: middle; border: 1px solid rgba(0,0,0,.2); }
+.swatch-pre-1900 { background: #ffffff; }
+.swatch-1900-1945 { background: #b8cee8; }
+.swatch-1946-onward { background: #ffe866; }
+.index-section h3.bucket.thinker-pre-1900 { background: #ffffff; padding: .4em .6em; border-left: 3px solid #bbbbbb; }
+.index-section h3.bucket.thinker-1900-1945 { background: #f2f7ff; padding: .4em .6em; border-left: 3px solid #8aa8d0; }
+.index-section h3.bucket.thinker-1946-onward { background: #ffffea; padding: .4em .6em; border-left: 3px solid #d9c34a; }
+* { box-sizing: border-box; }
+html { font-size: 125%; }
+body { font-family: Georgia, 'Iowan Old Style', serif; max-width: 1100px; margin: 2em auto; padding: 0 1.2em; color: var(--fg); background: var(--bg); line-height: 1.55; }
+@media (max-width: 600px) { html { font-size: 110%; } body { margin: 1em auto; } }
+header { border-bottom: 2px solid #2a2520; margin-bottom: 1.5em; padding-bottom: .8em; }
+header a { color: var(--fg); text-decoration: none; }
+header nav { font-size: .9em; color: var(--muted); margin-top: .3em; }
+header nav a { margin-right: .8em; }
+header nav .nav-sep { margin-right: .8em; color: var(--border); }
+h1 { margin: 0; font-size: 1.9em; letter-spacing: -.02em; }
+h2 { margin-top: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: .2em; font-size: 1.25em; }
+h3 { font-size: 1.05em; color: var(--muted); margin-top: 1.4em; }
+a { color: var(--accent); }
+a:hover { text-decoration: none; }
+.meta { color: var(--muted); font-size: .9em; font-style: italic; margin-bottom: 1.2em; }
+.tags { margin: .5em 0 1em; }
+.tag { display: inline-block; font-size: .78em; background: var(--card); border: 1px solid var(--border); padding: .1em .6em; border-radius: 10px; margin-right: .3em; color: var(--muted); text-decoration: none; }
+.tag:hover { border-color: var(--accent); color: var(--accent); }
+.sidebar { background: var(--card); border: 1px solid var(--border); padding: .8em 1.2em; margin: 1.5em 0; border-radius: 4px; font-size: .93em; }
+.sidebar h3 { margin-top: 0; font-size: .8em; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); border: none; }
+.sidebar ul { margin: .3em 0; padding-left: 1.2em; }
+.sidebar ul li { margin: .15em 0; }
+.index-section { margin-bottom: 2em; }
+.index-section h3.bucket { margin: 1.2em 0 .3em; font-size: .95em; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.index-section h3.bucket .bucket-count { text-transform: none; letter-spacing: 0; font-weight: normal; }
+.index-section ul { list-style: none; padding: 0; columns: 2; column-gap: 2em; }
+.index-section ul li { margin: .2em 0; break-inside: avoid; }
+.index-section .dates { color: var(--muted); font-size: .85em; }
+#filter { width: 100%; padding: .5em .7em; border: 1px solid var(--border); border-radius: 4px; font-size: 1em; margin-bottom: 1.5em; background: var(--card); font-family: inherit; }
+.broken { color: #a00; border-bottom: 1px dashed #a00; text-decoration: none; }
+footer { margin-top: 3em; padding-top: 1em; border-top: 1px solid var(--border); color: var(--muted); font-size: .85em; }
+</style>
+</head><body class="">
+<header>
+<a href="index.html"><strong>Knowledge Graph</strong></a>
+<nav><a href="about/">About</a><a href="changelog/">Change Log</a><span class="nav-sep">|</span><a href="index.html#topic">Topics</a><a href="index.html#concept">Concepts</a><a href="index.html#school">Schools & Movements</a><a href="index.html#event">Events</a><a href="thinkers/">Thinkers</a><a href="tags/">Tags</a></nav>
+</header>
+<h1>Tools for Thought</h1>
+<div class="meta">antiquity–present</div>
+<div class="tags"><a class="tag" href="index.html?tag=knowledge-organization">#knowledge-organization</a><a class="tag" href="index.html?tag=memory">#memory</a><a class="tag" href="index.html?tag=hypertext">#hypertext</a><a class="tag" href="index.html?tag=note-taking">#note-taking</a><a class="tag" href="index.html?tag=creativity">#creativity</a><a class="tag" href="index.html?tag=information-science">#information-science</a><a class="tag" href="index.html?tag=intellectual-history">#intellectual-history</a></div>
+
+<p>This page collects the literature on external aids to thinking — the physical, notational, and software systems people have built to extend memory, organize knowledge, and provoke ideas. The category is wide: classical and Renaissance memory arts; commonplace books and the card index; visions of a universal collective memory (the encyclopedia, the "world brain," hypertext, the web); techniques for structuring thought (outlining, mind mapping, concept mapping); generative prompts and constraints (Oblique Strategies, Oulipo, chance operations); and the modern lineage of personal-knowledge-management software and AI notebooks. The phrase "tools for thought" is borrowed from Howard Rheingold's 1985 history of mind-augmenting computing and was revived by Andy Matuschak and Michael Nielsen in a 2019 essay.</p>
+<p>These efforts do not share a single thesis, and they operate at very different scales. Some are private working methods — Niklas <a href="luhmann-niklas.html">Luhmann</a>'s slip-box, an individual's outliner. Some are civilizational infrastructure projects — Paul Otlet's Mundaneum, H. G. Wells's world encyclopedia, the World Wide Web. Some are heuristics for breaking creative deadlock rather than for storing anything. What recurs across them is a small set of ideas: that cognition can be offloaded onto external media (the "extended mind" thesis of Andy Clark and David Chalmers); that knowledge is better organized as a network of cross-references than as a hierarchy (the through-line from Vannevar Bush's associative "trails" to Ted Nelson's hypertext to bidirectional-link note apps); and that a sufficiently complete and well-linked store of recorded knowledge could function as a collective brain.</p>
+<p>The KG you are reading is itself an instance of the genre — a linked, ID-addressed, plain-text knowledge base in the lineage of the Zettelkasten and the modern note-graph apps below. The annotated bibliography is organized roughly from the conceptual frame, through the pre-modern and analog techniques, to the digital and AI-era tools.</p>
+<h2>Annotated bibliography</h2>
+<h3>The idea of thinking with tools</h3>
+<ul>
+<li><strong>Howard Rheingold</strong>, <em>Tools for Thought: The History and Future of Mind-Expanding Technology</em> (1985; revised 2000). A popular history of the people who conceived of computers as instruments for augmenting human intellect rather than for calculation — Babbage, Turing, Bush, Licklider, Engelbart, Kay. The source of the phrase as a category label.</li>
+<li><strong>Vannevar Bush</strong>, "As We May Think" (<em>The Atlantic</em>, July 1945). Proposes the "Memex," a desk-sized device storing a person's books and notes on microfilm and letting the user build associative "trails" linking documents — routinely cited as the conceptual ancestor of hypertext.</li>
+<li><strong>J. C. R. Licklider</strong>, "Man-Computer Symbiosis" (1960). Argues for a partnership in which computers handle routine work so humans can do the thinking, framing the agenda that Engelbart and others pursued.</li>
+<li><strong>Douglas <span class="broken" title="Not yet written">Engelbart</span></strong>, "Augmenting Human Intellect: A Conceptual Framework" (SRI report, 1962), and the 1968 demonstration later called "The Mother of All Demos." Set out a program for raising humanity's "collective IQ" with interactive computing; the demo introduced the mouse, hypertext links, and screen-based collaborative editing.</li>
+<li><strong>Andy Clark</strong> and <strong>David Chalmers</strong>, "The Extended Mind" (<em>Analysis</em> 58, 1998), with Clark, <em>Supersizing the Mind</em> (2008). The philosophical statement that cognitive processes can extend beyond the skull into notebooks, devices, and other external props — the case that a tool for thought is, in a literal sense, part of the thinking.</li>
+<li><strong>Andy Matuschak</strong> and <strong>Michael Nielsen</strong>, "How can we develop transformative tools for thought?" (2019). The essay that revived the phrase for the contemporary software discourse, arguing that most note tools merely store information and that the open problem is designing media that change how their users think.</li>
+</ul>
+<h3>The arts of memory and the combinatorial dream</h3>
+<ul>
+<li><strong>Frances Yates</strong>, <em>The Art of Memory</em> (1966). The history of the classical and Renaissance mnemonic tradition — the "method of loci" or memory palace, in which items to be remembered are placed at imagined locations — through Giordano Bruno and Robert Fludd. The standard scholarly account of memory as a deliberately constructed internal architecture.</li>
+<li><strong>Paolo Rossi</strong>, <em>Logic and the Art of Memory</em> (Italian <em>Clavis Universalis</em>, 1960; English 2000). Traces the line from Ramon Llull's combinatorial wheels (the thirteenth-century <em>Ars Magna</em>, which generated propositions by rotating concentric disks of concepts) through the seventeenth-century projects for a universal language and Leibniz's <em>characteristica universalis</em> — the dream of a notation that would let reasoning be carried out by mechanical combination.</li>
+<li><strong>Walter J. Ong</strong>, <em>Ramus, Method, and the Decay of Dialogue</em> (1958). On Peter Ramus's sixteenth-century dichotomized tables, which organized any subject by repeated binary branching into a printed tree diagram. Ong argues that this spatial, visual method reshaped how knowledge was laid out on the page — an early ancestor of outlining and the tree diagram.</li>
+</ul>
+<h3>Note systems: commonplace books and the card index</h3>
+<ul>
+<li><strong>Ann Blair</strong>, <em>Too Much to Know: Managing Scholarly Information Before the Modern Age</em> (2010). Documents how early modern scholars coped with information overload (1500–1700) through note-taking, reference books, and finding devices — establishing that "too much to read" is not a digital-age complaint. Covers the commonplace book, the practice (formalized in John Locke's <em>A New Method of Making Common-Place-Books</em>, 1706) of copying passages under indexed headings for reuse.</li>
+<li><strong>Markus Krajewski</strong>, <em>Paper Machines: About Cards &amp; Catalogs, 1548–1929</em> (MIT Press, 2011). A history of the card index and library catalog as a "universal paper machine" for storing and recombining discrete units of information — the analog precursor, Krajewski argues, of the stored-program computer.</li>
+<li><strong>Niklas <a href="luhmann-niklas.html">Luhmann</a></strong>, the <em>Zettelkasten</em>. The sociologist's paper card index of roughly 90,000 numbered, cross-referenced slips, which he credited with his output and described in "Kommunikation mit Zettelkästen" (1981) as a communication partner. <strong>Johannes F. K. Schmidt</strong>, "Niklas Luhmann's Card Index: The Fabrication of Serendipity" (2018), is the authoritative study; the index has been digitized by the Niklas Luhmann Archive, Bielefeld.</li>
+<li><strong>Sönke Ahrens</strong>, <em>How to Take Smart Notes</em> (2017). The book that codified Luhmann's slip-box into a method for the digital era and seeded the contemporary "Zettelkasten" movement around tools such as Obsidian and The Archive.</li>
+<li><strong>Beatrice Webb</strong>, <em>My Apprenticeship</em> (1926), appendix on "The Art of Note-Taking." The Fabian social investigator describes recording each observation on a separate sheet so the notes could be physically shuffled and reclassified by different categories — sometimes cited as a proto-database method.</li>
+</ul>
+<h3>The universal encyclopedia and the world brain</h3>
+<ul>
+<li><strong>Denis Diderot</strong> and <strong>Jean le Rond d'Alembert</strong>, <em>Encyclopédie</em> (1751–1772). The Enlightenment encyclopedia whose system of cross-references (<em>renvois</em>) deliberately linked articles to build connections — and to slip controversial arguments past the censors. <strong>Robert Darnton</strong>, <em>The Business of Enlightenment</em> (1979), is the standard history of the project.</li>
+<li><strong>Paul <span class="broken" title="Not yet written">Otlet</span></strong>, <em>Traité de documentation</em> (1934), and the Mundaneum. The Belgian "father of information science" built, with Henri La Fontaine, a card-index universal bibliography of millions of entries, devised the Universal Decimal Classification, and envisioned a networked workstation (the "Mondotheque") for retrieving linked documents at a distance. <strong>Alex Wright</strong>, <em>Cataloging the World: Paul Otlet and the Birth of the Information Age</em> (2014), and the scholarship of <strong>W. Boyd Rayward</strong> recovered the project as an anticipation of the web.</li>
+<li><strong>H. G. <span class="broken" title="Not yet written">Wells</span></strong>, <em>World Brain</em> (1938). A collection of lectures and essays proposing a "Permanent World Encyclopaedia" — a continuously updated, universally accessible synthesis of knowledge that would function as a collective memory and, Wells hoped, a force for peace. Often paired with Otlet and cited as a precursor of Wikipedia.</li>
+<li><strong>Wikipedia</strong> (founded 2001, Jimmy Wales and Larry Sanger). The realized — if unplanned and decentralized — version of the world-encyclopedia idea, built on dense internal cross-linking. Treated in the scholarship as the partial fulfillment of Wells's and Otlet's projects by means neither anticipated.</li>
+</ul>
+<h3>Hypertext and the networked document</h3>
+<ul>
+<li><strong>Ted <span class="broken" title="Not yet written">Nelson</span></strong>, <em>Computer Lib / Dream Machines</em> (1974) and <em>Literary Machines</em> (1981). Nelson coined "hypertext" (c. 1963) and designed Project Xanadu, a universal "docuverse" with two-way links, version control, and "transclusion" (quoting by reference). Xanadu was never completed; Nelson has been a longstanding critic of the web for implementing only one-way, breakable links.</li>
+<li><strong>Tim Berners-Lee</strong>, "Information Management: A Proposal" (CERN, 1989) and <em>Weaving the Web</em> (1999). The design and account of the World Wide Web — a deliberately simple, decentralized hypertext system that succeeded at global scale where the more ambitious Xanadu did not.</li>
+<li><strong>Bill Atkinson / Apple</strong>, HyperCard (1987). A personal hypermedia tool that let non-programmers build linked "stacks" of cards; widely cited as the application that brought hypertext to ordinary users before the web, and as a direct influence on later wiki and card-based note tools.</li>
+</ul>
+<h3>Outlining, branching, and mind mapping</h3>
+<ul>
+<li><strong>Tony Buzan</strong>, <em>The Mind Map Book</em> (with Barry Buzan, 1996), following his BBC series <em>Use Your Head</em> (1974). Popularized "mind mapping" — a radial diagram with a central topic and branching associations. The radial/tree form long predates Buzan (see Ramus above and the Porphyrian tree); Buzan's contribution was the branding and the method.</li>
+<li><strong>Joseph D. Novak</strong> and <strong>D. Bob Gowin</strong>, <em>Learning How to Learn</em> (1984). Introduced "concept mapping" — node-and-labeled-link diagrams of propositions — developed at Cornell from David Ausubel's theory of meaningful learning. Distinct from mind mapping in its emphasis on labeled relationships between concepts (closer to a formal graph).</li>
+<li><strong>Outliners as software.</strong> The outline processor — software for manipulating hierarchically nested text, expanding and collapsing levels — emerged in the 1980s (Dave Winer's ThinkTank and MORE among the first). The outliner treats the hierarchy itself as the thinking tool, in contrast to the network structure of hypertext and note-graphs.</li>
+</ul>
+<h3>Generative constraints: prompts and chance as creative tools</h3>
+<ul>
+<li><strong>Brian <span class="broken" title="Not yet written">Eno</span></strong> and <strong>Peter Schmidt</strong>, <em>Oblique Strategies: Over One Hundred Worthwhile Dilemmas</em> (first edition 1975). A deck of cards, each printed with an aphoristic prompt ("Honour thy error as a hidden intention," "Use an old idea"), drawn at random to break a creative deadlock. Used by Eno in record production; the best-known artifact of the "creativity by constraint" idea.</li>
+<li><strong>Oulipo</strong> (Ouvroir de littérature potentielle, founded 1960 by Raymond Queneau and François Le Lionnais). A workshop devoted to writing under self-imposed formal constraints — Georges Perec's <em>La Disparition</em> (1969), a novel without the letter <em>e</em>; Queneau's <em>Cent mille milliards de poèmes</em> (1961), a combinatorial sonnet machine. The literary case that constraint is generative rather than limiting.</li>
+<li><strong>John Cage</strong>, chance operations. From <em>Music of Changes</em> (1951) onward, Cage used the <em>I Ching</em> to make compositional decisions by chance, treating an external randomizing procedure as a tool for escaping personal taste and habit.</li>
+<li><strong>Edward de Bono</strong>, <em>Lateral Thinking</em> (1967) and <em>Six Thinking Hats</em> (1985). Marketed structured techniques for deliberately shifting modes of thought; de Bono coined the term "lateral thinking."</li>
+<li><strong>Roger von Oech</strong>, <em>A Whack on the Side of the Head</em> (1983) and the Creative Whack Pack card deck. A more explicit commercial parallel to Oblique Strategies — a set of prompt cards intended to dislodge habitual approaches.</li>
+</ul>
+<h3>Modern personal knowledge management and AI notebooks</h3>
+<ul>
+<li><strong>Roam Research</strong> (2019, Conor White-Sullivan) and <strong>Obsidian</strong> (2020). The applications that brought "networked thought" to a wide audience: bidirectional links between notes, a visual graph of the connections, and (in Obsidian) local plain-text Markdown files. The direct software realization of the Zettelkasten/hypertext lineage, and the closest commercial analogue to this KG's structure.</li>
+<li><strong>Logseq</strong>, <strong>Tana</strong>, <strong>Notion</strong>. Adjacent tools spanning outliner-plus-links (Logseq), structured "supertag" databases (Tana), and block-based documents-and-databases (Notion).</li>
+<li><strong>Tiago Forte</strong>, <em>Building a Second Brain</em> (2022). Popularized the "second brain" framing and the PARA and CODE organizing methods for personal knowledge management aimed at a general productivity audience.</li>
+<li><strong>DEVONthink</strong>. A document manager noted for associative "See Also" suggestions that surface related material automatically — an early consumer instance of machine-assisted, rather than manual, cross-linking.</li>
+<li><strong>Google NotebookLM</strong> (launched as "Project Tailwind," 2023; powered by Gemini). An AI notebook grounded only in the user's uploaded sources, answering questions with citations back to those documents; its "Audio Overview" feature (2024) generates a synthetic podcast-style conversation summarizing a set of sources. Represents the shift from tools that link a user's notes to tools that read and converse over them.</li>
+<li><strong>Spaced-repetition systems</strong> — SuperMemo (Piotr Woźniak, from 1987) and Anki (Damien Elmes). <strong>Michael Nielsen</strong>, "Augmenting Long-term Memory" (2018), connects this strand back to the classical art of memory: where the memory palace is a technique, spaced repetition is a tool that schedules review to make remembering reliable. A different kind of external aid — one for retention rather than for organization or generation.</li>
+</ul>
+<aside class="sidebar"><h3>Related</h3><ul><li><a href="luhmann-niklas.html">Niklas Luhmann</a></li><li><a href="systems-theory-and-politics.html">Systems Theory and Politics</a></li></ul><h3>Referenced by</h3><ul><li><a href="luhmann-niklas.html">Niklas Luhmann</a></li></ul></aside>
+<footer>Type: topic · id: <code>tools-for-thought</code></footer>
+</body></html>

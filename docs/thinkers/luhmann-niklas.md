@@ -7,7 +7,7 @@ died: 1998
 era: 20th century
 nationality: German
 tags: [sociology, systems-theory, social-theory, law, communication]
-related: [parsons-talcott, weber-max, habermas-jurgen, teubner-gunther, systems-theory-and-politics]
+related: [parsons-talcott, weber-max, habermas-jurgen, teubner-gunther, systems-theory-and-politics, tools-for-thought]
 influenced_by: [parsons-talcott, weber-max]
 influenced: [teubner-gunther]
 ---
