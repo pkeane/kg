@@ -4,7 +4,7 @@ type: topic
 name: The Afterlife of Occupy Wall Street
 era: 21st century
 tags: [american-politics, movements, inequality, debt, post-financial-crisis, left, populism, organizing]
-related: [graeber-david, klein-naomi, hardt-michael, negri-antonio, sanders-bernie, taylor-astra, taylor-keeanga-yamahtta, jaffe-sarah, piven-frances-fox, gitlin-todd, castells-manuel, kauffman-la, dean-jodi, white-micah, frank-thomas, bray-mark, 2008-financial-crisis-and-fallout, post-neoliberal-political-economy, post-neoliberal-politics-in-america, monopoly-and-democracy, how-to-tax-the-wealthy]
+related: [graeber-david, klein-naomi, hardt-michael, negri-antonio, sanders-bernie, taylor-astra, taylor-keeanga-yamahtta, jaffe-sarah, piven-frances-fox, gitlin-todd, castells-manuel, kauffman-la, dean-jodi, white-micah, frank-thomas, bray-mark, 2008-financial-crisis-and-fallout, post-neoliberal-political-economy, post-neoliberal-politics-in-america, monopoly-and-democracy, how-to-tax-the-wealthy, democratic-socialists-of-america]
 influenced_by: []
 influenced: []
 ---

@@ -6,8 +6,8 @@ born: 1991
 era: 21st century
 nationality: American (Ugandan-born)
 tags: [democratic-socialism, dsa, new-york, electoral-politics, american-left, muslim-american]
-related: [debs-eugene, sanders-bernie, ocasio-cortez-alexandria, democratic-socialism-and-scale, the-rise-of-maga-systems-view, sunkara-bhaskar, blanc-eric]
-influenced_by: [debs-eugene, sanders-bernie]
+related: [debs-eugene, sanders-bernie, ocasio-cortez-alexandria, democratic-socialism-and-scale, democratic-socialists-of-america, the-rise-of-maga-systems-view, sunkara-bhaskar, blanc-eric]
+influenced_by: [debs-eugene, sanders-bernie, democratic-socialists-of-america]
 influenced: []
 ---
 

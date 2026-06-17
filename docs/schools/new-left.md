@@ -6,7 +6,7 @@ era: 20th century (1956–c. 1980)
 tags: [marxism, new-left, political-history, anti-stalinism, student-movement, cold-war]
 related: [thompson-ep, williams-raymond, hall-stuart, hoggart-richard, marcuse-herbert, new-left-review, cultural-studies, civil-rights-movement, king-mlk, fanon-frantz, western-marxism, frankfurt-school, mills-cwright]
 influenced_by: [marxism, marx-karl, gramsci-antonio, frankfurt-school, fanon-frantz]
-influenced: [cultural-studies, new-left-review]
+influenced: [cultural-studies, new-left-review, democratic-socialists-of-america]
 ---
 
 # The New Left
