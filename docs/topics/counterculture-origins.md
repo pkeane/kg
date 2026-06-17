@@ -4,7 +4,7 @@ type: topic
 name: Origins of the 1960s Counterculture
 era: 1940s–1960s
 tags: [culture, politics, american-thought, psychology, music, literature]
-related: [ginsberg-allen, kerouac-jack, ferlinghetti-lawrence, marcuse-herbert, adorno-theodor, fromm-erich, frankfurt-school, sartre-jean-paul, camus-albert, de-beauvoir-simone, existentialism, king-mlk, civil-rights-movement, maslow-abraham, rogers-carl, may-rollo, emerson-rw, thoreau-henry-david, whitman-walt, guthrie-woody, leadbelly, dylan-bob, huxley-aldous, merton-thomas, sontag-susan, laing-rd, baldwin-james, nonviolence]
+related: [ginsberg-allen, kerouac-jack, ferlinghetti-lawrence, marcuse-herbert, adorno-theodor, fromm-erich, frankfurt-school, sartre-jean-paul, camus-albert, de-beauvoir-simone, existentialism, king-mlk, civil-rights-movement, maslow-abraham, rogers-carl, may-rollo, emerson-rw, thoreau-henry-david, whitman-walt, guthrie-woody, leadbelly, dylan-bob, huxley-aldous, merton-thomas, sontag-susan, laing-rd, baldwin-james, nonviolence, affordable-housing-and-the-arts, willis-ellen]
 influenced_by: []
 influenced: []
 ---

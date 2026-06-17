@@ -6,7 +6,7 @@ born: 1935
 era: 20th–21st century
 nationality: British
 tags: [marxism, political-economy, neoliberalism, critique, urbanism]
-related: [marx-karl, marxism, neoliberalism, klein-naomi, piketty-thomas, wood-ellen-meiksins, what-is-capitalism, what-should-carter-have-done-instead]
+related: [marx-karl, marxism, neoliberalism, klein-naomi, piketty-thomas, wood-ellen-meiksins, what-is-capitalism, what-should-carter-have-done-instead, affordable-housing-and-the-arts]
 influenced_by: [marx-karl]
 influenced: []
 ---

@@ -4,7 +4,7 @@ type: topic
 name: The City
 era: 19th–21st century
 tags: [urbanism, architecture, political-theory, inequality, environment]
-related: [jacobs-jane, mumford-lewis, le-corbusier, alexander-christopher, harvey-david, addams-jane, bo-bardi-lina, wright-frank-lloyd, fuller-buckminster, desmond-matthew]
+related: [jacobs-jane, mumford-lewis, le-corbusier, alexander-christopher, harvey-david, addams-jane, bo-bardi-lina, wright-frank-lloyd, fuller-buckminster, desmond-matthew, affordable-housing-and-the-arts]
 influenced_by: []
 influenced: []
 ---
