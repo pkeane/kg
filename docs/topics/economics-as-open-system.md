@@ -4,7 +4,7 @@ type: topic
 name: Economics as Open System
 era: 20th–21st century
 tags: [economics, methodology, philosophy-of-science, systems-theory, uncertainty, post-keynesian]
-related: [keynes-jm, hayek-fa, minsky-hyman, robinson-joan, chang-ha-joon, mazzucato-mariana, krugman-paul, friedman-milton, systems-theory-and-politics, 2008-financial-crisis-and-fallout]
+related: [keynes-jm, hayek-fa, minsky-hyman, robinson-joan, chang-ha-joon, mazzucato-mariana, krugman-paul, friedman-milton, systems-theory-and-politics, 2008-financial-crisis-and-fallout, goods-that-dont-scale]
 influenced_by: []
 influenced: []
 ---

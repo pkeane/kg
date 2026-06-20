@@ -7,7 +7,7 @@ died: 1996
 era: 20th century
 nationality: American
 tags: [economics, keynesianism, post-keynesianism, political-economy, capitalism, financial-instability]
-related: [keynes-jm, robinson-joan, schumpeter-joseph, galbraith-john-kenneth, krugman-paul, stiglitz-joseph, wray-randall, kelton-stephanie, keen-steve, economics-as-open-system, post-2008-debates-in-economics, 2008-financial-crisis-and-fallout]
+related: [keynes-jm, robinson-joan, schumpeter-joseph, galbraith-john-kenneth, krugman-paul, stiglitz-joseph, wray-randall, kelton-stephanie, keen-steve, economics-as-open-system, post-2008-debates-in-economics, 2008-financial-crisis-and-fallout, goods-that-dont-scale]
 influenced_by: [keynes-jm, schumpeter-joseph, leontief-wassily]
 influenced: [wray-randall, keen-steve, kelton-stephanie, tooze-adam]
 ---

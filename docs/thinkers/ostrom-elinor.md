@@ -7,7 +7,7 @@ died: 2012
 era: 20th–21st century
 nationality: American
 tags: [economics, political-science, commons, governance, institutions]
-related: [mazzucato-mariana, polanyi-karl, scott-james-c, what-is-capitalism, post-neoliberal-political-economy]
+related: [mazzucato-mariana, polanyi-karl, scott-james-c, what-is-capitalism, post-neoliberal-political-economy, goods-that-dont-scale]
 influenced_by: []
 influenced: []
 ---
