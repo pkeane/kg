@@ -6,7 +6,7 @@ born: 1943
 era: 20th–21st century
 nationality: American
 tags: [history, american-history, reconstruction, slavery, civil-war]
-related: [douglass-frederick, du-bois-web, wilkerson-isabel, beckert-sven, hofstadter-richard, lepore-jill, stowe-harriet-beecher, jim-crow, white-supremacy, new-history-of-capitalism, selected-recent-reading]
+related: [douglass-frederick, du-bois-web, wilkerson-isabel, beckert-sven, hofstadter-richard, lepore-jill, stowe-harriet-beecher, jim-crow, white-supremacy, new-history-of-capitalism, selected-recent-reading, self-emancipation]
 influenced_by: [du-bois-web, hofstadter-richard]
 influenced: []
 ---
