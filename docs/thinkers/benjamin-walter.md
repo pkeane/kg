@@ -9,7 +9,7 @@ nationality: German-Jewish
 tags: [critical-theory, marxism, jewish-thought, aesthetics, messianism, modernism]
 related: [adorno-theodor, frankfurt-school, marcuse-herbert, brecht-bertolt, scholem-gershom, arendt-hannah, critical-theory, marxism, eagleton-terry, lukacs-gyorgy, existentialist-critique-of-history]
 influenced_by: [marx-karl, kafka-franz, scholem-gershom, brecht-bertolt]
-influenced: [adorno-theodor, arendt-hannah, jameson-fredric, eagleton-terry, cultural-studies]
+influenced: [adorno-theodor, arendt-hannah, jameson-fredric, eagleton-terry, cultural-studies, berger-john]
 ---
 
 # Walter Benjamin

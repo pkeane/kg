@@ -4,7 +4,7 @@ type: school
 name: Cultural Studies
 era: 20th century–present
 tags: [cultural-studies, marxism, media, race, class, gender]
-related: [hall-stuart, williams-raymond, thompson-ep, hoggart-richard, gramsci-antonio, althusser-louis, frankfurt-school, critical-theory, marxism, new-left-review, new-left]
+related: [hall-stuart, williams-raymond, thompson-ep, hoggart-richard, gramsci-antonio, althusser-louis, frankfurt-school, critical-theory, marxism, new-left-review, new-left, berger-john]
 influenced_by: [marx-karl, gramsci-antonio, williams-raymond, thompson-ep, hoggart-richard, althusser-louis]
 influenced: []
 ---

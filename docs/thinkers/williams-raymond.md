@@ -9,7 +9,7 @@ nationality: Welsh
 tags: [cultural-studies, marxism, literary-criticism, new-left, cultural-materialism]
 related: [thompson-ep, hall-stuart, hoggart-richard, hobsbawm-eric, orwell-george, gramsci-antonio, cultural-studies, marxism, leavis-fr, eagleton-terry, new-left-review, new-left]
 influenced_by: [marx-karl, gramsci-antonio, leavis-fr, arnold-matthew]
-influenced: [hall-stuart, cultural-studies, eagleton-terry]
+influenced: [hall-stuart, cultural-studies, eagleton-terry, berger-john]
 ---
 
 # Raymond Williams
