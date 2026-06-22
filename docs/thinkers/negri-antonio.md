@@ -8,7 +8,7 @@ era: 20th–21st century
 nationality: Italian
 tags: [political-theory, marxism, democracy]
 related: [hardt-michael, marx-karl, marxism, spinoza-baruch]
-influenced_by: [marx-karl]
+influenced_by: [marx-karl, spinoza-baruch]
 influenced: [hardt-michael]
 ---
 

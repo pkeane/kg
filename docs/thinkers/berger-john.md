@@ -7,8 +7,8 @@ died: 2017
 era: 20th century
 nationality: English
 tags: [art-criticism, marxism, aesthetics, visual-culture, photography, fiction]
-related: [benjamin-walter, williams-raymond, sontag-susan, barthes-roland, hall-stuart, cultural-studies, marxism]
-influenced_by: [benjamin-walter, marx-karl, williams-raymond]
+related: [benjamin-walter, williams-raymond, sontag-susan, barthes-roland, hall-stuart, cultural-studies, marxism, spinoza-baruch]
+influenced_by: [benjamin-walter, marx-karl, williams-raymond, spinoza-baruch]
 influenced: [hall-stuart, cultural-studies]
 ---
 
