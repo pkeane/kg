@@ -7,7 +7,7 @@ died: 1989
 era: 20th century
 nationality: American
 tags: [socialism, poverty, american-left, democratic-socialism, social-democracy]
-related: [democratic-socialists-of-america, debs-eugene, sanders-bernie, sunkara-bhaskar, social-gospel, how-to-tax-the-wealthy, democratic-socialism-and-scale]
+related: [democratic-socialists-of-america, debs-eugene, sanders-bernie, sunkara-bhaskar, social-gospel, how-to-tax-the-wealthy, democratic-socialism, democratic-socialism-and-scale]
 influenced_by: [debs-eugene, marx-karl]
 influenced: [democratic-socialists-of-america, sanders-bernie]
 ---

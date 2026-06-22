@@ -5,7 +5,7 @@ name: Democratic Socialists of America (DSA)
 era: 20th–21st century (1982–present)
 nationality: American
 tags: [democratic-socialism, socialism, american-left, dsa, electoral-politics, labor]
-related: [democratic-socialism-and-scale, mamdani-zohran, debs-eugene, sanders-bernie, ocasio-cortez-alexandria, sunkara-bhaskar, occupy-wall-street-and-its-afterlife, new-left, marxism, social-gospel]
+related: [democratic-socialism, democratic-socialism-and-scale, mamdani-zohran, debs-eugene, sanders-bernie, ocasio-cortez-alexandria, sunkara-bhaskar, occupy-wall-street-and-its-afterlife, new-left, marxism, social-gospel]
 influenced_by: [harrington-michael, debs-eugene, marxism, new-left]
 influenced: [mamdani-zohran]
 ---

@@ -6,7 +6,7 @@ born: 1989
 era: 21st century
 nationality: American
 tags: [democratic-socialism, american-left, journalism, marxism, publishing]
-related: [democratic-socialists-of-america, harrington-michael, mamdani-zohran, sanders-bernie, democratic-socialism-and-scale, marxism, new-left-review]
+related: [democratic-socialists-of-america, harrington-michael, mamdani-zohran, sanders-bernie, democratic-socialism, democratic-socialism-and-scale, marxism, new-left-review]
 influenced_by: [harrington-michael, marx-karl]
 influenced: []
 ---

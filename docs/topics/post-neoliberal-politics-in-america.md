@@ -4,7 +4,7 @@ type: topic
 name: Post-neoliberal Politics in America
 era: 2008–present
 tags: [political-economy, democracy, authoritarianism, american-politics, progressive-strategy, antitrust, social-democracy, trump-era]
-related: [post-neoliberal-political-economy, welfare-state-under-pressure, democratic-socialism-and-scale, the-rise-of-maga-systems-view, mazzucato-mariana, chang-ha-joon, milanovic-branko, giridharadas-anand, sandel-michael, klein-naomi, hacker-jacob, pierson-paul, tooze-adam, wu-tim, mattei-clara, stiglitz-joseph, piketty-thomas, fisher-mark, occupy-wall-street-and-its-afterlife, project-2025]
+related: [post-neoliberal-political-economy, welfare-state-under-pressure, democratic-socialism, democratic-socialism-and-scale, the-rise-of-maga-systems-view, mazzucato-mariana, chang-ha-joon, milanovic-branko, giridharadas-anand, sandel-michael, klein-naomi, hacker-jacob, pierson-paul, tooze-adam, wu-tim, mattei-clara, stiglitz-joseph, piketty-thomas, fisher-mark, occupy-wall-street-and-its-afterlife, project-2025]
 influenced_by: []
 influenced: []
 ---

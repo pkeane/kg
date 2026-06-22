@@ -4,7 +4,7 @@ type: topic
 name: Democratic Socialism and the Problem of Scale
 era: 21st century
 tags: [democratic-socialism, socialism, american-left, dsa, electoral-politics, labor, political-economy, comparative-politics]
-related: [systems-theory-and-politics, the-rise-of-maga-systems-view, democratic-socialists-of-america, mamdani-zohran, debs-eugene, sanders-bernie, ocasio-cortez-alexandria, sunkara-bhaskar, blanc-eric, mcalevey-jane, han-hahrie, karp-matt, moody-kim, taylor-astra, schlozman-daniel, rosenfeld-sam, levitsky-steven, ziblatt-daniel, skocpol-theda, hacker-jacob, pierson-paul, beer-stafford, marxism, social-gospel, frankfurt-school]
+related: [democratic-socialism, systems-theory-and-politics, the-rise-of-maga-systems-view, democratic-socialists-of-america, mamdani-zohran, debs-eugene, sanders-bernie, ocasio-cortez-alexandria, sunkara-bhaskar, blanc-eric, mcalevey-jane, han-hahrie, karp-matt, moody-kim, taylor-astra, schlozman-daniel, rosenfeld-sam, levitsky-steven, ziblatt-daniel, skocpol-theda, hacker-jacob, pierson-paul, beer-stafford, marxism, social-gospel, frankfurt-school]
 influenced_by: []
 influenced: []
 ---
