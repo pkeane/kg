@@ -4,7 +4,7 @@ type: topic
 name: Participatory Budgeting
 era: 1989–present
 tags: [democracy, political-economy, urban-governance, deliberative-democracy, latin-america]
-related: [dewey-john, arendt-hannah, habermas-jurgen, ostrom-elinor, wright-erik-olin, post-neoliberal-political-economy]
+related: [dewey-john, arendt-hannah, habermas-jurgen, ostrom-elinor, wright-erik-olin, post-neoliberal-political-economy, energy-democracy]
 influenced_by: []
 influenced: []
 ---

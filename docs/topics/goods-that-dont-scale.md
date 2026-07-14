@@ -4,7 +4,7 @@ type: topic
 name: Goods That Don't Scale
 era: 20th–21st century
 tags: [political-economy, economics, collective-action, externalities, labor, finance, platforms, environment, regulation]
-related: [economics-as-open-system, systems-theory-and-politics, what-is-capitalism, welfare-state-under-pressure, post-neoliberal-political-economy, monopoly-and-democracy, how-to-tax-the-wealthy, affordable-housing-and-the-arts, keynes-jm, ostrom-elinor, minsky-hyman, hacker-jacob, zuboff-shoshana, wu-tim, polanyi-karl, hirschman-albert, political-economy, welfare-state, inequality]
+related: [economics-as-open-system, systems-theory-and-politics, what-is-capitalism, welfare-state-under-pressure, post-neoliberal-political-economy, monopoly-and-democracy, how-to-tax-the-wealthy, affordable-housing-and-the-arts, keynes-jm, ostrom-elinor, minsky-hyman, hacker-jacob, zuboff-shoshana, wu-tim, polanyi-karl, hirschman-albert, political-economy, welfare-state, inequality, energy-democracy]
 influenced_by: []
 influenced: []
 ---

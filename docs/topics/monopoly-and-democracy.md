@@ -4,7 +4,7 @@ type: topic
 name: Monopoly and Democracy
 era: 19th century–present
 tags: [political-economy, antitrust, monopoly, democracy, inequality, regulation]
-related: [wu-tim, stiglitz-joseph, mazzucato-mariana, galbraith-john-kenneth, hacker-jacob, pierson-paul, hofstadter-richard, winters-jeffrey, harrington-brooke, mayer-jane, doctorow-cory, reich-robert, polanyi-karl, how-to-tax-the-wealthy, post-neoliberal-political-economy, what-is-capitalism, welfare-state-under-pressure]
+related: [wu-tim, stiglitz-joseph, mazzucato-mariana, galbraith-john-kenneth, hacker-jacob, pierson-paul, hofstadter-richard, winters-jeffrey, harrington-brooke, mayer-jane, doctorow-cory, reich-robert, polanyi-karl, how-to-tax-the-wealthy, post-neoliberal-political-economy, what-is-capitalism, welfare-state-under-pressure, energy-democracy]
 influenced_by: []
 influenced: []
 ---

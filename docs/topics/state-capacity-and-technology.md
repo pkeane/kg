@@ -4,7 +4,7 @@ type: topic
 name: State Capacity and Technology
 era: 1980s–present
 tags: [political-economy, government, technology, democracy, public-administration]
-related: [mazzucato-mariana, pahlka-jennifer, doctorow-cory, zuboff-shoshana, acemoglu-daron, welfare-state-under-pressure, justice-as-fairness, post-neoliberal-political-economy]
+related: [mazzucato-mariana, pahlka-jennifer, doctorow-cory, zuboff-shoshana, acemoglu-daron, welfare-state-under-pressure, justice-as-fairness, post-neoliberal-political-economy, energy-democracy]
 influenced_by: []
 influenced: []
 ---

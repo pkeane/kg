@@ -6,7 +6,7 @@ born: 1977
 era: 21st century
 nationality: Swedish
 tags: [marxism, climate, political-economy, environmentalism, power]
-related: [marx-karl, marxism, harvey-david, klein-naomi, post-neoliberal-political-economy]
+related: [marx-karl, marxism, harvey-david, klein-naomi, post-neoliberal-political-economy, energy-democracy]
 influenced_by: [marx-karl]
 influenced: []
 ---

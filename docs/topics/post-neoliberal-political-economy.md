@@ -4,7 +4,7 @@ type: topic
 name: Post-neoliberal Political Economy
 era: 1990s–present
 tags: [political-economy, capitalism, climate, social-democracy, socialism, inequality, democracy]
-related: [rawls-john, piketty-thomas, mazzucato-mariana, klein-naomi, malm-andreas, wright-erik-olin, ostrom-elinor, hickel-jason, streeck-wolfgang, pollin-robert, fisher-mark, esping-andersen-gosta, sunkara-bhaskar, justice-as-fairness, welfare-state-under-pressure, state-capacity-and-technology, new-history-of-capitalism, participatory-budgeting, what-should-carter-have-done-instead, 2008-financial-crisis-and-fallout]
+related: [rawls-john, piketty-thomas, mazzucato-mariana, klein-naomi, malm-andreas, wright-erik-olin, ostrom-elinor, hickel-jason, streeck-wolfgang, pollin-robert, fisher-mark, esping-andersen-gosta, sunkara-bhaskar, justice-as-fairness, welfare-state-under-pressure, state-capacity-and-technology, new-history-of-capitalism, participatory-budgeting, what-should-carter-have-done-instead, 2008-financial-crisis-and-fallout, energy-democracy]
 influenced_by: []
 influenced: []
 ---
