@@ -7,7 +7,7 @@ died: 2002
 era: 20th century
 nationality: British
 tags: [cybernetics, management, systems-theory, operations-research, political-economy, planning]
-related: [simon-herbert, hayek-fa, polanyi-karl, systems-theory-and-politics, socialist-calculation-debate, democratic-socialism-and-scale]
+related: [simon-herbert, hayek-fa, polanyi-karl, systems-theory-and-politics, socialist-calculation-debate, democratic-socialism-and-scale, meadows-donella, forrester-jay]
 influenced_by: []
 influenced: []
 ---
