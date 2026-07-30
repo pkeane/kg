@@ -7,7 +7,7 @@ died: 2016
 era: 20th century
 nationality: American
 tags: [systems-theory, cybernetics, management, modeling, engineering, computing]
-related: [meadows-donella, beer-stafford, simon-herbert, systems-theory-and-politics, jacobs-jane, goetz-edward]
+related: [meadows-donella, beer-stafford, simon-herbert, systems-theory-and-politics, jacobs-jane, goetz-edward, white-ignorance]
 influenced_by: []
 influenced: [meadows-donella]
 ---

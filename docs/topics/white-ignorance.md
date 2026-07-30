@@ -4,7 +4,7 @@ type: topic
 name: White Ignorance
 era: 19th century–present
 tags: [epistemology, race, philosophy, anti-racism, methodology, testimony]
-related: [mills-charles, baldwin-james, king-mlk, du-bois-web, harding-sandra, situated-knowledge, white-supremacy, meadows-donella, goetz-edward, coates-ta-nehisi, hooks-bell, west-cornel, alexander-michelle, wilkerson-isabel, morrison-toni, ellison-ralph, berry-wendell]
+related: [mills-charles, baldwin-james, king-mlk, du-bois-web, harding-sandra, situated-knowledge, white-supremacy, meadows-donella, goetz-edward, coates-ta-nehisi, hooks-bell, west-cornel, alexander-michelle, wilkerson-isabel, morrison-toni, ellison-ralph, berry-wendell, forrester-jay]
 influenced_by: []
 influenced: []
 ---
@@ -68,6 +68,14 @@ A note on evidence. Claims in this area are frequently asserted about a genre ra
 - **Arnold R. Hirsch**, *Making the Second Ghetto: Race and Housing in Chicago, 1940–1960* (Cambridge, 1983) — the postwar construction of segregation by public action, against the account of it as market outcome or private preference.
 - **[[coates-ta-nehisi|Ta-Nehisi Coates]]**, "The Case for Reparations," *The Atlantic* (June 2014) — North Lawndale as the case study through which redlining and contract buying reached a general readership.
 - **[[goetz-edward|Edward G. Goetz]]**, *New Deal Ruins: Race, Economic Justice, and Public Housing Policy* (Cornell, 2013) — the demolition era counted from the residents' side: more than 250,000 permanently affordable units lost, hundreds of thousands displaced, with a chapter titled "'Negro Removal' Revisited."
+
+### Two accounts of systematic misperception
+
+Mills's formulation and the systems-dynamics tradition make structurally similar claims from literatures that do not cite each other. Mills holds that the racial contract prescribes "an inverted epistemology... producing the ironic outcome that whites will in general be unable to understand the world they have made." [[forrester-jay|Forrester]]'s "Counterintuitive Behavior of Social Systems" (1971) and [[meadows-donella|Meadows]]'s *Thinking in Systems* hold that actors inside a complex system misperceive it in patterned ways and intervene against their own stated goals. Both describe error that is systematic rather than random, produced by position rather than by stupidity.
+
+They differ in one term. Mills's account specifies whose interests the misperception serves and treats its maintenance as motivated; the ignorance is functional for those who hold it. The systems account has no interest variable. Its misperception is symmetric across persons — a property of cognition meeting complexity — and its remedy is better modeling. The consequence is visible in the case below: a framework with no place to ask who benefits from a given boundary has no way to flag a boundary drawn around the people a policy harms.
+
+This also bears on how the two traditions assign responsibility. Meadows's method treats system traps as producing bad outcomes "regardless of the intentions of participants," which directs attention away from blame and toward structure. Mills's essay was written partly against that move: if ignorance is functional and actively maintained, a purely structural account becomes exculpatory. [[baldwin-james|Baldwin]]'s formulation is the sharpest statement of the objection — "it is not permissible that the authors of devastation should also be innocent. It is the innocence which constitutes the crime." The two framings are not two vocabularies for one position.
 
 ### A worked example: the Meadows archive
 
