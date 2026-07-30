@@ -22,6 +22,8 @@ She moved to Dartmouth College in 1972 and taught environmental studies there un
 
 Her most-cited short work is "Leverage Points: Places to Intervene in a System" (Whole Earth, 1997; expanded 1999), which ranks twelve kinds of intervention in ascending order of effectiveness — from adjusting parameters and subsidies, through altering stock-and-flow structures, feedback strengths, information flows, and rules, to changing a system's goals, the paradigm from which the goals arise, and finally the capacity to hold any paradigm lightly. The essay's practical claim is that the interventions policymakers reach for first (numbers, taxes, standards) are the weakest, and that the strongest are the hardest to legitimate politically. *Thinking in Systems*, assembled from an unfinished manuscript by Diana Wright and published in 2008, is the general introduction: stocks and flows, balancing and reinforcing loops, delays, nonlinearity, bounded rationality, and a catalogue of recurring "system traps" (policy resistance, tragedy of the commons, drift to low performance, escalation, success to the successful, addiction, rule beating, seeking the wrong goal).
 
+The same essay endorses [[forrester-jay|Forrester]]'s *Urban Dynamics* (1969) without qualification. Under leverage point 12 she describes it as demonstrating "that subsidized low-income housing is a leverage point. The less of it there is, the better off the city is — even the low-income folks in the city," and characterizes the book's reception as derision of a correct counterintuitive result; the section opens "Those of us who were trained by the great Jay Forrester at MIT." The objection that the model's boundary is the city line, so that residents displaced by demolition leave the simulation, is not addressed. A "Global Citizen" column of February 25, 1999 runs the other way, crediting "active low-cost housing programs" for affordability in California cities with strong growth controls. No published reconciliation of the two positions has been located.
+
 ## Key ideas
 
 - *Overshoot* — a system driven past its carrying capacity by exponential growth combined with feedback delays, followed by decline rather than smooth equilibrium
@@ -37,7 +39,7 @@ Her most-cited short work is "Leverage Points: Places to Intervene in a System" 
 - *The Electronic Oracle: Computer Models and Social Decisions* (1985, with J. M. Robinson)
 - *The Global Citizen* (1991) — selected columns
 - *Beyond the Limits* (1992, with Dennis Meadows and Jørgen Randers)
-- "Leverage Points: Places to Intervene in a System" (1997/1999)
+- "Leverage Points: Places to Intervene in a System" (1997/1999) — full text at the Donella Meadows Project, donellameadows.org
 - *Limits to Growth: The 30-Year Update* (2004, with Dennis Meadows and Jørgen Randers)
 - *Thinking in Systems: A Primer* (2008, ed. Diana Wright)
 
