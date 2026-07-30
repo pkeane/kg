@@ -4,7 +4,7 @@ type: topic
 name: Situated Knowledge and the Embodied Knower
 era: 20th–21st century
 tags: [philosophy, epistemology, phenomenology, feminism, philosophy-of-mind, ai, existentialism]
-related: [de-beauvoir-simone, sartre-jean-paul, kierkegaard-soren, lukacs-gyorgy, hooks-bell, james-william, berry-wendell, heidegger-martin, merleau-ponty-maurice, husserl-edmund, haraway-donna, harding-sandra, collins-patricia-hill, crenshaw-kimberle, spelman-elizabeth, hartsock-nancy, smith-dorothy, dreyfus-hubert, searle-john, putnam-hilary, fodor-jerry, nagel-thomas, chalmers-david, bender-emily, shiva-vandana, scott-james-c, pollan-michael, kruks-sonia, existentialist-critique-of-history, western-marxism]
+related: [de-beauvoir-simone, sartre-jean-paul, kierkegaard-soren, lukacs-gyorgy, hooks-bell, james-william, berry-wendell, heidegger-martin, merleau-ponty-maurice, husserl-edmund, haraway-donna, harding-sandra, collins-patricia-hill, crenshaw-kimberle, spelman-elizabeth, hartsock-nancy, smith-dorothy, dreyfus-hubert, searle-john, putnam-hilary, fodor-jerry, nagel-thomas, chalmers-david, bender-emily, shiva-vandana, scott-james-c, pollan-michael, kruks-sonia, existentialist-critique-of-history, western-marxism, white-ignorance]
 influenced_by: []
 influenced: []
 ---

@@ -7,7 +7,7 @@ died: 2001
 era: 20th century
 nationality: American
 tags: [systems-theory, environmentalism, ecological-economics, modeling, sustainability, journalism]
-related: [forrester-jay, systems-theory-and-politics, beer-stafford, carson-rachel, ostrom-elinor, berry-wendell, monbiot-george, economics-as-open-system, goods-that-dont-scale, goetz-edward, mills-charles]
+related: [forrester-jay, systems-theory-and-politics, beer-stafford, carson-rachel, ostrom-elinor, berry-wendell, monbiot-george, economics-as-open-system, goods-that-dont-scale, goetz-edward, mills-charles, white-ignorance]
 influenced_by: [forrester-jay]
 influenced: []
 ---

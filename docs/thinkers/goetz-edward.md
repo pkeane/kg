@@ -5,7 +5,7 @@ name: Edward G. Goetz
 era: 20th–21st century
 nationality: American
 tags: [urbanism, housing, public-policy, race, poverty, political-economy]
-related: [the-city, forrester-jay, meadows-donella, desmond-matthew, poverty-in-america, white-supremacy, jacobs-jane]
+related: [the-city, forrester-jay, meadows-donella, desmond-matthew, poverty-in-america, white-supremacy, jacobs-jane, white-ignorance]
 influenced_by: []
 influenced: []
 ---

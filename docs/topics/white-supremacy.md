@@ -4,7 +4,7 @@ type: topic
 name: White Supremacy
 era: modern (17th century–present)
 tags: [race, power, history, critique, american-thought]
-related: [racism, racial-capitalism, colonialism, du-bois-web, baldwin-james, morrison-toni, robinson-cedric, caste, jim-crow, mass-incarceration, fanon-frantz, cesaire-aime, wells-ida-b, coates-ta-nehisi, wilkerson-isabel, alexander-michelle, stevenson-bryan, ellison-ralph]
+related: [racism, racial-capitalism, colonialism, du-bois-web, baldwin-james, morrison-toni, robinson-cedric, caste, jim-crow, mass-incarceration, fanon-frantz, cesaire-aime, wells-ida-b, coates-ta-nehisi, wilkerson-isabel, alexander-michelle, stevenson-bryan, ellison-ralph, white-ignorance]
 influenced_by: []
 influenced: []
 ---

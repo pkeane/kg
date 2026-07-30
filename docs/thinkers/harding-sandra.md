@@ -6,7 +6,7 @@ born: 1935
 era: 20th–21st century
 nationality: American
 tags: [feminism, philosophy-of-science, epistemology, standpoint-theory]
-related: [hartsock-nancy, collins-patricia-hill, haraway-donna, smith-dorothy, situated-knowledge]
+related: [hartsock-nancy, collins-patricia-hill, haraway-donna, smith-dorothy, situated-knowledge, white-ignorance]
 influenced_by: [marx-karl, lukacs-gyorgy]
 influenced: [feminism]
 ---
