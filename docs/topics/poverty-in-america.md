@@ -4,7 +4,7 @@ type: topic
 name: Poverty in America
 era: 19th century–present
 tags: [political-economy, inequality, race, american-thought, policy]
-related: [sen-amartya, addams-jane, day-dorothy, berry-wendell, desmond-matthew, ehrenreich-barbara, du-bois-web, king-mlk, wilson-william-julius, kozol-jonathan, inequality, welfare-state, racial-capitalism, racism, mass-incarceration, what-is-fair]
+related: [sen-amartya, addams-jane, day-dorothy, berry-wendell, desmond-matthew, ehrenreich-barbara, du-bois-web, king-mlk, wilson-william-julius, kozol-jonathan, inequality, welfare-state, racial-capitalism, racism, mass-incarceration, what-is-fair, goetz-edward]
 influenced_by: []
 influenced: []
 ---
