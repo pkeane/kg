@@ -4,7 +4,7 @@ type: topic
 name: The City
 era: 19th–21st century
 tags: [urbanism, architecture, political-theory, inequality, environment]
-related: [jacobs-jane, mumford-lewis, le-corbusier, alexander-christopher, harvey-david, addams-jane, bo-bardi-lina, wright-frank-lloyd, fuller-buckminster, desmond-matthew, affordable-housing-and-the-arts]
+related: [jacobs-jane, mumford-lewis, le-corbusier, alexander-christopher, harvey-david, addams-jane, bo-bardi-lina, wright-frank-lloyd, fuller-buckminster, desmond-matthew, affordable-housing-and-the-arts, forrester-jay]
 influenced_by: []
 influenced: []
 ---
@@ -28,6 +28,7 @@ The central confrontation in the twentieth-century debate was between the modern
 - **[[le-corbusier|Le Corbusier]]**, *Towards a New Architecture* (1923) and *The City of To-morrow* (1929) — Le Corbusier's vision of the city as a machine: towers in a park, separated functions, the automobile as the organizing technology. These books shaped twentieth-century planning more than any others, and the critique of them shaped the counter-tradition.
 - **[[mumford-lewis|Lewis Mumford]]**, *The City in History* (1961) — Mumford's magnum opus; a history of the city from Mesopotamia to the twentieth century. Mumford was critical of both modernist gigantism and suburban sprawl, and argued for what he called the "regional city" — decentralized, human-scaled, integrated with its hinterland.
 - **[[wright-frank-lloyd|Frank Lloyd Wright]]**, *The Disappearing City* (1932) and *When Democracy Builds* (1945) — Wright's "Broadacre City" concept: the anti-urban vision, an acre of land per person, the automobile as liberator. The intellectual ancestor of American suburbia, for better and worse.
+- **[[forrester-jay|Jay Forrester]]**, *Urban Dynamics* (1969) — the modeling answer to Jacobs, published eight years after *Death and Life*. A hypothetical city simulated as interacting stocks of housing, business, and population; the conclusions were that low-income housing construction and job training accelerate decline and that slum demolition improves the city's condition. Read alongside Jacobs's claim that a city is "a problem of organized complexity": both sides accept that the city is a system, and disagree about whether such a system can be modeled from above. Gray, Pessel, and Varaiya's "A Critique of Forrester's Model of an Urban Area" (*IEEE Transactions on Systems, Man, and Cybernetics*, 1972) is the technical rebuttal — the model excludes commuting and any effect of the city on the wider society, and its policy conclusions do not survive substitution of real-city data.
 
 ### The social and political life of cities
 
