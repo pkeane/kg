@@ -6,7 +6,7 @@ born: 1963
 era: 20th–21st century
 nationality: British
 tags: [journalism, environmentalism, political-economy, neoliberalism, critique]
-related: [klein-naomi, neoliberalism, harvey-david, bookchin-murray, meadows-donella]
+related: [klein-naomi, neoliberalism, harvey-david, bookchin-murray, meadows-donella, raworth-kate]
 influenced_by: []
 influenced: []
 ---

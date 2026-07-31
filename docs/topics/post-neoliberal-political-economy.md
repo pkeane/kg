@@ -4,7 +4,7 @@ type: topic
 name: Post-neoliberal Political Economy
 era: 1990s–present
 tags: [political-economy, capitalism, climate, social-democracy, socialism, inequality, democracy]
-related: [rawls-john, piketty-thomas, mazzucato-mariana, klein-naomi, malm-andreas, wright-erik-olin, ostrom-elinor, hickel-jason, streeck-wolfgang, pollin-robert, fisher-mark, esping-andersen-gosta, sunkara-bhaskar, justice-as-fairness, welfare-state-under-pressure, state-capacity-and-technology, new-history-of-capitalism, participatory-budgeting, what-should-carter-have-done-instead, 2008-financial-crisis-and-fallout, energy-democracy]
+related: [rawls-john, piketty-thomas, mazzucato-mariana, klein-naomi, malm-andreas, wright-erik-olin, ostrom-elinor, hickel-jason, streeck-wolfgang, pollin-robert, fisher-mark, esping-andersen-gosta, sunkara-bhaskar, justice-as-fairness, welfare-state-under-pressure, state-capacity-and-technology, new-history-of-capitalism, participatory-budgeting, what-should-carter-have-done-instead, 2008-financial-crisis-and-fallout, energy-democracy, raworth-kate]
 influenced_by: []
 influenced: []
 ---
@@ -50,6 +50,7 @@ The proposals discussed under this heading vary in their distance from market ca
 
 - **Jason Hickel**, *Less Is More: How Degrowth Will Save the World* (2020). Hickel argues that high-income economies should plan a contraction of high-throughput sectors — including advertising, fast fashion, private vehicles, and oversized housing — combined with reduced working hours and an expansion of universal public services.
 - **Giorgos Kallis**, *Degrowth* (2018). An academic statement of the position with attention to its intellectual antecedents, including Nicholas Georgescu-Roegen, Ivan Illich, and André Gorz.
+- **[[raworth-kate|Kate Raworth]]**, *Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist* (2017). Sets a social floor of twelve human deprivations inside an ecological ceiling of nine planetary boundaries and treats the ring between them as the target for economic policy. Raworth's position is growth agnosticism rather than degrowth: economies should be designed to meet the social foundation whether or not GDP rises. [[milanovic-branko|Milanović]]'s 2018 review argues that the arithmetic of bringing world incomes to a decent level makes agnosticism untenable.
 
 ### Comparative and institutional frameworks
 

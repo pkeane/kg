@@ -4,7 +4,7 @@ type: topic
 name: What Is Capitalism and Where Does It Come From?
 era: 18th century–present
 tags: [capitalism, political-economy, economic-history, marxism, political-marxism, intellectual-history]
-related: [smith-adam, marx-karl, polanyi-karl, wood-ellen-meiksins, thompson-ep, hayek-fa, mattei-clara, harvey-david, ricardo-david, veblen-thorstein, political-economy, racial-capitalism, new-history-of-capitalism, neoliberalism, marxism, classical-liberalism, alienation]
+related: [smith-adam, marx-karl, polanyi-karl, wood-ellen-meiksins, thompson-ep, hayek-fa, mattei-clara, harvey-david, ricardo-david, veblen-thorstein, political-economy, racial-capitalism, new-history-of-capitalism, neoliberalism, marxism, classical-liberalism, alienation, raworth-kate]
 influenced_by: []
 influenced: []
 ---

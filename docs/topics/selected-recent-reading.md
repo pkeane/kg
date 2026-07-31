@@ -4,7 +4,7 @@ type: topic
 name: Selected Recent Reading
 era: 21st century
 tags: [bibliography, political-economy, inequality, monopoly, democracy]
-related: [desmond-matthew, mazzucato-mariana, mattei-clara, chandler-daniel, chang-ha-joon, saez-zucman, zucman-gabriel, robeyns-ingrid, piketty-thomas, atkinson-tony, wu-tim, doctorow-cory, zuboff-shoshana, levitsky-ziblatt, hacker-jacob, pierson-paul, foner-eric, wilkerson-isabel, acemoglu-daron, tooze-adam, khan-lina, how-to-tax-the-wealthy, monopoly-and-democracy, poverty-in-america, post-neoliberal-political-economy]
+related: [desmond-matthew, mazzucato-mariana, mattei-clara, chandler-daniel, chang-ha-joon, saez-zucman, zucman-gabriel, robeyns-ingrid, piketty-thomas, atkinson-tony, wu-tim, doctorow-cory, zuboff-shoshana, levitsky-ziblatt, hacker-jacob, pierson-paul, foner-eric, wilkerson-isabel, acemoglu-daron, tooze-adam, khan-lina, how-to-tax-the-wealthy, monopoly-and-democracy, poverty-in-america, post-neoliberal-political-economy, raworth-kate]
 influenced_by: []
 influenced: []
 ---
@@ -49,4 +49,5 @@ A short, deliberately narrow shelf of books cited elsewhere in this graph. The c
 ### Economics for general readers
 
 - **[[acemoglu-daron|Daron Acemoglu]] and Simon Johnson**, *Power and Progress: Our Thousand-Year Struggle Over Technology and Prosperity* (PublicAffairs, 2023) — A long-run history of technological change arguing that the broad sharing of productivity gains is a political achievement, not a natural feature of technical progress.
+- **[[raworth-kate|Kate Raworth]]**, *Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist* (Random House Business, 2017) — Seven reframings of introductory economics, organized around replacing the diagrams the discipline teaches with a single one: a social foundation of twelve human deprivations inside an ecological ceiling of nine planetary boundaries. See [[post-neoliberal-political-economy]].
 - **[[tooze-adam|Adam Tooze]]**, *Shutdown: How Covid Shook the World's Economy* (Viking, 2021) — A first-draft history of the global economic response to the pandemic of 2020–21: the Federal Reserve's interventions, the fiscal scale of the rescue, the divergence of recoveries across the rich and the developing world.
