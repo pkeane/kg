@@ -9,7 +9,7 @@ nationality: Canadian-American
 tags: [economics, political-economy, keynesianism, american-thought]
 related: [keynes-jm, veblen-thorstein, krugman-paul, minsky-hyman, welfare-state, monopoly-and-democracy]
 influenced_by: [keynes-jm, veblen-thorstein]
-influenced: []
+influenced: [weber-isabella]
 ---
 
 # John Kenneth Galbraith

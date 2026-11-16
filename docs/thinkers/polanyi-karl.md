@@ -9,7 +9,7 @@ nationality: Hungarian-British
 tags: [political-economy, economic-history, critique-of-capitalism, environmentalism]
 related: [marx-karl, hayek-fa, mattei-clara, wood-ellen-meiksins, hirschman-albert, ostrom-elinor, what-is-capitalism]
 influenced_by: [marx-karl]
-influenced: []
+influenced: [weber-isabella]
 ---
 
 # Karl Polanyi
